@@ -26,7 +26,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install faster-whisper==1.1.1
+      - run: pip install faster-whisper==1.1.1 requests
       - run: python scripts/transcribe.py archive/Meme_Template_bd/media transcripts_${{ matrix.shard }}.json ${{ matrix.shard }} 8
       - uses: actions/upload-artifact@v4
         with:
@@ -56,6 +56,8 @@ jobs:
           with open("archive/Meme_Template_bd/transcripts.json", "w", encoding="utf-8") as f:
               json.dump(dict(sorted(merged.items())), f, ensure_ascii=False, indent=1)
           print(len(merged), "transcripts")
+          if not merged:
+              raise SystemExit("no transcripts produced")
           PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
