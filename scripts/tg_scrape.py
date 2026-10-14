@@ -99,6 +99,10 @@ def main():
             urls = [(u, ".jpg") for u in PHOTO_RE.findall(block)] + [(u, ".mp4") for u in VIDEO_RE.findall(block)]
             for n, (murl, default_ext) in enumerate(urls):
                 name = f"{pid:06d}_{n}{ext_of(murl, default_ext)}"
+                # Files may have been renamed to <id>_<n>__<description>.<ext>; reuse that name
+                renamed = [f for f in os.listdir(media_dir) if f.startswith(f"{pid:06d}_{n}__")]
+                if renamed:
+                    name = renamed[0]
                 path = os.path.join(media_dir, name)
                 if not os.path.exists(path):
                     try:
