@@ -74,6 +74,11 @@ def main():
             subprocess.run(cmd, shell=True, check=False)
 
     new_files = 0
+    renamed = {}
+    catalog_path = os.path.join(out, "catalog.json")
+    if os.path.exists(catalog_path):
+        renamed = {c["key"]: os.path.basename(c["file"]) for c in json.load(open(catalog_path, encoding="utf-8"))}
+
     before = None
     while True:
         url = f"https://t.me/s/{channel}" + (f"?before={before}" if before else "")
@@ -99,10 +104,9 @@ def main():
             urls = [(u, ".jpg") for u in PHOTO_RE.findall(block)] + [(u, ".mp4") for u in VIDEO_RE.findall(block)]
             for n, (murl, default_ext) in enumerate(urls):
                 name = f"{pid:06d}_{n}{ext_of(murl, default_ext)}"
-                # Files may have been renamed to <id>_<n>__<description>.<ext>; reuse that name
-                renamed = [f for f in os.listdir(media_dir) if f.startswith(f"{pid:06d}_{n}__")]
-                if renamed:
-                    name = renamed[0]
+                # Files may have been renamed (see catalog.json); reuse that name
+                if renamed.get(f"{pid:06d}_{n}"):
+                    name = renamed[f"{pid:06d}_{n}"]
                 path = os.path.join(media_dir, name)
                 if not os.path.exists(path):
                     try:
