@@ -1,0 +1,34 @@
+name: Archive Telegram channel
+
+on:
+  push:
+    branches: [claude/pensive-newton-1m0wgi]
+    paths: [scripts/tg_scrape.py, .github/workflows/archive-telegram.yml]
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: Public channel username
+        default: Meme_Template_bd
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scrape
+        run: python scripts/tg_scrape.py "${{ inputs.channel || 'Meme_Template_bd' }}"
+      - name: Commit archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive
+          git diff --cached --quiet && exit 0
+          git commit -m "Archive Telegram channel ${{ inputs.channel || 'Meme_Template_bd' }}"
+          git push
