@@ -32,7 +32,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Scrape (commits progress every 200 files)
         env:
-          CHECKPOINT_CMD: git add archive && git commit -qm "Archive progress" && git push -q
+          CHECKPOINT_CMD: git add archive && git commit -qm "Archive progress" && git pull -q --rebase && git push -q
         run: python scripts/tg_scrape.py "${{ inputs.channel || 'Meme_Template_bd' }}"
       - name: Commit archive
         if: always()
@@ -40,4 +40,5 @@ jobs:
           git add archive
           git diff --cached --quiet && exit 0
           git commit -m "Archive Telegram channel ${{ inputs.channel || 'Meme_Template_bd' }}"
+          git pull --rebase
           git push
