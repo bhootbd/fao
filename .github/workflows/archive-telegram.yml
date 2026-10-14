@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: archive-telegram
+  cancel-in-progress: true
+
 jobs:
   archive:
     runs-on: ubuntu-latest
@@ -22,12 +26,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Scrape
-        run: python scripts/tg_scrape.py "${{ inputs.channel || 'Meme_Template_bd' }}"
-      - name: Commit archive
+      - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Scrape (commits progress every 200 files)
+        env:
+          CHECKPOINT_CMD: git add archive && git commit -qm "Archive progress" && git push -q
+        run: python scripts/tg_scrape.py "${{ inputs.channel || 'Meme_Template_bd' }}"
+      - name: Commit archive
+        if: always()
+        run: |
           git add archive
           git diff --cached --quiet && exit 0
           git commit -m "Archive Telegram channel ${{ inputs.channel || 'Meme_Template_bd' }}"

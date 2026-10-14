@@ -10,12 +10,15 @@ import html
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.request
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
 MAX_BYTES = 95 * 1024 * 1024  # GitHub rejects files over 100 MB
+# Every CHECKPOINT_EVERY new files, save index.json and run $CHECKPOINT_CMD (e.g. git commit + push)
+CHECKPOINT_EVERY = int(os.environ.get("CHECKPOINT_EVERY", "200"))
 
 POST_RE = re.compile(r'<div class="tgme_widget_message_wrap.*?(?=<div class="tgme_widget_message_wrap|\Z)', re.S)
 ID_RE = re.compile(r'data-post="[^/"]+/(\d+)"')
@@ -59,6 +62,18 @@ def main():
     if os.path.exists(index_path):
         index = {p["id"]: p for p in json.load(open(index_path, encoding="utf-8"))}
 
+    def save_index():
+        with open(index_path, "w", encoding="utf-8") as f:
+            json.dump(sorted(index.values(), key=lambda p: p["id"]), f, ensure_ascii=False, indent=1)
+
+    def checkpoint():
+        save_index()
+        cmd = os.environ.get("CHECKPOINT_CMD")
+        if cmd:
+            print(f"checkpoint: {len(index)} posts", flush=True)
+            subprocess.run(cmd, shell=True, check=False)
+
+    new_files = 0
     before = None
     while True:
         url = f"https://t.me/s/{channel}" + (f"?before={before}" if before else "")
@@ -96,12 +111,15 @@ def main():
                         continue
                     with open(path, "wb") as f:
                         f.write(data)
+                    new_files += 1
+                    if new_files % CHECKPOINT_EVERY == 0:
+                        checkpoint()
                 entry["media"].append(f"media/{name}")
             index[pid] = entry
         if not ids:
             break
         oldest = min(ids)
-        print(f"page before={before}: {len(ids)} posts, oldest #{oldest}, total {len(index)}")
+        print(f"page before={before}: {len(ids)} posts, oldest #{oldest}, total {len(index)}", flush=True)
         if before is not None and oldest >= before:
             break
         before = oldest
@@ -109,8 +127,7 @@ def main():
             break
         time.sleep(1)
 
-    with open(index_path, "w", encoding="utf-8") as f:
-        json.dump(sorted(index.values(), key=lambda p: p["id"]), f, ensure_ascii=False, indent=1)
+    save_index()
     print(f"done: {len(index)} posts in {out}")
 
 
