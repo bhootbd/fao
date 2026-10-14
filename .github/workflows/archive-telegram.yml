@@ -30,8 +30,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - name: Scrape (commits progress every 200 files)
+      - name: Scrape (commits progress every 50 files)
         env:
+          CHECKPOINT_EVERY: "50"
           CHECKPOINT_CMD: git add archive && git commit -qm "Archive progress" && git pull -q --rebase && git push -q
         run: python scripts/tg_scrape.py "${{ inputs.channel || 'Meme_Template_bd' }}"
       - name: Commit archive
