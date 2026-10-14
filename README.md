@@ -15,3 +15,14 @@ Locally: `python scripts/tg_scrape.py Meme_Template_bd`
 Limitations: documents/files posted as attachments aren't exposed by the web
 preview (they're listed under `documents_not_downloadable`), and files over 95 MB
 are skipped because of GitHub's file size limit.
+
+## Template catalog
+
+Every file in `media/` has a descriptive name, and `catalog.json` has one entry per file:
+`key` (`<post id>_<n>`), `file`, `link` to the Telegram post, `caption`, `title`, `who` (only when
+the caption names someone), `what_happens`, `key_line` (short spoken line, dialogue clips only),
+`audio`, `emotion`, `use_when` (meme scenarios it fits), `tags` and `note`.
+
+To find a template, search `catalog.json` for a scenario, emotion or tag, or ask Claude with the
+catalog. `transcripts.json` holds machine transcripts for dialogue clips (music and song clips
+are left empty). `001906_0.mp4` is a corrupt file and is not catalogued.

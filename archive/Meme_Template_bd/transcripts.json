@@ -67,12 +67,14 @@
  "000013_4": {
   "language": "hi",
   "language_probability": 0.68,
-  "text": "कुछ भी करें"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000022_0": {
   "language": "en",
   "language_probability": 0.71,
-  "text": "I take it closer to my"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000023_0": {
   "language": "en",
@@ -87,27 +89,32 @@
  "000023_2": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000023_3": {
   "language": "fr",
   "language_probability": 0.84,
-  "text": "J'suis trop loin pour toi"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000023_4": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "When you feel it's hopeless, when you think that you're lost Oh, I will take your hand and we'll rise up from the dust Oh, we will rise up in burdens, yeah, but we just keep"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000028_0": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "Right for you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000028_1": {
   "language": "hi",
   "language_probability": 0.91,
-  "text": "जिस दूनदता हूं मैं हर कहीं जो गभी मिली मुझे है नहीं मुझे जित के प्यार पर वो यकी वो लड़की है कहां"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000028_2": {
   "language": "en",
@@ -117,32 +124,38 @@
  "000028_3": {
   "language": "hi",
   "language_probability": 0.51,
-  "text": "तुम से मिलके दिल्का है जो हाल क्या कहें हो गया है कैसा ये कमार क्या कहें तुम से मिलके दिल्का है जो हाल क्या कहें हो गया है कैसा ये कमार क्या कहें"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000028_4": {
   "language": "hi",
   "language_probability": 0.9,
-  "text": "लिक्ता खुदा का गोईने एक इरादा है चर्चादा है लिक्ता खुदा का गोईने ..."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000033_0": {
   "language": "hi",
   "language_probability": 0.73,
-  "text": "बलं पिछ गारी जब तुम दे हुँ।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000033_1": {
   "language": "nn",
   "language_probability": 0.54,
-  "text": "СПОКОЙНАЯ МУЗЫКА"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000033_2": {
   "language": "tr",
   "language_probability": 0.93,
-  "text": "İnan uçuyor yıldızlara müfteder bayan Harmanım, baba nerede çarşafım Gördüğüm bu paketler benim dermanım Hoppa yavaşça açıldı fermanım Sakın kaçma buraya gel la kezbanım Adana çocuğu aga şerrimin delisi Olay büyük kardeş mevzu kendisi"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000033_3": {
   "language": "tr",
   "language_probability": 0.72,
-  "text": "Altyazı M.K."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000033_4": {
   "language": "hi",
@@ -172,27 +185,32 @@
  "000033_9": {
   "language": "en",
   "language_probability": 0.91,
-  "text": "Never need a bitch. I'm what a bitch needs. I've been dodging death in the six-speed"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_0": {
   "language": "tr",
   "language_probability": 0.87,
-  "text": "İnan, uçuyor yıldızlara müfteder bayan Harmanım, baba nerede çarşafım Gördüğüm bu paketler benim dermanım Hop gel la kezbanım Adana çocuğu aga şehrimin delisi"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_1": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_2": {
   "language": "tr",
   "language_probability": 0.75,
-  "text": "Altyazı M.K."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_3": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Buildings that I was up in in front of. At a funeral? Welcome to San Andreas, I'm CJ. At a funeral? Landed in the heinous, gangbangers in cold heat. And lost Santos' neighbors get no sleep. Even with anybody competing, even police. Oh, keepin' the green rag with rag rings. Last with the green rag shot, that's me. Stayin' chaste-"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_4": {
   "language": "en",
@@ -202,27 +220,32 @@
  "000043_5": {
   "language": "tr",
   "language_probability": 0.96,
-  "text": "Bana zirveden selam, durmak çok komik, atlamaya devam Yok bundan sonra size sigara filan, uçuyor yıldızlara müptezel bayan Harmanım, baba nerede çarşafım? Gördü cella kezbanım Adana çocuğu aga şehrimin delisi, olay büyük kardeş mevzu kendisi Plaka 0-1 korkumu tümle, yazmak için cıbana verserleri peşin satıyoruz Bu yüzden babamın cüzdanını çalıyorum o neşe"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_6": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "I PURE BREAD, I PURE BREAD, I PURE, I PURE BREAD, I PURE BREAD"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_7": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "I love it, I get more"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_8": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "I feel like Shah Rukh Khan, yeah I feel like Shah Rukh Khan 20,000 fans on my lawn, I can never do no wrong Running up from Bombay to Milan See me when you turn your TV on, yeah I feel like Shah Rukh Khan"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000043_9": {
   "language": "tr",
   "language_probability": 0.98,
-  "text": "Bize sigara filan, uçuyor yıldızlara müfteder baya Armanım, baba nerede çarşafın? Gördüğüm baya başça açıldı fermanım Zaten kaçma buraya gel lan kezbanım Çarşafın, zaten kaçma buraya gel lan kezbanım"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000053_0": {
   "language": "en",
@@ -247,27 +270,32 @@
  "000116_1": {
   "language": "pa",
   "language_probability": 0.6,
-  "text": "दुलुभ्भा जिसने गायल हुआ मैं । उस पल से इस में नैणादा क्या कशूर बे कसूर बे कसूर नैणादा क्या कशूर बे कसूर बे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000116_2": {
   "language": "ta",
   "language_probability": 0.33,
-  "text": "செந்துடி சகீஷா பாதிக்கலந்தர் தமாத்தம் மர்த்துக்கொண்டு"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000116_3": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000116_4": {
   "language": "en",
   "language_probability": 0.36,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000116_5": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000116_6": {
   "language": "en",
@@ -282,12 +310,14 @@
  "000116_8": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000116_9": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "What's up?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000126_0": {
   "language": "te",
@@ -297,7 +327,8 @@
  "000126_1": {
   "language": "en",
   "language_probability": 0.72,
-  "text": "and one more time for i go high up i was taking"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000126_2": {
   "language": "en",
@@ -307,7 +338,8 @@
  "000126_3": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "All right"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000126_4": {
   "language": "en",
@@ -317,17 +349,20 @@
  "000126_5": {
   "language": "en",
   "language_probability": 0.55,
-  "text": "I'm walking my flow with the lights down. Convicts got the whole thing packed now. Stephanie's love the more you open the trap now. I feel it, darling, trap now. Ooh, I feel it, baby, trap now. I'm a boy, when I put the lights down. Honey, I'm a boy."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000126_6": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "If I tried it If I tried it, baby"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000126_7": {
   "language": "en",
   "language_probability": 0.94,
-  "text": "Dancing's what makes me whole"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000126_8": {
   "language": "en",
@@ -337,17 +372,20 @@
  "000126_9": {
   "language": "tr",
   "language_probability": 0.96,
-  "text": "SES VER ADANA ZİR VEDEN SELAM DURMAK YOK O GOMİYİ PASLAMAYA DEVAM YOK SONDAN SONRA SİZE SİGARA FİLAN UÇUYOR YILDIZLARA MÜKTEDER BAYAN Harmanım, baba nerede çarşafım Gördüğüm bu paketler benim dermanım Hoppa yavaşça açıldı fermanım Sakın kaçma buraya gel la kezbanım Adana çocuğu aga şerrimin delisi Olay büyük kardeş mevzu kendisi Yak yemeye başlıyoruz Ben yazınca mı go neşemiz yeriz"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000136_0": {
   "language": "tr",
   "language_probability": 0.96,
-  "text": "Bana zirveden selam, durmak çok komik, atlamaya devam Yok bundan sonra size sigara filan, uçuyor yıldızlara müptezel bayan Harmanım, baba nerede çarşafım? Gördü cella kezbanım Adana çocuğu aga şehrimin delisi, olay büyük kardeş mevzu kendisi Plaka 0-1 korkumu tümle, yazmak için cıbana verserleri peşin satıyoruz Bu yüzden babamın cüzdanını çalıyorum o neşe"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000136_1": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Yeah"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000136_2": {
   "language": "en",
@@ -357,17 +395,20 @@
  "000136_3": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "What?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000136_4": {
   "language": "ko",
   "language_probability": 0.31,
-  "text": "Peek-A-Bum"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000136_5": {
   "language": "tr",
   "language_probability": 0.94,
-  "text": "Ses ver Adana, zirveden selam Durmak yok, o mey patlamaya devam Yok bundan sonra size sigara falan Uçuyor yıldızlara müptezel bayan Harmanım, baba nerede çarşafım Gördüğüm bu paketler benim dermanım Hoppa yavaşça açın delisi Olay büyük kardeş mevzu kendisiyiz Akşam olunca dayak yemeye başlıyorum"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000136_6": {
   "language": "en",
@@ -377,17 +418,20 @@
  "000136_7": {
   "language": "en",
   "language_probability": 0.37,
-  "text": "BAD BAD BAD BAD BOY"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000136_8": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Let's have some Ronakshana, let's have some party now, let's have some Raziki this, and we twist, we twist"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000136_9": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "I"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000146_0": {
   "language": "en",
@@ -397,7 +441,8 @@
  "000146_1": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "You said no, no, no, I said no, no, no, no You say take me home, I said don't perignon You said no, no, no, I said no, no, no, no No, no, no, no"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000146_2": {
   "language": "en",
@@ -407,22 +452,26 @@
  "000146_3": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "Of course, of course Go, hit me, go with it Come to the back Go, hit me, go with it VIP Go, hit me, go with it Drinks on me Go, hit me, see what you're drinking Go, hit me, go, hit me, go"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000146_4": {
   "language": "en",
   "language_probability": 0.4,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000146_5": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000146_6": {
   "language": "en",
   "language_probability": 0.36,
-  "text": "Over the top, oh, he's on me, he's on me, he's on me, oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000146_7": {
   "language": "en",
@@ -447,17 +496,20 @@
  "000156_1": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "I wish that was coming to you, I'd give my life on you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000156_2": {
   "language": "zh",
   "language_probability": 0.99,
-  "text": "緊緊擁抱無處可逃一吻天荒 永遠不會凋謝的話 一轉眼忘了世界丟了感覺 黑了世界 再逞強再瘋狂也會傷"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000156_3": {
   "language": "en",
   "language_probability": 0.38,
-  "text": "Thank you for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000156_4": {
   "language": "en",
@@ -472,7 +524,8 @@
  "000156_6": {
   "language": "cs",
   "language_probability": 0.14,
-  "text": "A my bych šaškory nám! A my bych šaškory nám! A my bych šaškory nám!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000156_7": {
   "language": "en",
@@ -492,7 +545,8 @@
  "000166_0": {
   "language": "ur",
   "language_probability": 0.51,
-  "text": "جھوٹ ہے تو مجھ کو نہ بتا"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000166_1": {
   "language": "en",
@@ -502,32 +556,38 @@
  "000166_2": {
   "language": "bn",
   "language_probability": 0.93,
-  "text": "ఆరూ కాలినా దాలి నునా ത్మ� వ� ఇ �Yes వBir మమా క్ఎనా వ�KS కెతితా వూచిం మూచిడా包括 త్లమథ వూటా హఇం go"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000166_3": {
   "language": "bn",
   "language_probability": 0.8,
-  "text": "safer improve your health"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000166_4": {
   "language": "ur",
   "language_probability": 0.64,
-  "text": "ہماری جھوٹ ہے تو مجھ کو نہ بتا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000166_5": {
   "language": "ur",
   "language_probability": 0.73,
-  "text": "تیرے بچ میری جادونا جازر"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000166_6": {
   "language": "hi",
   "language_probability": 0.38,
-  "text": "कैसे जाओ मैं तो आज तू कहीं से मलने मेरा दल कहीं क्या ये जीना अब तो आज तू कहीं से मलने मेरी मुझको"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000166_7": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Why"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000166_8": {
   "language": "hi",
@@ -542,17 +602,20 @@
  "000176_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Hey, hey, hey!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000176_1": {
   "language": "en",
   "language_probability": 0.25,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000176_2": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "my last made me feel like i would never try again but when i saw you i felt something i never felt come closer i'll give you all my love if you treat me right baby i'll give you everything my last made me feel like i would never try again but when i saw you i felt something i never"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000176_3": {
   "language": "en",
@@ -577,12 +640,14 @@
  "000176_7": {
   "language": "en",
   "language_probability": 0.34,
-  "text": "you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000176_8": {
   "language": "ur",
   "language_probability": 0.6,
-  "text": "زندہ ہوں اے زندگی بن تیرے مند درد ہی درد باقی"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000176_9": {
   "language": "en",
@@ -617,17 +682,20 @@
  "000186_5": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "Yeah"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000186_6": {
   "language": "en",
   "language_probability": 0.26,
-  "text": "How can I give up hope for you? At least come to meet me from somewhere My heart is somewhere At least come to meet me from somewhere"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000186_7": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000186_8": {
   "language": "en",
@@ -747,22 +815,26 @@
  "000620_0": {
   "language": "ru",
   "language_probability": 0.82,
-  "text": "Как дамба, правда назад Чёрный каскад, вижу твой взгляд Степь многояр, мог тебя взять Но ты не моя"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000622_0": {
   "language": "bn",
   "language_probability": 0.79,
-  "text": "तिरस्त animate"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000622_1": {
   "language": "bn",
   "language_probability": 0.8,
-  "text": "বূু  jobbarążৎ iveryে 서도 otras nothing else"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000625_0": {
   "language": "bn",
   "language_probability": 0.94,
-  "text": "अमे हाईते दू देन परे मरवो। आगे मरले की खोटी। बूझलाम ना याक्रोती। अमार ग़रेरो रमण, जानो काल ना गिनी।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000628_0": {
   "language": "bn",
@@ -772,17 +844,20 @@
  "000629_0": {
   "language": "bn",
   "language_probability": 0.85,
-  "text": "gång�Вы���  efficience  ﹈ ﹈ ﹈ﭒ � individuals"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000630_0": {
   "language": "en",
   "language_probability": 0.79,
-  "text": "was taken"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000632_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000633_0": {
   "language": "en",
@@ -792,7 +867,8 @@
  "000635_0": {
   "language": "en",
   "language_probability": 0.88,
-  "text": "Yeah I feel like Shah Rukh Khan, yeah I feel like Shah Rukh Khan 20,000 fans on my lawn, I can never do no wrong Yeah, world in my palms, knew I was the greatest all along Yeah I feel like Shah Rukh Khan, yeah I feel like Shah Rukh Khan 20,000 fans on my lawn, I can never do no wrong Running off from Bobby to Milan, see me when you turn your TV on Yeah I feel like Shah Rukh Khan"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000636_0": {
   "language": "en",
@@ -807,7 +883,8 @@
  "000638_0": {
   "language": "en",
   "language_probability": 0.89,
-  "text": "Bitch, I've been dodging death in the sixties"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000639_0": {
   "language": "ur",
@@ -837,7 +914,8 @@
  "000648_0": {
   "language": "en",
   "language_probability": 0.34,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000649_0": {
   "language": "bn",
@@ -867,7 +945,8 @@
  "000657_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000657_1": {
   "language": "en",
@@ -877,27 +956,32 @@
  "000657_2": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Oh Allah, the Almighty, Allahu Allah Take me and guide me, Allahu Allah Go to your love and mercy, Allahu Allah Ya Allah"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000661_0": {
   "language": "ko",
   "language_probability": 0.48,
-  "text": "이 영상은 유료광고를 포함하고 있습니다."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000662_0": {
   "language": "en",
   "language_probability": 0.94,
-  "text": "Let's go We see the hype outside right from the house Take it straight from outside straight to the couch We put the mic outside edit shit out You let in the skies outside we run in this couch Ain't no controlling the game. I got that's over my veins cuz that what I believe She drew a lot of the bourbon. I see from the street We got control of the flows and we heard it your way will draw the flood in a drought Heard it your hood outside. We added some rounds We having the goods outside move it in and out You let in the skies outside we run in this couch"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000663_0": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000664_0": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000664_1": {
   "language": "hi",
@@ -907,12 +991,14 @@
  "000664_2": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "Hey, hey, hey"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000667_0": {
   "language": "hi",
   "language_probability": 0.65,
-  "text": "तडब तडब के इस दिल से आह निकलती रही। मुझको सजादी प्यार की, ऐसा क्या गुणा किया, तो लूट गए, हां लूट गए। तडब तडब के इस दिल से आह निकलती रही।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000668_0": {
   "language": "en",
@@ -942,7 +1028,8 @@
  "000670_3": {
   "language": "bn",
   "language_probability": 0.94,
-  "text": "me ki me ga"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000670_4": {
   "language": "en",
@@ -952,7 +1039,8 @@
  "000675_0": {
   "language": "ur",
   "language_probability": 0.61,
-  "text": "اوہ مہرے مہرمہ بھی ہے دعا کچھ بھی"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000675_1": {
   "language": "en",
@@ -962,12 +1050,14 @@
  "000675_2": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "This is how a killer goes to murder, murder on you, ho! Joker, Stagger, the Joker, the back-and-forth, that's the path of maniacs, okay?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000681_0": {
   "language": "ar",
   "language_probability": 0.84,
-  "text": "يا مرحبا"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000682_0": {
   "language": "en",
@@ -982,27 +1072,32 @@
  "000702_0": {
   "language": "en",
   "language_probability": 0.75,
-  "text": "Don't rush, slow touch, brown on white, like I go country, now I run by, we can go bust, eye for eye, we can lose trust"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000702_1": {
   "language": "en",
   "language_probability": 0.75,
-  "text": "Don't rush, slow touch, brown on white, like I go country, now I run by, we can go bust, eye for eye, we can lose trust"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000703_0": {
   "language": "hi",
   "language_probability": 0.32,
-  "text": "तु जाने ना ने ना"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000705_0": {
   "language": "bn",
   "language_probability": 0.95,
-  "text": "এদਹ�anting লক়ে আSTE ই� Immer পালিআরা যাার পুা আডবন� Bene painters Majority denture"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000706_0": {
   "language": "sa",
   "language_probability": 0.29,
-  "text": "Kuch reisi lagan, issi namne me hain, ye nam aara"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000707_0": {
   "language": "en",
@@ -1012,32 +1107,38 @@
  "000708_0": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000708_1": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000710_0": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "Like too many questions, you must think I trust you Yeah, you searching for answers, I do not know nothing"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000734_0": {
   "language": "en",
   "language_probability": 0.94,
-  "text": "Relax and take notes while I take tokes of the marijuana smoke For you and a chump, gun smoke, gun smoke Biggie smoke for Mayor, the rock slayer, the hokalaya Motherfuckers say your prayers, Hail Mary full of grace Smack the bitch in the face, take her Gucci bag Hannah North face off her back, jab her if she act Funny with the money, oh you got me mistaken honey I don't wanna rape ya, I just want the paper The pizza, the pizza, I'm not like the rapers Who's the one you're calling Mr. Macho? Mr. Macho, Mr. Macho, I know so much about you You're making too much, you're making too much Mr. Macho, Mr. Macho, I know so much about you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000735_0": {
   "language": "bn",
   "language_probability": 0.89,
-  "text": "কি঳াবববলাই কাসিয কবালানব এএ আপে পে জূ়ালায এ"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000736_0": {
   "language": "en",
   "language_probability": 0.69,
-  "text": "Yeah"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000736_1": {
   "language": "en",
@@ -1072,17 +1173,20 @@
  "000744_0": {
   "language": "en",
   "language_probability": 0.9,
-  "text": "Make the stars look like they're not shinin' Her hair clean without her tryin' She's so beautiful"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000745_0": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000746_0": {
   "language": "hi",
   "language_probability": 0.29,
-  "text": "जायना भालो बाजाँ तुम भाजाँ"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000747_0": {
   "language": "hi",
@@ -1097,7 +1201,8 @@
  "000749_0": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000750_0": {
   "language": "en",
@@ -1112,12 +1217,14 @@
  "000752_0": {
   "language": "en",
   "language_probability": 0.54,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000753_0": {
   "language": "ur",
   "language_probability": 0.5,
-  "text": "جھوٹ ہے تو مجھ کو نہ بتا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000754_0": {
   "language": "en",
@@ -1127,32 +1234,38 @@
  "000755_0": {
   "language": "ur",
   "language_probability": 0.48,
-  "text": "تیرے نظروں میں ہے تیرے سکھنے تیرے سکھنوں میں ہے ناہازی مجھے لگتا ہے کہ باتیں جلدی ہوتی مجھوں کی انسان ہو یا نہ ہو"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000756_0": {
   "language": "en",
   "language_probability": 0.69,
-  "text": "Thanks for watching."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000757_0": {
   "language": "en",
   "language_probability": 0.55,
-  "text": "Ah"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000758_0": {
   "language": "te",
   "language_probability": 0.76,
-  "text": "కాంర టోలు త్లాని క్లా కాంర తోల్ పిల్ అధ్గ్లి కోలుడి ఏందు కోలు కాంర పిల్ నంద్ వార తోలు ఆనిక్లి కాండ్ కలోని కాండి కోలు కమపి�"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000759_0": {
   "language": "hi",
   "language_probability": 0.92,
-  "text": "आप जाओ, आप काम करो, आप काम करो"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000760_0": {
   "language": "hi",
   "language_probability": 0.88,
-  "text": "ने जी चर्ष करे मैंको पस्टु sytuुडrit!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000769_0": {
   "language": "en",
@@ -1162,27 +1275,32 @@
  "000774_0": {
   "language": "hi",
   "language_probability": 0.57,
-  "text": "त्रे नीले निले नायनों से शब नम पेलूं �� त्रोने का Daily"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000779_0": {
   "language": "hi",
   "language_probability": 0.35,
-  "text": "लबूतर जा जा जा लबूतर जा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000780_0": {
   "language": "bn",
   "language_probability": 0.99,
-  "text": "ටත සෂලය ලිගැමින්න්බාර්නමි? තමක් සඳන්වන්බාර්නාමි!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000781_0": {
   "language": "hi",
   "language_probability": 0.24,
-  "text": "वाइ रो ना वाइ रो सासा अच्यो दिरा मर बाबा सासा थाइ तो भाइ ने रांदर बाबा नाए हैं तारा इप हुसे बाबा हरने कुछ तुवेत्था अच्यो दिरा मर सासा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000781_1": {
   "language": "hi",
   "language_probability": 0.24,
-  "text": "बाइरो नावाइरो साभ साब अय साधी रादार spoken अज्यो दिनामर बाबा बहसता ही तु भाइ नहीं साथर बाबा नहीं तारा इंपू से बाबा हराने कि पुव इत्ता अज्यो दिनामर साब साब सहल studied by.steli disappear"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000783_0": {
   "language": "en",
@@ -1212,12 +1330,14 @@
  "000788_0": {
   "language": "en",
   "language_probability": 0.37,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000789_0": {
   "language": "en",
   "language_probability": 0.95,
-  "text": "My brothers got that gas and they always be smokin' like a rasta Ain't them that shot tops"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000790_0": {
   "language": "en",
@@ -1232,27 +1352,32 @@
  "000793_0": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Ladies, drop it down, just wanna see you touch the ground Don't be shy, girl, go to bonanza Shake your body like a belly dancer"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000795_0": {
   "language": "ru",
   "language_probability": 0.82,
-  "text": "Дай-дай-дай, пацана, посчитать потери Суменную лифт погибает на сцене Снова отбив, прогулясь без тени Заливай лифт, поцелуй на шее Эй, эй, как там, а? Правый назад, черный каскад Вижу твои взгляды, степь на горячь Мог тебя взять, но ты не моя"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000797_0": {
   "language": "en",
   "language_probability": 0.81,
-  "text": "I love everything Fire spreading all around my room My world's so bright, it's hard to breathe But that's alright"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000798_0": {
   "language": "hi",
   "language_probability": 0.74,
-  "text": "हम हैं किं, हमारे जसा कों हैं?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000800_0": {
   "language": "ru",
   "language_probability": 0.86,
-  "text": "Сумы нули, погибают на сцене, Снова от них, прогулясь в бездне, Заливали, подснули на шею, Эй, эй, как там, а? Ровно назад, в чёрной каскаде, Вижу твой взгляд, степь нагорят, Мог тебя взять, но ты не моя. Сумы нули, погибают на сцене, Снова от них, прогулясь в бездне, Заливали, подснули на шею, Эй, эй, как там, а? Ровно назад, в чёрной каскаде, Вижу твой взгляд, степь нагорят, Мог тебя взять, но ты не моя."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000802_0": {
   "language": "en",
@@ -1267,17 +1392,20 @@
  "000804_0": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "When"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000808_0": {
   "language": "ur",
   "language_probability": 0.83,
-  "text": "آف صردگی ہے دل مطلبی ہے جاگیں ہیں راتے لکھا کیا کچھ نہیں ہے آف صردگی ہے کہنے کو یہ دل صخی ہے پٹکا مسافر ہوں میں تو روشنی ہے آف صردگی ہے دل مطلبی ہے جاگیں ہیں راتے لکھا کیا کچھ نہیں ہے آف صردگی ہے کہنے کو یہ دل صخی ہے پٹکا مسافر ہوں میں تو روشنی ہے"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000809_0": {
   "language": "hi",
   "language_probability": 0.74,
-  "text": "फिदा हुँ तुझ पे मेरी जा बेपना"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000811_0": {
   "language": "en",
@@ -1297,22 +1425,26 @@
  "000813_0": {
   "language": "bn",
   "language_probability": 0.98,
-  "text": "అకిఋ metrosర్ఛామల మాత పోత్స్ం ఆలాసం నిసండిలా�另"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000842_0": {
   "language": "hi",
   "language_probability": 0.73,
-  "text": "वे मेरा तोला नि आया तोला वे मेरा तोला नि आया तोला वो रब वी चना पतला"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000927_0": {
   "language": "hi",
   "language_probability": 0.9,
-  "text": "ये चांद सा रोशशण चहरा, सुल्पो का रंद सुनहरा, ये जीली से नीली आखें, कोई राज है इन्में कहरा, ताइँ कुछ करूगा उसकी?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000938_0": {
   "language": "en",
   "language_probability": 0.75,
-  "text": "Perfect body with a perfect smile Perfect body with a perfect smile Perfect body with a perfect smile All you a champion bubble Like a bubble for records Bubble for records Like a bubble for records"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000959_0": {
   "language": "en",
@@ -1327,12 +1459,14 @@
  "000973_0": {
   "language": "en",
   "language_probability": 0.77,
-  "text": "I believe I can fly, touch the sky"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000973_1": {
   "language": "en",
   "language_probability": 0.76,
-  "text": "I believe I can fly, touch the sky"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "000994_0": {
   "language": "bn",
@@ -1347,27 +1481,32 @@
  "000997_0": {
   "language": "hi",
   "language_probability": 0.49,
-  "text": "महरमा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000999_0": {
   "language": "ur",
   "language_probability": 0.62,
-  "text": "کئی چھوٹا پھٹا ہکھ مارکے بھل تیسے گھر بھی کی کبھی تیچھو تیچھ رہا کے لے گھر مارکے"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001000_0": {
   "language": "hi",
   "language_probability": 0.66,
-  "text": "जुटा मुटा हक मारके दल्दी से, दल्दी की कभी पिछ पिछ आखे ले जख पारके"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001002_0": {
   "language": "hi",
   "language_probability": 0.42,
-  "text": "तोला नियाया तोला और अबभी केल है केल, चिनापंज और लारा जिनापंज लारा जिनापंज इसे है"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001005_0": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001006_0": {
   "language": "hi",
@@ -1387,12 +1526,14 @@
  "001024_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001025_0": {
   "language": "en",
   "language_probability": 0.39,
-  "text": "I can't watch him talk, he'll kill me man, I'll kill me like I like him, I'll kill me like I like him"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001026_0": {
   "language": "en",
@@ -1412,7 +1553,8 @@
  "001026_3": {
   "language": "en",
   "language_probability": 0.49,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001026_4": {
   "language": "en",
@@ -1422,17 +1564,20 @@
  "001026_5": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Hahahaha"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001026_6": {
   "language": "nn",
   "language_probability": 0.48,
-  "text": "What does that short?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001026_7": {
   "language": "en",
   "language_probability": 0.46,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001026_8": {
   "language": "en",
@@ -1472,7 +1617,8 @@
  "001036_5": {
   "language": "en",
   "language_probability": 0.46,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001036_6": {
   "language": "en",
@@ -1502,12 +1648,14 @@
  "001046_1": {
   "language": "en",
   "language_probability": 0.73,
-  "text": "The motherfuckin' Tico double G Snoop Dogg"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001049_0": {
   "language": "ur",
   "language_probability": 0.64,
-  "text": "کوئیہ نہیں اپناپنہ احساس کی راہ چھنی ہے ترستی ہے نگاہیں میری تکتی ہے راہیں تیری چاہی پناہیں تیری یہ کیسے میں بتاؤں تجھے سوٹی نہیں آگے میری قطتی نہیں راتیں میری"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001052_0": {
   "language": "en",
@@ -1542,27 +1690,32 @@
  "001061_0": {
   "language": "bn",
   "language_probability": 0.35,
-  "text": "I am feeling so good. This is my first time. So, I am going to attend school. This is feeling so good."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001062_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "In my hand one more time for I go high up I was taking"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001064_0": {
   "language": "th",
   "language_probability": 0.81,
-  "text": "โปรดติดตามตอนต่อไป"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001064_1": {
   "language": "th",
   "language_probability": 0.77,
-  "text": "โปรดติดตามตอนต่อไป"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001067_0": {
   "language": "pa",
   "language_probability": 0.82,
-  "text": "​​"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001068_0": {
   "language": "en",
@@ -1577,7 +1730,8 @@
  "001071_0": {
   "language": "hi",
   "language_probability": 0.27,
-  "text": "आप लिए लिए लिए लिए!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001072_0": {
   "language": "en",
@@ -1642,22 +1796,26 @@
  "001090_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "AAAAAA"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001091_0": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "I was runnin' far away, but I don't know if the world's..."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001093_0": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001099_0": {
   "language": "pt",
   "language_probability": 0.41,
-  "text": "Tu me vem e..."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001100_0": {
   "language": "en",
@@ -1667,7 +1825,8 @@
  "001104_0": {
   "language": "pa",
   "language_probability": 0.77,
-  "text": "মচੇ�給 into Conf serious wicky পੀখੀন ====eon, saach kiya flower. become a flower be a fire এডাল ই случа suasi দাবੂ উইকি it is blue so be it exiled exiled what will it be? exiled net it is blue so be it you?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001105_0": {
   "language": "en",
@@ -1692,12 +1851,14 @@
  "001111_1": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001112_0": {
   "language": "en",
   "language_probability": 0.96,
-  "text": "You know All my friends are toxic All ambition is so rude And always negative I need new friends but it's not That quick and easy or I'm drowning like me I'm better off all by myself Though I'm feeling kinda empty Without somebody else so I hear you Crying out for help But you never showed for me when I was ringing Your cell phone oh you don't know How it feels to be alone Oh baby oh I'll make you know I'll make you know"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001123_0": {
   "language": "en",
@@ -1707,7 +1868,8 @@
  "001125_0": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "A little sympathy. I hope you can show me if you wanna go then I'll be so If you're leaving, baby, let me down slowly"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001126_0": {
   "language": "en",
@@ -1727,17 +1889,20 @@
  "001132_0": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "And you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001133_0": {
   "language": "te",
   "language_probability": 0.92,
-  "text": "mittelಣನ್ದಿಗಲು realised by s sweet sweet"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001137_0": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Can you see the sun?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001139_0": {
   "language": "en",
@@ -1752,17 +1917,20 @@
  "001142_0": {
   "language": "en",
   "language_probability": 0.21,
-  "text": "I lost you like you got me"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001144_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "I've spent all of the love I've saved We were always a losing game Small town boy in a blue gauze I got addicted to a SAUFISCHE VECCHAM"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001146_0": {
   "language": "bn",
   "language_probability": 0.82,
-  "text": "?αΓΔΧΒ΃ ? pricing of this video's 10"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001148_0": {
   "language": "en",
@@ -1777,12 +1945,14 @@
  "001151_0": {
   "language": "ko",
   "language_probability": 0.52,
-  "text": "이 영상은 유료광고를 포함하고 있습니다."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001154_0": {
   "language": "ur",
   "language_probability": 0.68,
-  "text": "ہے سراری جاہے کہیں سے چلوں دے سوا چھوڑ بھی لے تو سارے مسکران آگیا جینا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001155_0": {
   "language": "en",
@@ -1797,7 +1967,8 @@
  "001163_0": {
   "language": "hi",
   "language_probability": 0.6,
-  "text": "तेरे नीले नीले नैनो से शबणव् पी लूँ तेरे घिले घिले होथों की सरगम पी लूँ"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001164_0": {
   "language": "hi",
@@ -1817,17 +1988,20 @@
  "001176_0": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001176_1": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001178_0": {
   "language": "en",
   "language_probability": 0.94,
-  "text": "And there's a million of us just like me, who cuss like me, who just don't give a fuck like me, who stress like me, walk talk and act like me, it just might be the next best thing but not quite me. I'm Slim Shady, yes I'm the real Shady, all you other Slim Shadys are just me rotating, so want the real Slim Shady? Please stand up, please stand up. I'm Slim Shady, yes I'm the real Shady, all you other Slim Shadys are-"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001180_0": {
   "language": "en",
@@ -1842,12 +2016,14 @@
  "001182_0": {
   "language": "pt",
   "language_probability": 0.23,
-  "text": "O que você está fazendo? O que você está fazendo? O que você está fazendo?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001182_1": {
   "language": "pt",
   "language_probability": 0.23,
-  "text": "O que você está fazendo? O que você está fazendo? O que você está fazendo?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001183_0": {
   "language": "pt",
@@ -1857,7 +2033,8 @@
  "001184_0": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001187_0": {
   "language": "en",
@@ -1867,7 +2044,8 @@
  "001190_0": {
   "language": "en",
   "language_probability": 0.46,
-  "text": "See you again"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001190_1": {
   "language": "en",
@@ -1882,7 +2060,8 @@
  "001190_3": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "Thank you."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001190_4": {
   "language": "hi",
@@ -1927,7 +2106,8 @@
  "001205_0": {
   "language": "en",
   "language_probability": 0.61,
-  "text": "I said"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001206_0": {
   "language": "en",
@@ -1937,32 +2117,38 @@
  "001210_0": {
   "language": "zh",
   "language_probability": 0.39,
-  "text": "花開 花開的日子就在流淌"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001217_0": {
   "language": "en",
   "language_probability": 0.32,
-  "text": "I don't want to talk about that Oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001218_0": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001218_1": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001223_0": {
   "language": "en",
   "language_probability": 0.33,
-  "text": "when I'm"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001225_0": {
   "language": "hi",
   "language_probability": 0.65,
-  "text": "तडब तडब के इस दिल से आह निकलती रही। मुझको सजादी प्यार की, ऐसा क्या गुणा किया, तो लूट गए, हां लूट गए। तडब तडब के इस दिल से आह निकलती रही।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001231_0": {
   "language": "en",
@@ -1972,22 +2158,26 @@
  "001232_0": {
   "language": "en",
   "language_probability": 0.85,
-  "text": "I'm the kind of G the little homies wanna be like on my knees in the night you're saying prayers in the streetlight"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001235_0": {
   "language": "en",
   "language_probability": 0.89,
-  "text": "Never need a bitch, I'm what a bitch need Tryna find the one that can fix me I've been dodging death in the six feet Amphetamine got my stomach feeling sickly"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001238_0": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "Played too many questions, you must think I just know nothing"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001239_0": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "My last made me feel like I would never try again But when I saw you I felt something I never felt Come closer, I'll give you all my love If you treat me right, baby, I'll give you everything My last made me feel like I would never try again But when I saw you I felt something I never felt"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001240_0": {
   "language": "en",
@@ -1997,7 +2187,8 @@
  "001242_0": {
   "language": "hi",
   "language_probability": 0.47,
-  "text": "सावरे नहमारा हुआ नह तुमारा हुआ इश्ख का ये सिप्वन नह गवाग नह"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001287_0": {
   "language": "en",
@@ -2007,17 +2198,20 @@
  "001289_0": {
   "language": "hi",
   "language_probability": 0.64,
-  "text": "यानी यार पे फुर्वा है सभी यार इश्क पे मैं अपनी"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001290_0": {
   "language": "bn",
   "language_probability": 0.45,
-  "text": "� nightingale onde事 లిర سے ఇదల్లౌలి ఇమల్సి విశ్బడిలే э ఇంప్� Union"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001292_0": {
   "language": "hi",
   "language_probability": 0.53,
-  "text": "बेरे माहिया सनम् जानम् शब गुजर निम जगे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001294_0": {
   "language": "ur",
@@ -2027,32 +2221,38 @@
  "001295_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001297_0": {
   "language": "es",
   "language_probability": 0.37,
-  "text": "¡Pule que pelas!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001298_0": {
   "language": "pa",
   "language_probability": 0.56,
-  "text": "कदि वण photo"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001303_0": {
   "language": "pa",
   "language_probability": 0.46,
-  "text": "ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব ব"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001305_0": {
   "language": "ur",
   "language_probability": 0.54,
-  "text": "مٹا ہکھ مارکے دل کیسے پچھے آکھیں چھکھ مارکے"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001309_0": {
   "language": "ko",
   "language_probability": 0.34,
-  "text": "아아 아아 끝"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001324_0": {
   "language": "en",
@@ -2072,12 +2272,14 @@
  "001327_0": {
   "language": "pa",
   "language_probability": 0.84,
-  "text": "ਸੱ  oppon  skethth"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001333_0": {
   "language": "hi",
   "language_probability": 0.52,
-  "text": "अभी मुझ में कहीं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001335_0": {
   "language": "en",
@@ -2102,7 +2304,8 @@
  "001348_0": {
   "language": "hi",
   "language_probability": 0.29,
-  "text": "वक्टो आदो ऐसे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001350_0": {
   "language": "hi",
@@ -2122,7 +2325,8 @@
  "001354_0": {
   "language": "en",
   "language_probability": 0.34,
-  "text": "I can see it from my shadows, but I jump up in my level, it ain't a lie Baby go to my grave and just kick me back down Ain't nothing leaving me over, look back and watch me stack and fall on the floor I can see it from my shadows, but I jump up in my level, it ain't a lie Baby go to my grave and just kick me back down Ain't nothing leaving me over, look back and watch me stack and fall on the floor Ain't nothing leaving me over, look back and watch me stack and fall on the floor"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001355_0": {
   "language": "en",
@@ -2132,7 +2336,8 @@
  "001356_0": {
   "language": "en",
   "language_probability": 0.8,
-  "text": "You seem like the type to love a man"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001357_0": {
   "language": "en",
@@ -2142,7 +2347,8 @@
  "001358_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Thanks for watching guys!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001359_0": {
   "language": "en",
@@ -2152,22 +2358,26 @@
  "001360_0": {
   "language": "en",
   "language_probability": 0.49,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001367_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "for me I was running far away off and off while someday in a body"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001367_1": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "For me, no, I was running far away Hold off and off the wall someday Nobody knows"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001368_0": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "I keep thinkin' about you and I can't get you out of my But I'm got your love, I'm all about you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001370_0": {
   "language": "ur",
@@ -2177,17 +2387,20 @@
  "001410_0": {
   "language": "en",
   "language_probability": 0.69,
-  "text": "Hold up"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001411_0": {
   "language": "en",
   "language_probability": 0.89,
-  "text": "Isn't it lovely, all along? Glass my mind, no stone Tell me the pieces, skin or bone I'll walk on my own Walking out of"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001412_0": {
   "language": "en",
   "language_probability": 0.26,
-  "text": "Kala jinu jaave re dekha"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001414_0": {
   "language": "en",
@@ -2197,37 +2410,44 @@
  "001415_0": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "Oh! Aaj shesh mesh nahi, toh karu nahi, karu nahi Shmesh nahi"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001419_0": {
   "language": "en",
   "language_probability": 0.22,
-  "text": "There's something trying to"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001420_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "And the day will come, the day will come"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001430_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "Hmm"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001431_0": {
   "language": "en",
   "language_probability": 0.66,
-  "text": "Ah"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001433_0": {
   "language": "ru",
   "language_probability": 0.73,
-  "text": "ПОЩЕБЫВАЮЩИЕ ПЕСНИ"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001433_1": {
   "language": "ru",
   "language_probability": 0.73,
-  "text": "СПОКОЙНАЯ МУЗЫКА"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001434_0": {
   "language": "bn",
@@ -2237,7 +2457,8 @@
  "001435_0": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Look at me, look at me Look at me, look at me"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001437_0": {
   "language": "en",
@@ -2252,12 +2473,14 @@
  "001438_0": {
   "language": "en",
   "language_probability": 0.94,
-  "text": "I got so much motherfuckin' design on right now Break it down, bring it back, make it clap I got three old thoughts, new growth Bitches on my line, and you know they come strapped I was wrong, what do you mean by wrong? I fuck with these hoes, I pull up the greatest and I'll still"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001439_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "To be my enemy"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001441_0": {
   "language": "en",
@@ -2272,7 +2495,8 @@
  "001446_0": {
   "language": "ur",
   "language_probability": 0.61,
-  "text": "جن راستوں سے نظر آئی ہے"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001447_0": {
   "language": "en",
@@ -2287,12 +2511,14 @@
  "001449_0": {
   "language": "hi",
   "language_probability": 0.28,
-  "text": "फिर भी तो खावन के अंदर यो"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001449_1": {
   "language": "hi",
   "language_probability": 0.26,
-  "text": "फिर भी तो खावन के अंदर क्यों?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001452_0": {
   "language": "en",
@@ -2307,7 +2533,8 @@
  "001454_0": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001455_0": {
   "language": "en",
@@ -2317,7 +2544,8 @@
  "001465_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001466_0": {
   "language": "en",
@@ -2337,12 +2565,14 @@
  "001470_0": {
   "language": "hi",
   "language_probability": 0.87,
-  "text": "कहती हैं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001476_0": {
   "language": "en",
   "language_probability": 0.61,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001477_0": {
   "language": "en",
@@ -2352,17 +2582,20 @@
  "001482_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "Hey"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001486_0": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "रंगते नूर था जब करीक जन्नक सा था कुछ मेरे किछोग"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001493_0": {
   "language": "en",
   "language_probability": 0.79,
-  "text": "Thank God, for my reefer man, this shit good!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001500_0": {
   "language": "en",
@@ -2377,12 +2610,14 @@
  "001501_0": {
   "language": "en",
   "language_probability": 0.4,
-  "text": "Thank you very much"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001502_0": {
   "language": "ur",
   "language_probability": 0.31,
-  "text": "سارے باتے"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001504_0": {
   "language": "en",
@@ -2397,7 +2632,8 @@
  "001506_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "Thank you for watching, see you next time."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001510_0": {
   "language": "en",
@@ -2407,7 +2643,8 @@
  "001511_0": {
   "language": "hi",
   "language_probability": 0.4,
-  "text": "ताइद पी सीवी ऐया और समाप सुखर देखा ताजोने के ले सवारी जानद पर भी"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001518_0": {
   "language": "en",
@@ -2417,17 +2654,20 @@
  "001520_0": {
   "language": "en",
   "language_probability": 0.68,
-  "text": "Thanks for watching."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001521_0": {
   "language": "ko",
   "language_probability": 0.83,
-  "text": "이 모야 다 러브고래 이 모야 다 러브고래 아직 안 나에"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001526_0": {
   "language": "fr",
   "language_probability": 0.5,
-  "text": "Sous-titres réalisés para la communauté d'Amara.org"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001528_0": {
   "language": "en",
@@ -2442,22 +2682,26 @@
  "001543_0": {
   "language": "vi",
   "language_probability": 0.28,
-  "text": "Hãy đăng ký kênh để xem những video hấp dẫn"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001552_0": {
   "language": "ur",
   "language_probability": 0.54,
-  "text": "ڈو سے نے نا جب سے نے اس ادبد کوئی بھا جان گوای گوای میں نے ہاں تجھ کو بس آیا ہے گرکن"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001555_0": {
   "language": "en",
   "language_probability": 0.39,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001557_0": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "I"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001564_0": {
   "language": "en",
@@ -2477,17 +2721,20 @@
  "001567_0": {
   "language": "en",
   "language_probability": 0.77,
-  "text": "Nobody"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001568_0": {
   "language": "en",
   "language_probability": 0.84,
-  "text": "I'm here to serve you customer service"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001570_0": {
   "language": "ar",
   "language_probability": 0.96,
-  "text": "احنا منك"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001571_0": {
   "language": "hi",
@@ -2507,22 +2754,26 @@
  "001574_0": {
   "language": "en",
   "language_probability": 0.28,
-  "text": "Ravaj Bhavaj Onu Lukama Koi Manu Na Roke Mere Dhol Jodhaya"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001575_0": {
   "language": "ar",
   "language_probability": 0.35,
-  "text": "منترا منترا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001576_0": {
   "language": "en",
   "language_probability": 0.72,
-  "text": "me are not dreaming, so are not dreaming"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001577_0": {
   "language": "hi",
   "language_probability": 0.36,
-  "text": "गली में मारे कहरे पास आने को मेरे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001578_0": {
   "language": "en",
@@ -2547,7 +2798,8 @@
  "001594_0": {
   "language": "bn",
   "language_probability": 0.36,
-  "text": "തത്� morning"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001595_0": {
   "language": "en",
@@ -2557,12 +2809,14 @@
  "001600_0": {
   "language": "es",
   "language_probability": 0.65,
-  "text": "Y te hacía medesar y decir Te cago en el amor y yo te llanto Tú tranquila, tú la samelay Tú lisi tú tranquila, tú la samelay Tú lisi tú tranquila, tú la samelay Tú te cago en el amor y yo te llanto"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001603_0": {
   "language": "en",
   "language_probability": 0.6,
-  "text": "In the night"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001619_0": {
   "language": "en",
@@ -2572,22 +2826,26 @@
  "001620_0": {
   "language": "en",
   "language_probability": 0.3,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001621_0": {
   "language": "hi",
   "language_probability": 0.79,
-  "text": "नार्भार पाप ककष गन्टु अंथुत मुझे में इसा लाग etme manyaar po conditioned mein asa Langa जब इश्टनों जाजिanızन जै मैं आपूषtails particular,, mpe or his कृषबूख हावाए है मके हॉतवुईक relation क्याविदाई by Karan Subb всей यहवाई है पराश कुशना काभ्या barashki yaawai karrasi kaabamo नचण तूपाया था प्यारे से चहरे पे बिकरी जो सॉल्पे तो ऐसा लगता था ..."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001621_1": {
   "language": "hi",
   "language_probability": 0.79,
-  "text": "कोई ज willing उमला तो मुझे ऐसा लगता था.. जैसे मेरी सारी दुनिया में केटोंके रुत और मृंगों की परघा � good also seen in my whole world news हुशबृ की हांधी अब भै decline of sensor है महéral आप सारी फीजां है स אנ imposed and ready for stabilization भ chưa आप सारी हवां है nop for air होही होही सी अप ऍीषां है Now I'm lost and str gambling बदली हूई सी अब सारी अदाए है जागियू मंगे हैं तलक रहा है दिल सासो में तूपाए होटव पनगमे है आखः में सबनी है सब्नुमे बिदे हुए सारे वो लहुगे हैं जब कोई आयाथा नस्रों पे छायाता दिल में समायाता मैं बताओ तुमें क्यसा उसे पाया था प्यारे से चेहरे पे भिक्री जो जुल्फे तो ऐसा लगता है"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001623_0": {
   "language": "en",
   "language_probability": 0.81,
-  "text": "Smile on your face when you know she please with this eye Come in around to me then jazza roll out them eyes WIND ON GO DUNDE WIND ON GO DUNDE"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001624_0": {
   "language": "en",
@@ -2597,7 +2855,8 @@
  "001629_0": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "Perfect smile, perfect money with a perfect smile Why you always in the mood? I don't like it when you I ain't trying to tell you what to do I'm trying to make you Maybe I ain't playing by your rules Everything look better when you feel Why you always in the mood"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001634_0": {
   "language": "en",
@@ -2607,12 +2866,14 @@
  "001635_0": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001636_0": {
   "language": "en",
   "language_probability": 0.33,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001643_0": {
   "language": "en",
@@ -2622,32 +2883,38 @@
  "001644_0": {
   "language": "hi",
   "language_probability": 0.76,
-  "text": "क्या मेरे जसा कोई नहीं है यह मेरी होके सबो को बता जा तुम देख लो है आखरी यहने है यह बाजी"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001646_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "Thank you for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001647_0": {
   "language": "en",
   "language_probability": 0.27,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001649_0": {
   "language": "pa",
   "language_probability": 0.66,
-  "text": "ਆਹੇਰੈਟੀ ਲਲ਼ਾਜੇ ਸਿਤੁਗੀਔਗੰਾ ਗੱਲਕਰੈਲ ਦੈਹਿਰੇ ਲਾਕਈਪਾਗਾ ਆਰੂਗਾਨ਼ਾ ਭਾਭੀਗਾਲ਼�게요"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001649_1": {
   "language": "pa",
   "language_probability": 0.68,
-  "text": "বো���েব� REMEMBER"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001651_0": {
   "language": "en",
   "language_probability": 0.34,
-  "text": "If you need to me"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001652_0": {
   "language": "hi",
@@ -2662,17 +2929,20 @@
  "001654_0": {
   "language": "hi",
   "language_probability": 0.28,
-  "text": "आज अच्छा की वाजी है आज की श्वासी"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001661_0": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001663_0": {
   "language": "en",
   "language_probability": 0.37,
-  "text": "BAD BAD BAD BAD BOY"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001664_0": {
   "language": "hi",
@@ -2682,22 +2952,26 @@
  "001665_0": {
   "language": "ur",
   "language_probability": 0.47,
-  "text": "ڈیتنی تو کلتی چاہے ڈیتنی لگے تھوڑ جاوپی سلوک"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001668_0": {
   "language": "en",
   "language_probability": 0.92,
-  "text": "cannot be changed but keep on praying goodbye"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001669_0": {
   "language": "en",
   "language_probability": 0.33,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001671_0": {
   "language": "en",
   "language_probability": 0.75,
-  "text": "Cause I'm wishin' on that"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001674_0": {
   "language": "bn",
@@ -2707,17 +2981,20 @@
  "001675_0": {
   "language": "pa",
   "language_probability": 0.87,
-  "text": "गणगण घे दल धोरथी, जुट तोरते ताधेनी रहान होने ऐतबार, सोधी है रहान होने ऐतबार है तानी चल ते फ्यार सोधी है तानी चल ते फ्यार"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001676_0": {
   "language": "pa",
   "language_probability": 0.79,
-  "text": "innerери inneri inneri"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001677_0": {
   "language": "hi",
   "language_probability": 0.45,
-  "text": "जदवी तू मेरे रहां विच्यो चेई यदवी तू मेरे रहां विच्यो चेई"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001678_0": {
   "language": "hi",
@@ -2727,7 +3004,8 @@
  "001679_0": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "hehehehehehehehehehehehehehe"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001679_1": {
   "language": "en",
@@ -2747,42 +3025,50 @@
  "001683_0": {
   "language": "tl",
   "language_probability": 0.24,
-  "text": "Hey! Hey! Ayayayayayay!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001690_0": {
   "language": "hi",
   "language_probability": 0.57,
-  "text": "बेले बोजी सापुजां से बेले बोजी सापुजां से"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001691_0": {
   "language": "en",
   "language_probability": 0.55,
-  "text": "Get out"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001691_1": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Yeah"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001692_0": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001693_0": {
   "language": "hi",
   "language_probability": 0.38,
-  "text": "I can't double"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001694_0": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001696_0": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001698_0": {
   "language": "hi",
@@ -2792,12 +3078,14 @@
  "001699_0": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "And"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001699_1": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "And"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001700_0": {
   "language": "hi",
@@ -2807,17 +3095,20 @@
  "001701_0": {
   "language": "pa",
   "language_probability": 0.94,
-  "text": "गणगण के दिल तोड़ती जुट तोड़ते तारेनी देहानी होने एत्वार सोणी एत्वार नी चल दे प्यार"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001703_0": {
   "language": "hi",
   "language_probability": 0.39,
-  "text": "इसल ते पावे, दिल सीव तो निकल दाह जावे, बती बोर बिलो दो नेन कावे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001704_0": {
   "language": "nn",
   "language_probability": 0.24,
-  "text": "СПОКОЙНАЯ МУЗЫКА"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001705_0": {
   "language": "en",
@@ -2827,12 +3118,14 @@
  "001708_0": {
   "language": "en",
   "language_probability": 0.85,
-  "text": "He was the most wild and expandable one. Ghost in Silver."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001714_0": {
   "language": "en",
   "language_probability": 0.88,
-  "text": "Go give love to your body, there's only you that can stop it Go give love to your body"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001718_0": {
   "language": "en",
@@ -2847,7 +3140,8 @@
  "001721_0": {
   "language": "nn",
   "language_probability": 0.14,
-  "text": "РАДОСТНЫЕ КРИКИ"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001721_1": {
   "language": "nn",
@@ -2867,17 +3161,20 @@
  "001725_0": {
   "language": "en",
   "language_probability": 0.33,
-  "text": "Ha, ha!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001725_1": {
   "language": "en",
   "language_probability": 0.33,
-  "text": "Ha, ha!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001726_0": {
   "language": "ur",
   "language_probability": 0.51,
-  "text": "چاہے جو تمہیں پورے دل سے ایسا جو کوئی"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001726_1": {
   "language": "en",
@@ -2887,7 +3184,8 @@
  "001726_2": {
   "language": "hi",
   "language_probability": 0.61,
-  "text": "तुज्मे रात मेरी तुज्मे दिन्नेरे लम्हाँ इक जीवूना मैं तो दिन्तेरे है तेरे साथ सफ़ड"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001726_3": {
   "language": "ur",
@@ -2902,17 +3200,20 @@
  "001732_0": {
   "language": "en",
   "language_probability": 0.89,
-  "text": "I got guns in my head and they won't go Spirits in my head and they won't"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001733_0": {
   "language": "ar",
   "language_probability": 0.91,
-  "text": "ههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه لا تبالي كن سعيدا كن فريدا عش بفخرين في الحياة لا تبالي فالمعالي"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001734_0": {
   "language": "hi",
   "language_probability": 0.66,
-  "text": "लूटावुआ साज हूँ मैं खुद से ही नाराज हूँ मैं सीने में जो कही पे दूए"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001738_0": {
   "language": "en",
@@ -2922,7 +3223,8 @@
  "001743_0": {
   "language": "hi",
   "language_probability": 0.63,
-  "text": "दिस्को टाइँ दिसको टाइँ"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001744_0": {
   "language": "en",
@@ -2942,7 +3244,8 @@
  "001755_0": {
   "language": "en",
   "language_probability": 0.84,
-  "text": "Only get it, all in play now Does it ever drown?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001756_0": {
   "language": "en",
@@ -2952,22 +3255,26 @@
  "001759_0": {
   "language": "bn",
   "language_probability": 0.97,
-  "text": "チ själ आपका लोगर्म 반�FL तऱ्"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001764_0": {
   "language": "hi",
   "language_probability": 0.85,
-  "text": "सारी अमर में जो कर जा बड़े आरे हा तेरे पिछ्छे ए जिंद्गी सर्कस हो गे।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001767_0": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Thank you for watching, I'll see you in the next one."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001767_1": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Thank you for watching, I'll see you in the next one."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001768_0": {
   "language": "en",
@@ -2992,17 +3299,20 @@
  "001772_0": {
   "language": "en",
   "language_probability": 0.81,
-  "text": "I got guns in my head and they won't go Spirits in my head and they won't Well I could go to New Zealand and get"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001773_0": {
   "language": "ko",
   "language_probability": 0.42,
-  "text": "뱅뱅뱅뱅뱅뱅뱅"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001774_0": {
   "language": "ur",
   "language_probability": 0.4,
-  "text": "روٹی ہے شبتے ربا ربا دن بھی ہے روٹا سب کچھ ہے بکھرا بکھرا بکھرا سام روٹا روٹا چکھنا ہی چکھنا ہی جان جان مولاں کیسے ملنا جان مولاں کیسے ملنا جان"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001775_0": {
   "language": "en",
@@ -3057,27 +3367,32 @@
  "001786_0": {
   "language": "hi",
   "language_probability": 0.64,
-  "text": "ले मकाँ एक बार गिरकए वैसे बनते कहां हैं जैसे तूने अपने दिर से बनाए"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001787_0": {
   "language": "bn",
   "language_probability": 0.98,
-  "text": "Antar"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001787_1": {
   "language": "bn",
   "language_probability": 0.98,
-  "text": "র஥� hasā пром ব੭র��� বੜਹ � attached to Black"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001788_0": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "I got addicted to a losing game"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001789_0": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001790_0": {
   "language": "en",
@@ -3092,17 +3407,20 @@
  "001797_0": {
   "language": "ml",
   "language_probability": 0.69,
-  "text": "the"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001798_0": {
   "language": "pa",
   "language_probability": 0.61,
-  "text": "ਲਰੱੀੀਰੀਓ ਇignon�"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001799_0": {
   "language": "sd",
   "language_probability": 0.35,
-  "text": "Lala ! Maini umar ke na jawaana"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001801_0": {
   "language": "ur",
@@ -3122,7 +3440,8 @@
  "001828_0": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001829_0": {
   "language": "en",
@@ -3132,12 +3451,14 @@
  "001830_0": {
   "language": "en",
   "language_probability": 0.84,
-  "text": "Is this entertaining? My patience is waning. Is this entertaining? My patience is waning. Is this entertaining? My patience is waning. Is this entertaining? My patience is waning. Is this entertaining? My patience is waning. Is this entertaining? My patience is waning. Is this entertaining? My patience is waning. Is this entertaining? My patience is waning."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001832_0": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "Get up, get up"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001838_0": {
   "language": "en",
@@ -3147,7 +3468,8 @@
  "001839_0": {
   "language": "en",
   "language_probability": 0.92,
-  "text": "Is this entertaining? My patience is waning IS THIS-"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001841_0": {
   "language": "en",
@@ -3172,22 +3494,26 @@
  "001844_0": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "But I know you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001845_0": {
   "language": "hi",
   "language_probability": 0.9,
-  "text": "लिपट लिपट के पागल मुझे पनाए पहले से ही तडब रहा था और मुझे तडबाए जाने तमना करना ऐसे से तम"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001847_0": {
   "language": "en",
   "language_probability": 0.92,
-  "text": "Is this entertaining, my patience is waning Is this"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001850_0": {
   "language": "en",
   "language_probability": 0.84,
-  "text": "Only good in thinking the reason Just how fast the night changes"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001851_0": {
   "language": "en",
@@ -3197,7 +3523,8 @@
  "001853_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "I Sit by myself Talking to"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001854_0": {
   "language": "en",
@@ -3207,22 +3534,26 @@
  "001855_0": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "I take a look at my life and realize there's nothing left Cause I've been brassin' and laughin' so long that Even my mama thinks that my mind is gone But I ain't never crossed a man that didn't deserve it Me be cheated like a punk, you know that's unheard of You better watch out"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001857_0": {
   "language": "bn",
   "language_probability": 0.77,
-  "text": "ពឧក 즘 ឡហ ហ� bay ក ជ ផ៖ក ឡ ឡ ស �uno� Pilot weather"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001857_1": {
   "language": "bn",
   "language_probability": 0.81,
-  "text": "ḍḁḾḾ ḁḻḵ ḱᶸsei ᑙᶠ� Dafür ḝ� druk ḙḼ ḡḬ �이에요- Some grass advised to the leaves ḙᵒ ḗᵘ-ḭ ḕᵒ ḗ ḗᵒ Ḧᵇ ᵈᶱᵒ ḅ᱁ ḵᶠ � in some wicked place ḏ ᱅ᱽᵍ ᱁ ᱅᱆ ᱉᱒ Embracing crush ✓ ⛌ Lucky aunt Without ATTENTION Whoa Unter IT IS общ At Tech young where H"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001866_0": {
   "language": "en",
   "language_probability": 0.48,
-  "text": "Ah"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001867_0": {
   "language": "en",
@@ -3237,12 +3568,14 @@
  "001871_0": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "HAHAHAHAHA"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001871_1": {
   "language": "en",
   "language_probability": 0.77,
-  "text": "HAHAHAHAHA"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001872_0": {
   "language": "en",
@@ -3252,17 +3585,20 @@
  "001873_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "Right"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001874_0": {
   "language": "en",
   "language_probability": 0.81,
-  "text": "What is that melody?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001875_0": {
   "language": "en",
   "language_probability": 0.96,
-  "text": "This is why I love you, this is why I love, this is why I love in you, and no other love will do."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001876_0": {
   "language": "en",
@@ -3292,17 +3628,20 @@
  "001881_0": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "HAPPY-"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001881_1": {
   "language": "en",
   "language_probability": 0.6,
-  "text": "HAPPY-"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001882_0": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "Eh, eh, eh, eh."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001883_0": {
   "language": "en",
@@ -3312,27 +3651,32 @@
  "001886_0": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Thank you for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001887_0": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "I'll bet these cities"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001887_1": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "I'll bet these cities"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001888_0": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "Chadi came from Mexico, she knows she got the sweet stuff. Chadi came from Mexico, she knows she got the sweet stuff."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001891_0": {
   "language": "hi",
   "language_probability": 0.37,
-  "text": "तेनी पास्टी कोफलाई होगई तारी को तुस्काई तासे काई होगई होगई नाया के पिछनी"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001897_0": {
   "language": "en",
@@ -3347,12 +3691,14 @@
  "001903_0": {
   "language": "hi",
   "language_probability": 0.37,
-  "text": "कबी कबी तो लगे जिनदगी में रही ना खुशी और ना मजा कबी कबी तो लगे हर दिन मुषकिल और अर्बल एक सजा ऐसे में कोई कैसे हुसकराए कैसे हस्ते हुश ओके और कैसे कोई सोच दे एबिधिंग गार भी ओके"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001904_0": {
   "language": "en",
   "language_probability": 0.61,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001906_0": {
   "error": "[Errno 1094995529] Invalid data found when processing input: 'archive/Meme_Template_bd/media/001906_0.mp4'"
@@ -3360,17 +3706,20 @@
  "001907_0": {
   "language": "ur",
   "language_probability": 0.57,
-  "text": "مجھ کو بھاگا جیا تیرے با گیر تُو مان میری جان میں تجھے جانے نہ دوں"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001907_1": {
   "language": "ur",
   "language_probability": 0.57,
-  "text": "مجھ کو بھاگا جیا تیرے با گیر تُو مان میری جان میں تجھے جانے نہ دوں"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001908_0": {
   "language": "te",
   "language_probability": 0.38,
-  "text": "మానులా పురమ అమున్యాపు అనినూడినిన్ని అనుటియాపురమలి అవికి అర్యండింద్ంద్... అనుటిందాను వాపురమ ముండిజరంచండిను.."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001912_0": {
   "language": "en",
@@ -3410,7 +3759,8 @@
  "001920_0": {
   "language": "hi",
   "language_probability": 0.92,
-  "text": "इतरार करते हमें यून जाई, आपको हमारे पसम लोट आई"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001921_0": {
   "language": "en",
@@ -3470,22 +3820,26 @@
  "001930_0": {
   "language": "hi",
   "language_probability": 0.52,
-  "text": "तारे गिंगिं दिंको रात रात को दिं कर रहा हूं। तु कुछ नहीं हालिफ की राद।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001931_0": {
   "language": "hi",
   "language_probability": 0.26,
-  "text": "चलू"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001935_0": {
   "language": "ar",
   "language_probability": 0.72,
-  "text": "ماذا إذا كن هذا كي نستاز جمالا جوحا وما قلت ما نسموه تعالا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001940_0": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "What you do can't make up your mind"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001941_0": {
   "language": "en",
@@ -3505,7 +3859,8 @@
  "001944_0": {
   "language": "en",
   "language_probability": 0.79,
-  "text": "I just wanna get high on her kiss, kiss Lookin' dolly, I think I may go out tonight I just wanna ride I just wanna get high on her kiss, kiss Lookin' dolly, I think I may go out tonight I just wanna ride"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001945_0": {
   "language": "hi",
@@ -3535,7 +3890,8 @@
  "001951_0": {
   "language": "hi",
   "language_probability": 0.36,
-  "text": "क्या होगई ख़तां जो होगई जुदां हुजाउगा हुजाउगा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001952_0": {
   "language": "en",
@@ -3550,12 +3906,14 @@
  "001954_0": {
   "language": "en",
   "language_probability": 0.35,
-  "text": "Okay"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001954_1": {
   "language": "en",
   "language_probability": 0.35,
-  "text": "Yes"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001955_0": {
   "language": "en",
@@ -3585,17 +3943,20 @@
  "001961_0": {
   "language": "pa",
   "language_probability": 0.44,
-  "text": "लाक दा सबा, उच्छी जरा जाके नाम चले थां थां जाते थां, पैली मल्ली वेठा थां"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001962_0": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "I am love"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001962_1": {
   "language": "en",
   "language_probability": 0.88,
-  "text": "I am love"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001965_0": {
   "language": "en",
@@ -3615,7 +3976,8 @@
  "001971_0": {
   "language": "pa",
   "language_probability": 0.8,
-  "text": "कौड़ा लाक दास्वा उच्छी जरा जाके नाम चले थां जाट तां पैली मल्ली वेटो थां अगे कड़े आप लेगे कहीं वारी कहीं वारी जे कौई शाक नहीं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001972_0": {
   "language": "bn",
@@ -3625,17 +3987,20 @@
  "001973_0": {
   "language": "hi",
   "language_probability": 0.52,
-  "text": "ना तर आजा सिने लाड़ वाली हैं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001974_0": {
   "language": "en",
   "language_probability": 0.89,
-  "text": "Are you running from the daylight? Oh I love it and I hate it at the same time Oh I love it and I hate it at the same, the same vibe"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001976_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Bleh! Hahahaha! Ahh!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001977_0": {
   "language": "hi",
@@ -3650,7 +4015,8 @@
  "001979_0": {
   "language": "en",
   "language_probability": 0.73,
-  "text": "But you only need the light when it's burning low Only miss the sun when it starts to snow Only know your love"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001980_0": {
   "language": "en",
@@ -3660,27 +4026,32 @@
  "001981_0": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "Drink, Swa la la la"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001982_0": {
   "language": "en",
   "language_probability": 0.68,
-  "text": "This is not the day that I set it in my mind"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001983_0": {
   "language": "hi",
   "language_probability": 0.68,
-  "text": "तुझे दिएगे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001984_0": {
   "language": "ko",
   "language_probability": 0.51,
-  "text": "다음 영상에서 만나요!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001985_0": {
   "language": "en",
   "language_probability": 0.69,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001987_0": {
   "language": "en",
@@ -3695,7 +4066,8 @@
  "001989_0": {
   "language": "en",
   "language_probability": 0.81,
-  "text": "That's gonna get you killed But pride's gonna be the goal"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001990_0": {
   "language": "bn",
@@ -3710,7 +4082,8 @@
  "001993_0": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "तुझ से राहते तुझ से चाहते मोझे मैं कहीं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001994_0": {
   "language": "en",
@@ -3720,37 +4093,44 @@
  "001995_0": {
   "language": "hi",
   "language_probability": 0.34,
-  "text": "इस खुशी में क्यों लम्स बसने वो जहाँ रहे है।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001996_0": {
   "language": "hi",
   "language_probability": 0.76,
-  "text": "दिन मिच्यो तेरे ले इंटाम कागिके कर दा मैं प्रोमिस मिलने आउंगा मैंनु पता है तु फैन संवाइंगा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001997_0": {
   "language": "ja",
   "language_probability": 0.41,
-  "text": "Cause you only need a light"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001998_0": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "Sketchers, light up, light up my world I like your sketches, you like me, my Gucci shoes"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001998_1": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "Sketchers, light up, light up my world I like your sketches, you like me, my Gucci shoes"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "001999_0": {
   "language": "es",
   "language_probability": 0.56,
-  "text": "Llorá que telmerá"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "001999_1": {
   "language": "es",
   "language_probability": 0.56,
-  "text": "Llorá que telmerá"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002000_0": {
   "language": "en",
@@ -3760,7 +4140,8 @@
  "002005_0": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "HMM"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002006_0": {
   "language": "en",
@@ -3810,7 +4191,8 @@
  "002016_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "I'm gonna do it, I'm gonna do it, I'm gonna do it"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002017_0": {
   "language": "hi",
@@ -3840,12 +4222,14 @@
  "002020_0": {
   "language": "en",
   "language_probability": 0.4,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002020_1": {
   "language": "en",
   "language_probability": 0.4,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002021_0": {
   "language": "en",
@@ -3855,17 +4239,20 @@
  "002022_0": {
   "language": "en",
   "language_probability": 0.49,
-  "text": "Everyone not just enough"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002023_0": {
   "language": "hi",
   "language_probability": 0.56,
-  "text": "सबे बाबा टाइली हा जात्पात में, माई के दियाता गाली बात-बात में, पूरा देस के नितालों परभाद करता, लेके अलग-अलग धर्म के जंडहात में, विडिया भी अब तो भी काओ हो गईल, जूथ के सच्चत के जूथ लिखाता, पोट्ठावाली से भी सस्ता में"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002027_0": {
   "language": "hi",
   "language_probability": 0.63,
-  "text": "सबे बाब टाइली हा जाथ पात में, माई के दियाता गाली बात बात में, पूरा देस के नेतालों परभाद करता, लेके अलग अलग भरम के जंडहात में, विडिया भी अब तो भिकाव हो गईर, जूथ के सच्चच के जूथ लिखता, पोट्था वाली से भी सस्ता में अप"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002028_0": {
   "language": "en",
@@ -3885,12 +4272,14 @@
  "002030_0": {
   "language": "hi",
   "language_probability": 0.51,
-  "text": "बजन द्यर थुतमा धुमक् तुमक् जब हीट चै तू पाहाडी बाटोमा छमचमा पायल गुंगुरू बजन द्यर थुतमा ताल द्यर कंगना चुणरे तेर चमक नी गुला भी शरा चमक नी गुला भी शरा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002030_1": {
   "language": "hi",
   "language_probability": 0.52,
-  "text": "बजन थ्यार कुटमा धुमक्धुमक्ध जब हिट चे तू पाहडी बाटोमा चमचमा पायल गुं रू बजन थ्यार कुटमा डाल थ्यार कंगना चृनरी तेर जमकनी गूलाभी शराज"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002031_0": {
   "language": "en",
@@ -3900,7 +4289,8 @@
  "002032_0": {
   "language": "en",
   "language_probability": 0.86,
-  "text": "But your picture on my wall, it reminds me that it's not so bad, it's not so Still they call me"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002033_0": {
   "language": "zh",
@@ -3910,7 +4300,8 @@
  "002034_0": {
   "language": "ur",
   "language_probability": 0.59,
-  "text": "تیر ہو ہے وہی دل نے جسے اپنے کہاں تُو ہے جہاں میں ہوں وہاں"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002035_0": {
   "language": "hi",
@@ -3920,12 +4311,14 @@
  "002036_0": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "धुमक धुमक जब हिट चाय तू पाहरी बाटोमा चमचमा पायल गुंगरू बज दिज्यार कुटमा डाल दियार कंगना हरा भी शरा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002036_1": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "धुमक धुमक जब हिट चाय तू पाहरी बाटोमा चमचमा पायल गुंगरू बज दिज्यार कुटमा डाल दियार कंगना हरा भी शरा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002037_0": {
   "language": "en",
@@ -3935,7 +4328,8 @@
  "002039_0": {
   "language": "en",
   "language_probability": 0.85,
-  "text": "Put me on top of me, put me on top of her Put me on top of me, put me on top of her Pull me cause you on me, pull me cause you on me I know that you see me"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002041_0": {
   "language": "en",
@@ -3950,7 +4344,8 @@
  "002043_0": {
   "language": "hi",
   "language_probability": 0.51,
-  "text": "मैं तेरा रस्पा देखूँगा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002044_0": {
   "language": "en",
@@ -3960,22 +4355,26 @@
  "002046_0": {
   "language": "hi",
   "language_probability": 0.42,
-  "text": "जश्ने बाहारा हैं इश्क ये देख के हैरा हैं पूल से खुशबू खवा रहा हैं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002047_0": {
   "language": "en",
   "language_probability": 0.55,
-  "text": "Come on, boy, like it's a party We go wild, we are in safari Come on, boy, more than a fight It's the night, night, night It's the night, like it's a party We go wild"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002047_1": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Come on, boy, like it's a party We go wild, we are in safari Come on, boy, more than a fight It's the night, night, night It's the night, like it's a party We go wild"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002048_0": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002049_0": {
   "language": "en",
@@ -3990,7 +4389,8 @@
  "002052_0": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "How do you know that I made those mistakes? Maybe once or twice, once or twice, I mean maybe a couple of hundred times"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002056_0": {
   "language": "en",
@@ -4010,7 +4410,8 @@
  "002065_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002067_0": {
   "language": "en",
@@ -4020,22 +4421,26 @@
  "002068_0": {
   "language": "hi",
   "language_probability": 0.63,
-  "text": "असमा में खिड़कियों से देख तो पाड़ों को यो जोटे से लगे"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002069_0": {
   "language": "hi",
   "language_probability": 0.24,
-  "text": "अचूकु"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002071_0": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "Let you, let you, let you, let you, let you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002072_0": {
   "language": "ta",
   "language_probability": 0.48,
-  "text": "ஆரம்பல் ஹர் பிரசண்டு"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002073_0": {
   "language": "en",
@@ -4045,7 +4450,8 @@
  "002074_0": {
   "language": "hi",
   "language_probability": 0.36,
-  "text": "In your letter call देखो देखो कैसी बाते है यहां की है साथ पर साथ नहीं क्या सान है"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002075_0": {
   "language": "en",
@@ -4055,7 +4461,8 @@
  "002076_0": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "They keep the bitches tight, making fun of a nigga dick, bitches fucking dick, make it quick, pop my dick Yeah, just a close up, make it go Fuck my hoes, this a bitchin' ass hoes, this a bitchin' bitchin' hoes Don't even fuck my hoes, my nigga gonna hurt"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002078_0": {
   "language": "pa",
@@ -4090,7 +4497,8 @@
  "002084_0": {
   "language": "ko",
   "language_probability": 0.62,
-  "text": "핫폴리, 내 핫폴리 나의 너는 진짜로 잊어버렸다 아까 너는 잊어버렸다 잊어버렸다"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002085_0": {
   "language": "en",
@@ -4100,7 +4508,8 @@
  "002086_0": {
   "language": "en",
   "language_probability": 0.66,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002087_0": {
   "language": "en",
@@ -4125,27 +4534,32 @@
  "002091_0": {
   "language": "bn",
   "language_probability": 0.97,
-  "text": "A A A A A"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002092_0": {
   "language": "ur",
   "language_probability": 0.31,
-  "text": "او سد بد کوئی ہے کوئی میں نے ہجان گوائی تجھ کو بسایا ساو تو سے نینا جو سے ملے تو سے نینا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002092_1": {
   "language": "ur",
   "language_probability": 0.34,
-  "text": "او سدبود کوئی ہے کوئی میں نے ہجان گوائی تجھ کو بسایا ساو تو سے نینا جب سے ملے تو سے نینا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002093_0": {
   "language": "pa",
   "language_probability": 0.71,
-  "text": "SMG Meeri maang dekhain moth mere wehri Ni dasu satenyaan saund li kalli Khaeri chop karke ni maang dekhain moth mere wehri Pelli ghaal ke kisi na main jod ni mera Bade karn dunge"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002093_1": {
   "language": "pa",
   "language_probability": 0.71,
-  "text": "POS SMG Meri maang de ke moth mere wehri Ni dasu sathiyaan sun li kalli kari Chop karke ni maang de ke moth mere wehri Peli ghal ke kasi na main jod ni mera Bade karn dunga"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002094_0": {
   "language": "en",
@@ -4160,17 +4574,20 @@
  "002097_0": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002098_0": {
   "language": "hi",
   "language_probability": 0.4,
-  "text": "अपने गणा चार। ते बंदे दोने। अपने लियात। ना कोई होर ने। नान। फोन ने। वेजकार।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002099_0": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "Thanks for watching."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002100_0": {
   "language": "en",
@@ -4180,7 +4597,8 @@
  "002101_0": {
   "language": "pa",
   "language_probability": 0.65,
-  "text": "सुचां बारे तेरे नी सुन मेरी रानी रानी बन मेरी रानी अंकर दे तू मैं नू मैं दुनियानू हिला दूंगा तेनू महल दवा दू"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002102_0": {
   "language": "nl",
@@ -4210,7 +4628,8 @@
  "002108_0": {
   "language": "en",
   "language_probability": 0.86,
-  "text": "Don't don't in the city of"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002112_0": {
   "language": "en",
@@ -4225,12 +4644,14 @@
  "002114_0": {
   "language": "hi",
   "language_probability": 0.6,
-  "text": "कहने को वासे ..."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002115_0": {
   "language": "hi",
   "language_probability": 0.63,
-  "text": "अपने को वैसे तो सारा।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002118_0": {
   "language": "en",
@@ -4255,7 +4676,8 @@
  "002123_0": {
   "language": "hi",
   "language_probability": 0.61,
-  "text": "हम तेरे की मस्ताने हैं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002124_0": {
   "language": "en",
@@ -4265,7 +4687,8 @@
  "002126_0": {
   "language": "ur",
   "language_probability": 0.37,
-  "text": "اشت کا قرآن میں بھی آگے کہو تو کس سے مرضی ہوں کہو"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002128_0": {
   "language": "en",
@@ -4290,17 +4713,20 @@
  "002138_0": {
   "language": "en",
   "language_probability": 0.39,
-  "text": "you"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002138_1": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002140_0": {
   "language": "en",
   "language_probability": 0.39,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002141_0": {
   "language": "en",
@@ -4310,57 +4736,68 @@
  "002144_0": {
   "language": "en",
   "language_probability": 0.6,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_0": {
   "language": "en",
   "language_probability": 0.4,
-  "text": "Oh hello, I know, right?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_1": {
   "language": "hi",
   "language_probability": 0.44,
-  "text": "इस्कू है कैसा है कैसा है"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_2": {
   "language": "hi",
   "language_probability": 0.41,
-  "text": "दिल से रें दिल से रें दिल तो आखिर दिल है न मीथी सी मुष्किल है न पिया पिया पिया पिया"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_3": {
   "language": "hi",
   "language_probability": 0.61,
-  "text": "सज्रा सावेरा मेरे तन बरसे कच्रा अंगेरा तेइ जांगी लत्रा मिला जो तेरे दर परसे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_4": {
   "language": "ta",
   "language_probability": 0.33,
-  "text": "இது சுப்பர்மான் புலோட பங்கா"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_5": {
   "language": "hi",
   "language_probability": 0.42,
-  "text": "साथ सफर फासले हैं फिर भी मगर जैसे मिलते नहीं की शकीक देवा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_6": {
   "language": "en",
   "language_probability": 0.87,
-  "text": "what are you listening to you gotta hear this one song it'll change your life i swear oh i'm sorry you have to i gotta feel like it's good i like it"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002146_7": {
   "language": "hi",
   "language_probability": 0.4,
-  "text": "तल चांद पुछ ने कहा चेहरा ते।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_8": {
   "language": "sa",
   "language_probability": 0.39,
-  "text": "मKNु विदाकरो। मनु विदाकरो जि। अब विदाकरो मेरे आरा。 मनु विदाकरो। मनु विदाकरो जि। मन् जाना है इस पाइं।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002146_9": {
   "language": "hi",
   "language_probability": 0.74,
-  "text": "सच कह रहा है दिल ना किसी से लगाना जूठे है यार के वादे सारे जूठी है प्यार के लगाना"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002156_0": {
   "language": "en",
@@ -4370,12 +4807,14 @@
  "002157_0": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "Don't let anybody go for life"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002157_1": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Don't let anybody go for life"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002160_0": {
   "language": "en",
@@ -4405,27 +4844,32 @@
  "002166_0": {
   "language": "es",
   "language_probability": 0.58,
-  "text": "La iphone y el tubo ¡Hombro! Sólo dime dónde estás, te quiero Dígate, voy a rastrar Deja si llevas bien para la celular Que si estás conmigo no llegas Pa' la nada Solo deja a ti, mamá"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002166_1": {
   "language": "es",
   "language_probability": 0.55,
-  "text": "La IPhone y el tuyo, la familia Solo dime donde estás, te quiero enseñar Te voy a arrastrar, te voy a llevar Para la celular que si estás conmigo no te va a pasar nada Solo deja a mi mamá"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002169_0": {
   "language": "en",
   "language_probability": 0.85,
-  "text": "Or when we up, I'm on the clock Put me on top, everybody drop"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002170_0": {
   "language": "hi",
   "language_probability": 0.5,
-  "text": "ये पल कहीं तहरा नहीं यादों पे तो पहरा नहीं जब दवा से भी जख्म ना भरे ऐसे हाल में सुचो कोई क्या करे क्यों किसी को खुशी के बदले खुशी नहीं मिलती"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002171_0": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "Right now"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002174_0": {
   "language": "en",
@@ -4435,12 +4879,14 @@
  "002177_0": {
   "language": "ru",
   "language_probability": 0.81,
-  "text": "Есть по Дарьинбурга фонтанчик с черным дельфином и в жизни видеть лишь раз его доводилось"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002179_0": {
   "language": "hi",
   "language_probability": 0.53,
-  "text": "वेट। इस माई टर्न नह।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002180_0": {
   "language": "en",
@@ -4490,7 +4936,8 @@
  "002223_0": {
   "language": "en",
   "language_probability": 0.66,
-  "text": "I'll see you next time. Bye."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002224_0": {
   "language": "zh",
@@ -4505,7 +4952,8 @@
  "002253_0": {
   "language": "en",
   "language_probability": 0.55,
-  "text": "Yes, I'm not like that, but I'm good"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002254_0": {
   "language": "en",
@@ -4515,7 +4963,8 @@
  "002258_0": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002259_0": {
   "language": "en",
@@ -4585,27 +5034,32 @@
  "002332_0": {
   "language": "en",
   "language_probability": 0.27,
-  "text": "Meet the one"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002333_0": {
   "language": "hi",
   "language_probability": 0.66,
-  "text": "बारणी तुभी हुकम परो नीटारा कदी रहनी हैं हसदी रहनी हैं नीटू जो सजदी रहें होरिकी देली मेरे करके लिदर में लाली हैं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002335_0": {
   "language": "hi",
   "language_probability": 0.29,
-  "text": "बस ख्यार तुम्हारा लम्ह लम्ह थड़पाए"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002335_1": {
   "language": "hi",
   "language_probability": 0.3,
-  "text": "बस खयाद तुम्हारा लम्ह लम्ह तड़पाए ये तड़प के रही है मिट जाए पास रहे है"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002336_0": {
   "language": "hi",
   "language_probability": 0.44,
-  "text": "जोहें कहें जोहें मित्वाव"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002337_0": {
   "language": "en",
@@ -4615,7 +5069,8 @@
  "002358_0": {
   "language": "hi",
   "language_probability": 0.27,
-  "text": "यो अन्जाने अज्णवी चले बांदने बंधन"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002360_0": {
   "language": "gl",
@@ -4630,12 +5085,14 @@
  "002386_0": {
   "language": "en",
   "language_probability": 0.66,
-  "text": "Run the chalk, run the chalk, run the chalk, and nobody look but them say Run the chalk, run the chalk, run the chalk"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002388_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002390_0": {
   "language": "en",
@@ -4660,7 +5117,8 @@
  "002397_0": {
   "language": "en",
   "language_probability": 0.32,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002401_0": {
   "language": "ja",
@@ -4675,7 +5133,8 @@
  "002404_0": {
   "language": "en",
   "language_probability": 0.25,
-  "text": "da da da da da"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002405_0": {
   "language": "en",
@@ -4690,7 +5149,8 @@
  "002408_0": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "All right."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002409_0": {
   "language": "en",
@@ -4700,12 +5160,14 @@
  "002410_0": {
   "language": "hi",
   "language_probability": 0.62,
-  "text": "जानम देख लो मिट गई दूर्या मैं यहां हूं यहां हूं यहां हूं यहां"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002411_0": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "Hey"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002412_0": {
   "language": "en",
@@ -4715,12 +5177,14 @@
  "002414_0": {
   "language": "en",
   "language_probability": 0.48,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002415_0": {
   "language": "hi",
   "language_probability": 0.52,
-  "text": "आपको बहुत चाहूँ पूर्थ भी रीभ और इंहें जाओए था। बहुत चाहूँ, तू ज्ञाइभारी को लिए जाओए था। जाओए था जाओए था जाओए था।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002415_1": {
   "language": "hi",
@@ -4740,22 +5204,26 @@
  "002418_0": {
   "language": "en",
   "language_probability": 0.6,
-  "text": "Here comes the money Here we go Money talk, talk Here comes the money Money money money Money money money, money"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002420_0": {
   "language": "en",
   "language_probability": 0.66,
-  "text": "Spend money"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002422_0": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "Ooo, ooo, ooo ooo"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002422_1": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Ooh, ooh, ooh, ooh, ooh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002423_0": {
   "language": "en",
@@ -4770,7 +5238,8 @@
  "002427_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002431_0": {
   "language": "en",
@@ -4805,7 +5274,8 @@
  "002437_0": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "Well, uh, I'll see you later, guys."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002438_0": {
   "language": "en",
@@ -4820,7 +5290,8 @@
  "002440_0": {
   "language": "en",
   "language_probability": 0.8,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002441_0": {
   "language": "en",
@@ -4830,17 +5301,20 @@
  "002442_0": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002443_0": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "Look on the back the stars with the sun on your face"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002444_0": {
   "language": "en",
   "language_probability": 0.39,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002455_0": {
   "language": "en",
@@ -4855,12 +5329,14 @@
  "002457_0": {
   "language": "en",
   "language_probability": 0.37,
-  "text": "How am I supposed to live?"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002459_0": {
   "language": "hi",
   "language_probability": 0.64,
-  "text": "यूबे मज़ रोट कर नारिकाँ आजाँ।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002461_0": {
   "language": "en",
@@ -4885,7 +5361,8 @@
  "002466_0": {
   "language": "hi",
   "language_probability": 0.66,
-  "text": "ताक ते रहते तुझको साज सवे में बसियां जैसे नेर ये तेरे"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002466_1": {
   "language": "en",
@@ -4895,7 +5372,8 @@
  "002466_2": {
   "language": "en",
   "language_probability": 0.4,
-  "text": "Such a big night"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002466_3": {
   "language": "en",
@@ -4910,12 +5388,14 @@
  "002471_0": {
   "language": "en",
   "language_probability": 0.86,
-  "text": "And then they're by my side, and now you gon' be with me for the last Without you, my friend, and I'll tell you all about it when I see you again"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002471_1": {
   "language": "pt",
   "language_probability": 0.98,
-  "text": "festa do fim de semana"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002490_0": {
   "language": "en",
@@ -4935,7 +5415,8 @@
  "002493_0": {
   "language": "en",
   "language_probability": 0.85,
-  "text": "Every night cause I tried with you, saw my life with you Now we're strangers and I hope that you still cry for me"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002497_0": {
   "language": "en",
@@ -4945,17 +5426,20 @@
  "002499_0": {
   "language": "hi",
   "language_probability": 0.76,
-  "text": "जो फिर तुझे यूँगा हा जहां"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002499_1": {
   "language": "hi",
   "language_probability": 0.76,
-  "text": "जो फिर तुझे यूँगा हा जहां"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002500_0": {
   "language": "ko",
   "language_probability": 0.42,
-  "text": "매주 일요일 업로드됩니다."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002501_0": {
   "language": "en",
@@ -4970,7 +5454,8 @@
  "002502_0": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002504_0": {
   "language": "en",
@@ -5010,7 +5495,8 @@
  "002509_1": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002510_0": {
   "language": "en",
@@ -5045,12 +5531,14 @@
  "002517_0": {
   "language": "bn",
   "language_probability": 0.95,
-  "text": "आजके मुन् सुन्नोतो के छराँ। इच्छे राँ इच्छे से इशाराँ। इशी जामां कल्पणाई।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002517_1": {
   "language": "bn",
   "language_probability": 0.94,
-  "text": "अचके मुन् सुन्नोतो के छराँ। इच्छे राँ इच्छे से इशाराँ। इशी जामां कल्पणाई।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002519_0": {
   "language": "ta",
@@ -5080,22 +5568,26 @@
  "002523_0": {
   "language": "hi",
   "language_probability": 0.44,
-  "text": "जो हैं कहें जो हैं मित्वाव"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002523_1": {
   "language": "hi",
   "language_probability": 0.44,
-  "text": "जो हैं कहें, जो हैं मित्वां"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002524_0": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002524_1": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002525_0": {
   "language": "en",
@@ -5160,12 +5652,14 @@
  "002531_0": {
   "language": "hi",
   "language_probability": 0.64,
-  "text": "कोई इश्क दिलासा देके, एक रुम जरासा देदे, वो जो मेरा था मजे ही क्यूं मिलता ही नहीं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002531_1": {
   "language": "hi",
   "language_probability": 0.64,
-  "text": "कोई इश्क दिलासा देके, एक रुम जरासा देदे, वो जो मेरा था मजे ही क्यूं मिलता ही नहीं"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002532_0": {
   "language": "en",
@@ -5190,12 +5684,14 @@
  "002534_0": {
   "language": "hi",
   "language_probability": 0.31,
-  "text": "इसी जेक इसी जेक पैक आप पैक आप पैक आप"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002534_1": {
   "language": "hi",
   "language_probability": 0.32,
-  "text": "इसी जेक इसी जेक पैक आप पैक आप पैक आप"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002535_0": {
   "language": "en",
@@ -5220,22 +5716,26 @@
  "002537_0": {
   "language": "ja",
   "language_probability": 0.35,
-  "text": "だらだら・・・ おまえ、ぜくわ・・・"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002537_1": {
   "language": "ja",
   "language_probability": 0.35,
-  "text": "だりゃだりゃだりゃ お前ぜごらん"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002538_0": {
   "language": "en",
   "language_probability": 0.48,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002538_1": {
   "language": "en",
   "language_probability": 0.46,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002539_0": {
   "language": "en",
@@ -5245,27 +5745,32 @@
  "002541_0": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002542_0": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "किसका रस्ता देखे, है दिल, है सोदाई, नीलो, मोषी, बरसो, है तन."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002542_1": {
   "language": "hi",
   "language_probability": 0.46,
-  "text": "किसका रस्ता देके है दिल, है सोधाई मीलों मोशी, बरसों है तन"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002543_0": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "You bought me you then I-"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002543_1": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "You bought me you then I-"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002544_0": {
   "language": "en",
@@ -5280,12 +5785,14 @@
  "002545_0": {
   "language": "ta",
   "language_probability": 0.37,
-  "text": "கிராமல் தீர்"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002546_0": {
   "language": "en",
   "language_probability": 0.36,
-  "text": "I bet you could"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002546_1": {
   "language": "en",
@@ -5295,22 +5802,26 @@
  "002547_0": {
   "language": "en",
   "language_probability": 0.76,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002547_1": {
   "language": "en",
   "language_probability": 0.76,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002548_0": {
   "language": "en",
   "language_probability": 0.66,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002548_1": {
   "language": "en",
   "language_probability": 0.66,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002551_0": {
   "language": "en",
@@ -5325,12 +5836,14 @@
  "002552_0": {
   "language": "hi",
   "language_probability": 0.56,
-  "text": "उड़ जाना ते आना मुझे लिए"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002552_1": {
   "language": "hi",
   "language_probability": 0.52,
-  "text": "उध्ध जाना ते आना मुझे लिए लिए"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002553_0": {
   "language": "en",
@@ -5355,12 +5868,14 @@
  "002556_0": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002556_1": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002557_0": {
   "language": "en",
@@ -5385,7 +5900,8 @@
  "002562_0": {
   "language": "bn",
   "language_probability": 0.67,
-  "text": "hashtags suitable for you From a melee show to a carry"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002563_0": {
   "language": "hi",
@@ -5400,12 +5916,14 @@
  "002564_0": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002564_1": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002565_0": {
   "language": "en",
@@ -5420,12 +5938,14 @@
  "002566_0": {
   "language": "ur",
   "language_probability": 0.37,
-  "text": "آج پے مانے ہٹا دو یاروں آن سارا میں خانہ پیلا دو یاروں میں قدومے تو پیا کرتا ہوں"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002566_1": {
   "language": "ur",
   "language_probability": 0.37,
-  "text": "آج پے مانے ہٹا دو یاروں آن سارا میں خانہ پیلا دو یاروں میں قدومے تو پیا کرتا ہوں"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002567_0": {
   "language": "en",
@@ -5440,37 +5960,44 @@
  "002569_0": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "ऐसे लिए का थांगि लाए शिक्वा जो तो मुझे बात कि लाए शिक्वा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002569_1": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "ऐसे लिए का थांगि लाए शिक्वा जो तो मुझे बात कि लाए शिक्वा"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002570_0": {
   "language": "en",
   "language_probability": 0.75,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002570_1": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002572_0": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "Thank you."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002573_0": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "Got out of"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002573_1": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "Got out of"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002574_0": {
   "language": "en",
@@ -5485,12 +6012,14 @@
  "002575_0": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002575_1": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002576_0": {
   "language": "en",
@@ -5500,12 +6029,14 @@
  "002579_0": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "[\"Dance of the Sugar Plum Fairy\"]"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002579_1": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002580_0": {
   "language": "hi",
@@ -5520,7 +6051,8 @@
  "002583_0": {
   "language": "es",
   "language_probability": 0.78,
-  "text": "¡Suscríbete al canal!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002586_0": {
   "language": "en",
@@ -5540,17 +6072,20 @@
  "002590_0": {
   "language": "en",
   "language_probability": 0.29,
-  "text": "Men don't have so many"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002592_0": {
   "language": "ur",
   "language_probability": 0.46,
-  "text": "کس کا رستہ دیکھے اے دل اے سودائی"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002592_1": {
   "language": "ur",
   "language_probability": 0.46,
-  "text": "کس کا رستہ دیکھے اے دل اے سودائی"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002593_0": {
   "language": "en",
@@ -5565,12 +6100,14 @@
  "002594_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Now"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002594_1": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Now"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002595_0": {
   "language": "en",
@@ -5595,22 +6132,26 @@
  "002598_0": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002599_0": {
   "language": "en",
   "language_probability": 0.44,
-  "text": "You"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002600_0": {
   "language": "bn",
   "language_probability": 0.73,
-  "text": "মমা শে শে আে girls are here so keep the box শিক�росিে কা।ঢরতেে েবলolut? তারা কাকেজি৆বল"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002600_1": {
   "language": "bn",
   "language_probability": 0.73,
-  "text": "6 7 6 7 6 7 6 6 7 6 N advising S�� Solution Solution"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002602_0": {
   "language": "en",
@@ -5620,22 +6161,26 @@
  "002604_0": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002606_0": {
   "language": "bn",
   "language_probability": 0.95,
-  "text": "hetto"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002607_0": {
   "language": "es",
   "language_probability": 0.89,
-  "text": "Así que repárate, actívate, así calate que te quiero ver, te vas a repoguer, estás como mi mujer, estás como mi..."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002607_1": {
   "language": "es",
   "language_probability": 0.92,
-  "text": "Así que repártelo, activártelo, acicalártelo, que te quiero ver, que te vas a repoger, está con mi mujer, está con mi..."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002608_0": {
   "language": "en",
@@ -5670,12 +6215,14 @@
  "002614_0": {
   "language": "en",
   "language_probability": 0.46,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002614_1": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002615_0": {
   "language": "en",
@@ -5710,22 +6257,26 @@
  "002631_0": {
   "language": "zh",
   "language_probability": 0.6,
-  "text": "人才的重叠派"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002631_1": {
   "language": "zh",
   "language_probability": 0.68,
-  "text": "人才的重叠派"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002642_0": {
   "language": "ur",
   "language_probability": 0.42,
-  "text": "ممنت سنت ہتکاری سمجھ لی جائے پرب عرج ہماری جن کے کاری علم نہ کیجئے بات و دوری مہا سکھ دیجئے جیسے کود سندو وہی پارا سرسا بدن پیچھ بستارا آگے جائے لنک نہیں روکا مارے ہو لات گئی سر لوکا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002642_1": {
   "language": "ur",
   "language_probability": 0.42,
-  "text": "ممنت سنت ہتکاری سمجھ لی جائے پرب عرج ہماری جن کے کاری علم نہ کیجئے بات و دوری مہا سکھ دیجئے جیسے کود سندو وہی پارا سرسا بدن پیچھ بستارا آگے جائے لنک نہیں روکا مارے ہو لات گئی سر لوکا"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002643_0": {
   "language": "en",
@@ -5760,12 +6311,14 @@
  "002652_0": {
   "language": "ja",
   "language_probability": 0.35,
-  "text": "やっば"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002652_1": {
   "language": "ja",
   "language_probability": 0.35,
-  "text": "やっば"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002655_0": {
   "language": "ne",
@@ -5775,12 +6328,14 @@
  "002664_0": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "God, sneak us through the rivers Flood is rising up on your other plate"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002664_1": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "God, sneak us through the rivers Flood is rising up on your other plate"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002666_0": {
   "language": "en",
@@ -5790,12 +6345,14 @@
  "002669_0": {
   "language": "ar",
   "language_probability": 0.89,
-  "text": "اشتركوا في القناة"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002672_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002672_1": {
   "language": "en",
@@ -5810,32 +6367,38 @@
  "002674_0": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "Yip yip."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002674_1": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "Yip yip!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002693_0": {
   "language": "hi",
   "language_probability": 0.28,
-  "text": "जब जब देखे तुझे टिंटुजियां, टिंटुजियां, तिसके का इंजिन जाना।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002693_1": {
   "language": "hi",
   "language_probability": 0.28,
-  "text": "जब जब देखे तुझे टिंटुजियां, टिंटुजियां, तिसके का इंजिन जाना।"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002706_0": {
   "language": "en",
   "language_probability": 0.86,
-  "text": "You know how we do it"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002707_0": {
   "language": "en",
   "language_probability": 0.55,
-  "text": "I'm a I'm a brown boy"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002708_0": {
   "language": "en",
@@ -5865,7 +6428,8 @@
  "002721_0": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "My guy's pretty like a girl When he got vice boys, I was bout to go"
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002722_0": {
   "language": "en",
@@ -5900,7 +6464,8 @@
  "002732_0": {
   "language": "en",
   "language_probability": 0.29,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002737_0": {
   "language": "en",
@@ -5935,12 +6500,14 @@
  "002750_0": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "002754_0": {
   "language": "en",
   "language_probability": 0.95,
-  "text": "In another life, maybe it was you and me, maybe there we loved each other right, and we were happy together."
+  "text": "",
+  "note": "cleared: music/song"
  },
  "002755_0": {
   "language": "en",
@@ -5950,6 +6517,7 @@
  "002756_0": {
   "language": "hi",
   "language_probability": 0.63,
-  "text": "पंछी बनूड़ते फिरूं मस्त गगन में आज मैं आजाद हूं दुनिया के समन में पंछी बनूड़ते फिरूं मस्त गगन में"
+  "text": "",
+  "note": "cleared: music/song"
  }
 }
