@@ -29,6 +29,30 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install gdown faster-whisper==1.1.1 "av<14" requests
+      - name: List the shared Drive folder
+        env:
+          FOLDER_ID: 1WL2MuyrTDgWPLZL_W5RFyVEXR7ZEVcvH
+        run: |
+          python3 - <<'PY'
+          import html, os, re, requests
+          url = f"https://drive.google.com/embeddedfolderview?id={os.environ['FOLDER_ID']}"
+          page = requests.get(url, timeout=60).text
+          entries = re.findall(r'href="https://drive\.google\.com/file/d/([^/"]+)/view[^"]*".*?flip-entry-title">([^<]+)<', page, re.S)
+          keep = {".mp4", ".jpg", ".jpeg", ".png", ".webp", ".gif", ".mov"}
+          path = "my_page/drive_ids.txt"
+          lines = open(path, encoding="utf-8").read().splitlines()
+          known = {l.split("\t")[0] for l in lines if l and not l.startswith("#")}
+          added = 0
+          for fid, name in entries:
+              name = html.unescape(name).strip()
+              if fid in known or os.path.splitext(name)[1].lower() not in keep or name == "profile_pic.jpg":
+                  continue
+              lines.append(f"{fid}\t{name}")
+              known.add(fid)
+              added += 1
+          open(path, "w", encoding="utf-8").write("\n".join(lines) + "\n")
+          print(f"folder entries: {len(entries)}, added: {added}, total listed: {len(known)}")
+          PY
       - name: Download from Drive
         run: |
           mkdir -p my_page/media
