@@ -1,74 +1,2262 @@
 [
- {"file":"media/1103329257583102.mp4","type":"video",
-  "text":"বন্ধুদের সাথে স্কুল পালানোর সময়, ধরা খাওয়ার পরে বন্ধুদের ব্যাপারে us to Arjun sir: — \"We? Who's we? There is no WE.\" / \"Who is you and me?\"",
-  "situation":"Friends bunk school together, but once a teacher catches them everyone pretends they don't know each other",
-  "why_relatable":"Every student has seen 'we're in this together' collapse the moment a teacher starts asking who else was involved",
-  "card":"Bunking & getting caught","characters":["students (friend group)","teacher (Arjun sir)"],"setting":"outside school / teacher's room","moment":"after getting caught bunking",
-  "audience_feeling":["guilty laughter","recognition"],"butt_of_joke":"students (us)","angle":"self-mocking",
-  "joke_mechanism":["betrayal / self-preservation","before vs after (together while bunking, strangers when caught)"],
-  "template_used":"\"We? Who's we? There is no we\" TV-series dialogue compilation","specificity":"universal (teacher name makes it local)"},
- {"file":"media/1475518939540498.mp4","type":"video",
-  "text":"No on-screen caption; an English song plays over a montage",
-  "situation":"Online/YouTube teachers and coaching-channel lecturers shown as the real heroes who actually taught us",
-  "why_relatable":"Many students learn more from online lecture channels than from school classes",
-  "card":"Online / coaching teachers vs school","characters":["online teachers","students"],"setting":"whiteboard lectures, YouTube playlists (admission channels)","moment":"exam / admission preparation",
-  "audience_feeling":["gratitude","nostalgia"],"butt_of_joke":"none (tribute); indirectly school teaching","angle":"appreciative",
-  "joke_mechanism":["tribute / hero framing"],"template_used":"montage set to a superhero-themed song","specificity":"Bangladesh-wide",
-  "note":"Not really a joke, more a tribute. The song lyrics are not copied here."},
- {"file":"media/291809897293078.mp4","type":"video",
-  "text":"Halim Sir if you don't call yourself a Sunnih Muslim",
-  "situation":"A teacher reacts instantly and violently when a student touches his strongly held personal/religious view",
-  "why_relatable":"Most schools have a teacher with one pet topic where the wrong answer gets you punished on the spot",
-  "card":"Teacher's pet topic / instant punishment","characters":["teacher (Halim sir)","student"],"setting":"classroom","moment":"religion class / discussion",
-  "audience_feeling":["shock laughter","fear"],"butt_of_joke":"teacher","angle":"mocking the teacher",
-  "joke_mechanism":["if X → sudden extreme consequence","exaggeration"],"template_used":"RKO \"outta nowhere\" WrestleMania clip","specificity":"only your school",
-  "note":"Religious topic, so it's sensitive. Worth thinking about before reusing the angle."},
- {"file":"media/358070603018987.mp4","type":"video",
-  "text":"এখলাস স্যারের পাগলা ভক্ত সম্প্রদায় — film dialogue: \"Who's the executioner in the photo?\" \"Not an executioner! That's my father! And I'm his father!\"",
-  "situation":"Some students are die-hard fans of one particular teacher and defend him over-the-top",
-  "why_relatable":"Every school has a teacher with a loyal fan base who take any joke about him personally",
-  "card":"Teacher fan club","characters":["teacher (Ekhlas sir)","fan students","outsider"],"setting":"anywhere","moment":"when someone insults/jokes about the teacher",
-  "audience_feeling":["amusement","recognition"],"butt_of_joke":"the fan students","angle":"teasing",
-  "joke_mechanism":["absurd over-defence (\"he's my father, I'm his father\")","face-swap of the teacher into the scene"],
-  "template_used":"Hindi comedy film portrait/'he's my father' scene with teacher face-swap","specificity":"only your school"},
- {"file":"media/672135864899587.mp4","type":"video",
-  "text":"No on-screen caption. Speech (Hindi): \"Top G ek aisa insaan hota hai?\" followed by a 'Top G' lifestyle montage",
-  "situation":"UNCLEAR: there's no school angle visible in the video itself",
-  "card":"Unclassified (needs post caption)","angle":"unknown",
-  "note":"The school joke was probably in the Facebook post caption, which isn't in the file. Please send the caption if you have it."},
- {"file":"media/136988932409597.jpg","type":"photo",
-  "text":"Random Annadian: জানো? অন্নদা বি-বাড়ীয়ার সেরা স্কুল... / Random Public: স্যাররা ক্লাসে অনেক ভালো পড়ায়; তাইনা? (twice, second time without the smile)",
-  "situation":"Students brag that their school is the best, but the obvious follow-up 'teachers teach well in class, right?' gets awkward silence",
-  "why_relatable":"Famous schools' students know the reputation is real but classroom teaching isn't; everyone relies on coaching/private tuition",
-  "card":"School pride vs reality","characters":["Annada student","outsider / public"],"setting":"conversation","moment":"talking about your school",
-  "audience_feeling":["self-aware laughter","pride + shame"],"butt_of_joke":"own school (teaching quality)","angle":"proud but self-mocking",
-  "joke_mechanism":["expectation vs reality","awkward silence / unanswered question"],"template_used":"Anakin & Padmé 4-panel (\"...right?\")","specificity":"only your school (format works for any 'best school')"},
- {"file":"media/396912926417195.jpg","type":"photo",
-  "text":"No text: megaphone and envelopes graphic with the Annada Pain logo",
-  "situation":"Not a meme. It's a page announcement / notice graphic",
-  "card":"Not a meme (announcement)","note":"Suggest excluding these from the Situation Bank."},
- {"file":"media/412449594863528.jpg","type":"photo",
-  "text":"Comic: 'They hated him because he told them the truth' with মডেলের চেয়ে সাবেরার মেয়েরা বেশী সুন্দরী; chat: \"Eida kemon hoise?\" → \"Valo kintu model er meye ra beshi shundor\" → \"You removed ... from the group\"",
-  "situation":"Boys argue about which neighbouring girls' school is better, and anyone who disagrees gets kicked from the group chat",
-  "why_relatable":"Boys'-school students endlessly compare the nearby girls' schools, and group chats turn it into a war",
-  "card":"Rivalry / comparison with neighbouring girls' schools","characters":["boys (group chat)","admin"],"setting":"messenger group chat","moment":"sharing a meme in the group",
-  "audience_feeling":["laughter","tribal loyalty"],"butt_of_joke":"the boys / the group admin","angle":"self-aware rivalry",
-  "joke_mechanism":["meta (meme about the meme's reaction)","'they hated him because he told the truth' irony","escalation to removal"],
-  "template_used":"\"They hated him because he told them the truth\" comic + chat screenshot","specificity":"only your area (Brahmanbaria schools)",
-  "note":"Compares girls by looks, which can backfire with some audiences."},
- {"file":"media/467822059326281.jpg","type":"photo",
-  "text":"১৯৭১ সালে মুক্তিযুদ্ধ চলাকালীন সময়, আমি দুলাল। ১\\৩ দিলুরোড এ ট্রেনিং এর সময়।(বীর মুক্তিযোদ্ধা দুলাল দাস)",
-  "situation":"A present-day young man in camouflage uniform roasted with a fake '1971 freedom-fighter archive photo' caption",
-  "why_relatable":"Friends turn anyone's serious uniform photo (BNCC, scouts, cadet) into a fake-history roast",
-  "card":"Roasting a classmate / fake history","characters":["a classmate or local person (\"Dulal\" in the caption)"],"setting":"photo","moment":"after someone posts a uniform photo",
-  "audience_feeling":["laughter"],"butt_of_joke":"the person in the photo","angle":"roast",
-  "joke_mechanism":["fake vintage (grain + B/W) + formal caption","mock-serious tone"],"template_used":"own photo edited to look like a 1971 archive photo","specificity":"only your school / area",
-  "note":"Uses a real person and the Liberation War, so it's sensitive. I'm unsure whether this person is a student, an alumnus or someone else."},
- {"file":"media/516747877767032.jpg","type":"photo",
-  "text":"শোনো কুবুদ্ধি আর চাপাবাজি একসাথে মিশাইতে যাইয়ো না, পরে স্কুলের নাম কি দিবা? — over the gate and logo of Govt. Model Girls High School, Brahmanbaria",
-  "situation":"Roasting the neighbouring girls' school as a mix of scheming and bragging",
-  "why_relatable":"Inter-school rivalry: students love roasting the nearby school's reputation",
-  "card":"Rivalry / comparison with neighbouring girls' schools","characters":["rival school"],"setting":"school gate","moment":"general rivalry",
-  "audience_feeling":["tribal laughter"],"butt_of_joke":"rival school","angle":"mocking the rival",
-  "joke_mechanism":["\"don't mix X and Y, or what will you name it?\" format","implied insult"],"template_used":"'শোনো X আর Y একসাথে মিশাইতে যাইয়ো না' text format + school gate photo","specificity":"only your area"}
+ {
+  "file": "media/1103329257583102.mp4",
+  "type": "video",
+  "text": "বন্ধুদের সাথে স্কুল পালানোর সময়, ধরা খাওয়ার পরে বন্ধুদের ব্যাপারে us to Arjun sir: — \"We? Who's we? There is no WE.\" / \"Who is you and me?\"",
+  "situation": "Friends bunk school together, but once a teacher catches them everyone pretends they don't know each other",
+  "why_relatable": "Every student has seen 'we're in this together' collapse the moment a teacher starts asking who else was involved",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "students (friend group)",
+   "teacher (Arjun sir)"
+  ],
+  "setting": "outside school / teacher's room",
+  "moment": "after getting caught bunking",
+  "audience_feeling": [
+   "guilty laughter",
+   "recognition"
+  ],
+  "butt_of_joke": "students (us)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "betrayal / self-preservation",
+   "before vs after (together while bunking, strangers when caught)"
+  ],
+  "template_used": "\"We? Who's we? There is no we\" TV-series dialogue compilation",
+  "specificity": "universal (teacher name makes it local)"
+ },
+ {
+  "file": "media/1475518939540498.mp4",
+  "type": "video",
+  "text": "No on-screen caption; an English song plays over a montage",
+  "situation": "Online/YouTube teachers and coaching-channel lecturers shown as the real heroes who actually taught us",
+  "why_relatable": "Many students learn more from online lecture channels than from school classes",
+  "card": "Online / coaching teachers vs school",
+  "characters": [
+   "online teachers",
+   "students"
+  ],
+  "setting": "whiteboard lectures, YouTube playlists (admission channels)",
+  "moment": "exam / admission preparation",
+  "audience_feeling": [
+   "gratitude",
+   "nostalgia"
+  ],
+  "butt_of_joke": "none (tribute); indirectly school teaching",
+  "angle": "appreciative",
+  "joke_mechanism": [
+   "tribute / hero framing"
+  ],
+  "template_used": "montage set to a superhero-themed song",
+  "specificity": "Bangladesh-wide",
+  "note": "Not really a joke, more a tribute. The song lyrics are not copied here."
+ },
+ {
+  "file": "media/291809897293078.mp4",
+  "type": "video",
+  "text": "Halim Sir if you don't call yourself a Sunnih Muslim",
+  "situation": "A teacher reacts instantly and violently when a student touches his strongly held personal/religious view",
+  "why_relatable": "Most schools have a teacher with one pet topic where the wrong answer gets you punished on the spot",
+  "card": "Teacher's pet topic / instant punishment",
+  "characters": [
+   "teacher (Halim sir)",
+   "student"
+  ],
+  "setting": "classroom",
+  "moment": "religion class / discussion",
+  "audience_feeling": [
+   "shock laughter",
+   "fear"
+  ],
+  "butt_of_joke": "teacher",
+  "angle": "mocking the teacher",
+  "joke_mechanism": [
+   "if X → sudden extreme consequence",
+   "exaggeration"
+  ],
+  "template_used": "RKO \"outta nowhere\" WrestleMania clip",
+  "specificity": "only your school",
+  "note": "Religious topic, so it's sensitive. Worth thinking about before reusing the angle."
+ },
+ {
+  "file": "media/358070603018987.mp4",
+  "type": "video",
+  "text": "এখলাস স্যারের পাগলা ভক্ত সম্প্রদায় — film dialogue: \"Who's the executioner in the photo?\" \"Not an executioner! That's my father! And I'm his father!\"",
+  "situation": "Some students are die-hard fans of one particular teacher and defend him over-the-top",
+  "why_relatable": "Every school has a teacher with a loyal fan base who take any joke about him personally",
+  "card": "Teacher fan club",
+  "characters": [
+   "teacher (Ekhlas sir)",
+   "fan students",
+   "outsider"
+  ],
+  "setting": "anywhere",
+  "moment": "when someone insults/jokes about the teacher",
+  "audience_feeling": [
+   "amusement",
+   "recognition"
+  ],
+  "butt_of_joke": "the fan students",
+  "angle": "teasing",
+  "joke_mechanism": [
+   "absurd over-defence (\"he's my father, I'm his father\")",
+   "face-swap of the teacher into the scene"
+  ],
+  "template_used": "Hindi comedy film portrait/'he's my father' scene with teacher face-swap",
+  "specificity": "only your school"
+ },
+ {
+  "file": "media/672135864899587.mp4",
+  "type": "video",
+  "text": "No on-screen caption. Speech (Hindi): \"Top G ek aisa insaan hota hai?\" followed by a 'Top G' lifestyle montage",
+  "situation": "UNCLEAR: there's no school angle visible in the video itself",
+  "card": "Unclassified (needs post caption)",
+  "angle": "unknown",
+  "note": "The school joke was probably in the Facebook post caption, which isn't in the file. Please send the caption if you have it."
+ },
+ {
+  "file": "media/136988932409597.jpg",
+  "type": "photo",
+  "text": "Random Annadian: জানো? অন্নদা বি-বাড়ীয়ার সেরা স্কুল... / Random Public: স্যাররা ক্লাসে অনেক ভালো পড়ায়; তাইনা? (twice, second time without the smile)",
+  "situation": "Students brag that their school is the best, but the obvious follow-up 'teachers teach well in class, right?' gets awkward silence",
+  "why_relatable": "Famous schools' students know the reputation is real but classroom teaching isn't; everyone relies on coaching/private tuition",
+  "card": "School pride vs reality",
+  "characters": [
+   "Annada student",
+   "outsider / public"
+  ],
+  "setting": "conversation",
+  "moment": "talking about your school",
+  "audience_feeling": [
+   "self-aware laughter",
+   "pride + shame"
+  ],
+  "butt_of_joke": "own school (teaching quality)",
+  "angle": "proud but self-mocking",
+  "joke_mechanism": [
+   "expectation vs reality",
+   "awkward silence / unanswered question"
+  ],
+  "template_used": "Anakin & Padmé 4-panel (\"...right?\")",
+  "specificity": "only your school (format works for any 'best school')"
+ },
+ {
+  "file": "media/396912926417195.jpg",
+  "type": "photo",
+  "text": "No text: megaphone and envelopes graphic with the Annada Pain logo",
+  "situation": "Not a meme. It's a page announcement / notice graphic",
+  "card": "Not a meme (announcement)",
+  "note": "Suggest excluding these from the Situation Bank."
+ },
+ {
+  "file": "media/412449594863528.jpg",
+  "type": "photo",
+  "text": "Comic: 'They hated him because he told them the truth' with মডেলের চেয়ে সাবেরার মেয়েরা বেশী সুন্দরী; chat: \"Eida kemon hoise?\" → \"Valo kintu model er meye ra beshi shundor\" → \"You removed ... from the group\"",
+  "situation": "Boys argue about which neighbouring girls' school is better, and anyone who disagrees gets kicked from the group chat",
+  "why_relatable": "Boys'-school students endlessly compare the nearby girls' schools, and group chats turn it into a war",
+  "card": "Rivalry / comparison with neighbouring girls' schools",
+  "characters": [
+   "boys (group chat)",
+   "admin"
+  ],
+  "setting": "messenger group chat",
+  "moment": "sharing a meme in the group",
+  "audience_feeling": [
+   "laughter",
+   "tribal loyalty"
+  ],
+  "butt_of_joke": "the boys / the group admin",
+  "angle": "self-aware rivalry",
+  "joke_mechanism": [
+   "meta (meme about the meme's reaction)",
+   "'they hated him because he told the truth' irony",
+   "escalation to removal"
+  ],
+  "template_used": "\"They hated him because he told them the truth\" comic + chat screenshot",
+  "specificity": "only your area (Brahmanbaria schools)",
+  "note": "Compares girls by looks, which can backfire with some audiences."
+ },
+ {
+  "file": "media/467822059326281.jpg",
+  "type": "photo",
+  "text": "১৯৭১ সালে মুক্তিযুদ্ধ চলাকালীন সময়, আমি দুলাল। ১\\৩ দিলুরোড এ ট্রেনিং এর সময়।(বীর মুক্তিযোদ্ধা দুলাল দাস)",
+  "situation": "A present-day young man in camouflage uniform roasted with a fake '1971 freedom-fighter archive photo' caption",
+  "why_relatable": "Friends turn anyone's serious uniform photo (BNCC, scouts, cadet) into a fake-history roast",
+  "card": "Roasting a classmate / fake history",
+  "characters": [
+   "a classmate or local person (\"Dulal\" in the caption)"
+  ],
+  "setting": "photo",
+  "moment": "after someone posts a uniform photo",
+  "audience_feeling": [
+   "laughter"
+  ],
+  "butt_of_joke": "the person in the photo",
+  "angle": "roast",
+  "joke_mechanism": [
+   "fake vintage (grain + B/W) + formal caption",
+   "mock-serious tone"
+  ],
+  "template_used": "own photo edited to look like a 1971 archive photo",
+  "specificity": "only your school / area",
+  "note": "Uses a real person and the Liberation War, so it's sensitive. I'm unsure whether this person is a student, an alumnus or someone else."
+ },
+ {
+  "file": "media/516747877767032.jpg",
+  "type": "photo",
+  "text": "শোনো কুবুদ্ধি আর চাপাবাজি একসাথে মিশাইতে যাইয়ো না, পরে স্কুলের নাম কি দিবা? — over the gate and logo of Govt. Model Girls High School, Brahmanbaria",
+  "situation": "Roasting the neighbouring girls' school as a mix of scheming and bragging",
+  "why_relatable": "Inter-school rivalry: students love roasting the nearby school's reputation",
+  "card": "Rivalry / comparison with neighbouring girls' schools",
+  "characters": [
+   "rival school"
+  ],
+  "setting": "school gate",
+  "moment": "general rivalry",
+  "audience_feeling": [
+   "tribal laughter"
+  ],
+  "butt_of_joke": "rival school",
+  "angle": "mocking the rival",
+  "joke_mechanism": [
+   "\"don't mix X and Y, or what will you name it?\" format",
+   "implied insult"
+  ],
+  "template_used": "'শোনো X আর Y একসাথে মিশাইতে যাইয়ো না' text format + school gate photo",
+  "specificity": "only your area"
+ },
+ {
+  "file": "media/1003954654808618.mp4",
+  "type": "video",
+  "text": "No meme text; news footage of army soldiers and armoured vehicles on streets, crowds of young men; spoken audio is a dramatic speech",
+  "situation": "News footage of the army deployed on the streets during a period of unrest, posted without visible school framing.",
+  "why_relatable": "Students lived through the shutdown/unrest period together; the school angle is probably in the post caption.",
+  "card": "Unclassified (needs post caption)",
+  "characters": [
+   "army soldiers",
+   "crowd of young people"
+  ],
+  "setting": "city streets",
+  "moment": "national unrest / curfew period",
+  "audience_feeling": [
+   "tension",
+   "solidarity"
+  ],
+  "butt_of_joke": "unclear",
+  "angle": "unclear",
+  "joke_mechanism": [
+   "unclear"
+  ],
+  "template_used": "TV news clips (army deployment) with page watermark",
+  "specificity": "Bangladesh-wide",
+  "note": "Political/sensitive: army deployment during national unrest (likely 2024). School angle not visible; probably in caption."
+ },
+ {
+  "file": "media/1042994673303947.mp4",
+  "type": "video",
+  "text": "পরীক্ষার সময় যখন স্যার খাতা নিয়ে চলে যাচ্ছে",
+  "situation": "When the invigilator takes your answer script away at the end of the exam before you have finished, you beg desperately for just a little more time.",
+  "why_relatable": "Everyone has pleaded for 'one more minute' while the teacher collects scripts with questions still unanswered.",
+  "card": "Exam hall struggles",
+  "characters": [
+   "invigilator teacher",
+   "student"
+  ],
+  "setting": "exam hall",
+  "moment": "end of exam time",
+  "audience_feeling": [
+   "panic",
+   "self-recognition"
+  ],
+  "butt_of_joke": "the student (self)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "absurd over-reaction",
+   "exaggeration"
+  ],
+  "template_used": "Viral Pakistani street interview of a boy emotionally begging a reporter to let him go meet his idol",
+  "specificity": "universal",
+  "note": ""
+ },
+ {
+  "file": "media/1053260234258775 4.mp4",
+  "type": "video",
+  "text": "প্রশংসাপত্র আনতে গিয়ে হঠাৎ ১*লাশ স্যারের সাথে দেখা: (labels: *Me, ১*লাশ স্যার)",
+  "situation": "After finishing school, you go back to collect your testimonial and suddenly come face to face with the strict teacher who used to terrorise you, now with nothing to fear.",
+  "why_relatable": "Ex-students imagine the moment they meet the feared teacher as equals once they've left school.",
+  "card": "Ex-student vs strict teacher (payback)",
+  "characters": [
+   "ex-student (me)",
+   "strict teacher (১*লাশ স্যার)"
+  ],
+  "setting": "school office / campus",
+  "moment": "after SSC, collecting testimonial",
+  "audience_feeling": [
+   "satisfaction",
+   "nostalgia",
+   "fun"
+  ],
+  "butt_of_joke": "the strict teacher",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "role reversal",
+   "comparison"
+  ],
+  "template_used": "Rajinikanth 'Sivaji' face-off scene (villain taunts 'what will you do, Shivaji')",
+  "specificity": "only your school",
+  "note": "Duplicate of media/1053260234258775.mp4. Teacher nickname partly censored as written."
+ },
+ {
+  "file": "media/1053260234258775.mp4",
+  "type": "video",
+  "text": "প্রশংসাপত্র আনতে গিয়ে হঠাৎ ১*লাশ স্যারের সাথে দেখা: (labels: *Me, ১*লাশ স্যার)",
+  "situation": "After finishing school, you go back to collect your testimonial and suddenly come face to face with the strict teacher who used to terrorise you, now with nothing to fear.",
+  "why_relatable": "Ex-students imagine the moment they meet the feared teacher as equals once they've left school.",
+  "card": "Ex-student vs strict teacher (payback)",
+  "characters": [
+   "ex-student (me)",
+   "strict teacher (১*লাশ স্যার)"
+  ],
+  "setting": "school office / campus",
+  "moment": "after SSC, collecting testimonial",
+  "audience_feeling": [
+   "satisfaction",
+   "nostalgia",
+   "fun"
+  ],
+  "butt_of_joke": "the strict teacher",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "role reversal",
+   "comparison"
+  ],
+  "template_used": "Rajinikanth 'Sivaji' face-off scene (villain taunts 'what will you do, Shivaji')",
+  "specificity": "only your school",
+  "note": "Duplicate of media/1053260234258775 4.mp4. Teacher nickname partly censored as written."
+ },
+ {
+  "file": "media/105638505471879.jpg",
+  "type": "photo",
+  "text": "No meme caption; wall reads ৮ ডিসেম্বর ব্রাহ্মণবাড়িয়া মুক্ত দিবস",
+  "situation": "Students in uniform climb over the school boundary wall to escape while one is already down on the road.",
+  "why_relatable": "Jumping the school wall to bunk is a classic school rite everyone has done or watched.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "students in uniform"
+  ],
+  "setting": "school boundary wall / roadside",
+  "moment": "during school hours",
+  "audience_feeling": [
+   "nostalgia",
+   "thrill"
+  ],
+  "butt_of_joke": "the bunking students (us)",
+  "angle": "nostalgic",
+  "joke_mechanism": [
+   "irony"
+  ],
+  "template_used": "Real photo of students climbing the school wall",
+  "specificity": "only your school",
+  "note": "Real students visible. Wall shows Liberation-related slogan (Brahmanbaria freedom day), incidental. Caption likely adds the joke."
+ },
+ {
+  "file": "media/105645305471199.jpg",
+  "type": "photo",
+  "text": "অন্নদা সরকারি উচ্চ বিদ্যালয়, জ্ঞানই শক্তি, স্থাপিত ১৮৭৫ খ্রিঃ, ব্রাহ্মণবাড়িয়া",
+  "situation": "The official school emblem.",
+  "why_relatable": "Students recognise their school logo; used as page identity.",
+  "card": "Not a meme (school logo)",
+  "characters": [],
+  "setting": "n/a",
+  "moment": "n/a",
+  "audience_feeling": [
+   "pride"
+  ],
+  "butt_of_joke": "none",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "School crest",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/1080735313200666.mp4",
+  "type": "video",
+  "text": "ABUL HOSSAIN SIR ON HIS WAY TO CALL HIS STUDENTS \"BETASIR\" FOR THE 69th TIME",
+  "situation": "A teacher who keeps using the same pet insult for students marches into class ready to say it yet again.",
+  "why_relatable": "Every school has a teacher with a signature catchphrase that students can predict and imitate.",
+  "card": "Teacher's catchphrase / habit",
+  "characters": [
+   "teacher (Abul Hossain sir)",
+   "students"
+  ],
+  "setting": "classroom",
+  "moment": "any class",
+  "audience_feeling": [
+   "recognition",
+   "fun"
+  ],
+  "butt_of_joke": "Abul Hossain sir",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "exaggeration",
+   "repetition"
+  ],
+  "template_used": "Putin confidently walking down a hallway meme",
+  "specificity": "only your school",
+  "note": "Real teacher named; uses face of a real politician as template."
+ },
+ {
+  "file": "media/1086612165936390.mp4",
+  "type": "video",
+  "text": "রেজাল্ট, বিজ্ঞান মেলা; ডিবেট, খেলা ইত্যাদি ব্যাপারে অন্নদিয়ানদের অভিমতঃ (পর্ব ৭); spoken line repeats 'Harvard'",
+  "situation": "Asked about results, science fairs, debates or sports, students of the school confidently boast that their school is world-class at everything.",
+  "why_relatable": "Students love bragging about their school's legacy whatever the actual performance.",
+  "card": "School pride vs reality",
+  "characters": [
+   "Annada students",
+   "reporter"
+  ],
+  "setting": "TV street interview",
+  "moment": "after results / competitions",
+  "audience_feeling": [
+   "pride",
+   "fun"
+  ],
+  "butt_of_joke": "own school's over-confident students",
+  "angle": "proud",
+  "joke_mechanism": [
+   "exaggeration",
+   "irony"
+  ],
+  "template_used": "Viral Jamuna TV interview of a masked young man (series episode 7)",
+  "specificity": "only your school",
+  "note": "Exact spoken punchline unclear from transcript; clip comes from protest-era news footage."
+ },
+ {
+  "file": "media/1086640384111109 6.jpg",
+  "type": "photo",
+  "text": "YES Exam IS COMING;",
+  "situation": "Two teachers ominously remind students that exams are approaching.",
+  "why_relatable": "The dread of teachers announcing exams are near is shared by every student.",
+  "card": "Exam dread",
+  "characters": [
+   "two teachers"
+  ],
+  "setting": "school",
+  "moment": "before exam week",
+  "audience_feeling": [
+   "dread",
+   "fun"
+  ],
+  "butt_of_joke": "students (and the dramatic teachers)",
+  "angle": "complaining",
+  "joke_mechanism": [
+   "exaggeration",
+   "wordplay"
+  ],
+  "template_used": "Game of Thrones 'Winter is coming' scene with teachers' faces pasted",
+  "specificity": "only your school",
+  "note": "Real teachers' faces photoshopped (names not shown). Duplicate of media/1086640384111109.jpg."
+ },
+ {
+  "file": "media/1086640384111109.jpg",
+  "type": "photo",
+  "text": "YES Exam IS COMING;",
+  "situation": "Two teachers ominously remind students that exams are approaching.",
+  "why_relatable": "The dread of teachers announcing exams are near is shared by every student.",
+  "card": "Exam dread",
+  "characters": [
+   "two teachers"
+  ],
+  "setting": "school",
+  "moment": "before exam week",
+  "audience_feeling": [
+   "dread",
+   "fun"
+  ],
+  "butt_of_joke": "students (and the dramatic teachers)",
+  "angle": "complaining",
+  "joke_mechanism": [
+   "exaggeration",
+   "wordplay"
+  ],
+  "template_used": "Game of Thrones 'Winter is coming' scene with teachers' faces pasted",
+  "specificity": "only your school",
+  "note": "Real teachers' faces photoshopped (names not shown). Duplicate of media/1086640384111109 6.jpg."
+ },
+ {
+  "file": "media/1091700925447120.mp4",
+  "type": "video",
+  "text": "Any kind of cultural event exists. le Shurjomukhi School:",
+  "situation": "A nearby small school jumps at every possible occasion to stage dance performances.",
+  "why_relatable": "Locals know which neighbouring school turns every event into a dance show.",
+  "card": "Rivalry / mocking other local schools",
+  "characters": [
+   "rival school (Shurjomukhi Kindergarten)"
+  ],
+  "setting": "rival school building",
+  "moment": "cultural events / national days",
+  "audience_feeling": [
+   "fun",
+   "superiority"
+  ],
+  "butt_of_joke": "Shurjomukhi School",
+  "angle": "mocking rival",
+  "joke_mechanism": [
+   "exaggeration",
+   "absurd over-reaction"
+  ],
+  "template_used": "M3GAN dance clip edited in front of the school's signboard",
+  "specificity": "only your area",
+  "note": "Targets a real local school."
+ },
+ {
+  "file": "media/1104897958028828.jpg",
+  "type": "photo",
+  "text": "আলোকিত ১৫০, সুন্দর পৃথিবীর জন্য আমরা, অন্নদা সরকারি উচ্চ বিদ্যালয় ১৮৭৫–২০২৫",
+  "situation": "Official logo for the school's 150th anniversary celebration.",
+  "why_relatable": "Students share pride in the school's 150-year history.",
+  "card": "Not a meme (150th anniversary logo)",
+  "characters": [],
+  "setting": "n/a",
+  "moment": "150th anniversary (2025)",
+  "audience_feeling": [
+   "pride"
+  ],
+  "butt_of_joke": "none",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "Anniversary logo",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/1118501010286536.mp4",
+  "type": "video",
+  "text": "স্যারঃ টেস্টে ফেইল করলে পরীক্ষা দেওয়া যাবেনা (labels: Me, বন্ধু, টপার)",
+  "situation": "When the teacher announces that anyone who fails the test exam won't be allowed to sit the board exam, the failing students react like fiery protest leaders.",
+  "why_relatable": "The test-exam rule before SSC form fill-up scares every weak student and sparks group outrage.",
+  "card": "Test exam / SSC form fill-up",
+  "characters": [
+   "teacher",
+   "me",
+   "friend",
+   "topper"
+  ],
+  "setting": "classroom",
+  "moment": "test exam before SSC",
+  "audience_feeling": [
+   "fun",
+   "self-recognition"
+  ],
+  "butt_of_joke": "the failing student (self)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "absurd over-reaction",
+   "exaggeration"
+  ],
+  "template_used": "Viral clip of a young man shouting angrily at a rally podium",
+  "specificity": "Bangladesh-wide",
+  "note": "Template is political rally footage (real person)."
+ },
+ {
+  "file": "media/1167996781811962.mp4",
+  "type": "video",
+  "text": "No on-screen text; Hindi dialogue 'chalti phirti cocaine hai' plays",
+  "situation": "A teacher filmed sitting in class on his phone, edited as a hype/fan clip with an over-the-top dialogue.",
+  "why_relatable": "Students make swag edits of their favourite (or most-memed) teachers.",
+  "card": "Teacher fan club",
+  "characters": [
+   "teacher"
+  ],
+  "setting": "classroom",
+  "moment": "during class",
+  "audience_feeling": [
+   "fun",
+   "affection"
+  ],
+  "butt_of_joke": "the teacher",
+  "angle": "tribute",
+  "joke_mechanism": [
+   "irony",
+   "exaggeration"
+  ],
+  "template_used": "Candid video of teacher with Hindi film dialogue audio",
+  "specificity": "only your school",
+  "note": "Real teacher filmed without names; audio references drugs."
+ },
+ {
+  "file": "media/119845907384472.jpg",
+  "type": "photo",
+  "text": "পোলাপানরে Bad Effect Of Smoking প্যারাগ্রাফ লিখতে দিয়ে- (labels: শরিফ স্যার, আতিক স্যার, and one more স্যার)",
+  "situation": "Teachers assign students a paragraph on the bad effects of smoking and then go smoke themselves.",
+  "why_relatable": "Students notice the hypocrisy of teachers preaching rules they break themselves.",
+  "card": "Teacher hypocrisy",
+  "characters": [
+   "teachers (Sharif sir, Atik sir, another sir)",
+   "students"
+  ],
+  "setting": "classroom / teachers' hangout",
+  "moment": "English class / writing assignment",
+  "audience_feeling": [
+   "fun",
+   "recognition"
+  ],
+  "butt_of_joke": "the teachers",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "irony",
+   "expectation vs reality"
+  ],
+  "template_used": "Stock photo of three men smoking with teacher names labelled",
+  "specificity": "only your school",
+  "note": "Implies named real teachers smoke; third name partly obscured."
+ },
+ {
+  "file": "media/120728420629554.jpg",
+  "type": "photo",
+  "text": "মডেল স্কুলের সামনে আমাদের দেখে শরিফ স্যার যখন ডাক দেয়ঃ যাওয়া ঠিক হবে না মাইরধোর করতে পারে (labels: আমি, বন্ধু)",
+  "situation": "A teacher spots you hanging around outside another school and calls you over, and you and your friend decide not to go because you'll get beaten.",
+  "why_relatable": "Getting spotted by a teacher where you shouldn't be, and weighing a beating, is a shared fear.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "me",
+   "friend",
+   "teacher (Sharif sir)"
+  ],
+  "setting": "in front of Model School",
+  "moment": "after school / bunking",
+  "audience_feeling": [
+   "fear",
+   "fun"
+  ],
+  "butt_of_joke": "us (the caught students)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "sudden consequence",
+   "irony"
+  ],
+  "template_used": "Bangla natok screenshot (two men talking) with subtitle 'যাওয়া ঠিক হবে না মাইরধোর করতে পারে'",
+  "specificity": "only your area",
+  "note": "Hanging outside Model School likely implies watching girls."
+ },
+ {
+  "file": "media/1211860256492830.mp4",
+  "type": "video",
+  "text": "ক্লাস ক্যাপ্টেন যারা টিফিনের সংখ্যা বাড়িয়ে বলে vs ক্লাস টিচার যারা বাড়িয়ে বলা সংখ্যাটাকেও আরো বাড়িয়ে লেখে; song plays",
+  "situation": "The class captain inflates the tiffin headcount, and the class teacher inflates that number even further.",
+  "why_relatable": "Students suspect everyone up the chain skims extra tiffin packets.",
+  "card": "Tiffin hustle",
+  "characters": [
+   "class captain",
+   "class teacher"
+  ],
+  "setting": "classroom",
+  "moment": "tiffin distribution",
+  "audience_feeling": [
+   "fun",
+   "recognition"
+  ],
+  "butt_of_joke": "class captain and class teacher",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "exaggeration",
+   "comparison"
+  ],
+  "template_used": "Two characters on fire outdoing each other (fire vs fire scene)",
+  "specificity": "Bangladesh-wide",
+  "note": ""
+ },
+ {
+  "file": "media/121641287204934.jpg",
+  "type": "photo",
+  "text": "অন্নদা সরকারি উচ্চ বিদ্যালয়, PAIN (pain meter)",
+  "situation": "The meme page's own logo: school crest with a lion, flames and a pain meter.",
+  "why_relatable": "Page branding.",
+  "card": "Not a meme (page logo)",
+  "characters": [],
+  "setting": "n/a",
+  "moment": "n/a",
+  "audience_feeling": [
+   "fun"
+  ],
+  "butt_of_joke": "none",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "Page logo",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/1226237642799787.mp4",
+  "type": "video",
+  "text": "Masud Sir: ফেইল করবে বলেছিলাম ছেলেটাকে এ+ কিভাবে পেল",
+  "situation": "A teacher who swore a student would fail is stunned and furious when that student gets an A+.",
+  "why_relatable": "Students love proving wrong the teacher who predicted their failure.",
+  "card": "Teacher's threats vs result",
+  "characters": [
+   "teacher (Masud sir)",
+   "student"
+  ],
+  "setting": "school",
+  "moment": "result day",
+  "audience_feeling": [
+   "satisfaction",
+   "fun"
+  ],
+  "butt_of_joke": "Masud sir",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "expectation vs reality",
+   "irony"
+  ],
+  "template_used": "Homelander (The Boys) suppressed-rage stare",
+  "specificity": "only your school",
+  "note": "Real teacher named."
+ },
+ {
+  "file": "media/1228298432520005.mp4",
+  "type": "video",
+  "text": "টিফিন ২ বার নেওয়ার জন্য সামনের বেঞ্চে আসা বেক বেঞ্চার",
+  "situation": "A back-bencher squeezes onto the front bench to grab a second tiffin packet.",
+  "why_relatable": "Everyone has seen (or been) the classmate scheming to get tiffin twice.",
+  "card": "Tiffin hustle",
+  "characters": [
+   "back-bencher",
+   "classmates"
+  ],
+  "setting": "classroom",
+  "moment": "tiffin distribution",
+  "audience_feeling": [
+   "fun",
+   "recognition"
+  ],
+  "butt_of_joke": "the back-bencher",
+  "angle": "roast",
+  "joke_mechanism": [
+   "exaggeration",
+   "comparison"
+  ],
+  "template_used": "Crowd pushing forward at a political event with samosas overlaid",
+  "specificity": "Bangladesh-wide",
+  "note": "Template uses footage of real politicians at a rally."
+ },
+ {
+  "file": "media/1233957201831474.mp4",
+  "type": "video",
+  "text": "song plays (Hindi song about brotherhood); no on-screen text",
+  "situation": "Three grown men laugh together over cups of tea on a bench at a roadside tea stall.",
+  "why_relatable": "Tea-stall adda with close friends or colleagues is a beloved everyday ritual; seeing elders bond like schoolboys feels warm.",
+  "card": "Unclassified (needs post caption)",
+  "characters": [
+   "three adult men (possibly teachers or alumni)"
+  ],
+  "setting": "roadside tea stall",
+  "moment": "everyday adda",
+  "audience_feeling": [
+   "warmth",
+   "nostalgia"
+  ],
+  "butt_of_joke": "nobody",
+  "angle": "tribute",
+  "joke_mechanism": [
+   "meta"
+  ],
+  "template_used": "real phone footage of friends at a tea stall with a brotherhood song overlay",
+  "specificity": "Bangladesh-wide",
+  "note": "Real people shown; school angle not visible, probably teachers/alumni friendship explained in the post caption."
+ },
+ {
+  "file": "media/123558763679853.jpg",
+  "type": "photo",
+  "text": "পরীক্ষার হলে দেখাদেখি বিদ্যমান - *me / *my friends who studied hard / LOOK HOW FAR I CLIMBED, AND I'M NOT EVEN TIRED.",
+  "situation": "In the exam hall, the student who didn't study gets carried through the exam by copying from friends who studied hard.",
+  "why_relatable": "Everyone has either copied from or been copied by a classmate in the exam hall, and the copier often acts like they earned it.",
+  "card": "Exam hall copying",
+  "characters": [
+   "me (unprepared student)",
+   "hardworking friends"
+  ],
+  "setting": "exam hall",
+  "moment": "exam week",
+  "audience_feeling": [
+   "guilty laughter",
+   "recognition"
+  ],
+  "butt_of_joke": "the lazy student who copies (self)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "irony",
+   "role reversal",
+   "exaggeration"
+  ],
+  "template_used": "Simpsons Homer dragged up the mountain in a sleeping bag ('look how far I climbed')",
+  "specificity": "universal",
+  "note": ""
+ },
+ {
+  "file": "media/1240567206350156.mp4",
+  "type": "video",
+  "text": "সারাবছরে একদিনও স্কুল না পালানোয় আমার বন্ধুকে প্রশংসা করা স্যার... / এদিকে আমার মোটা বন্ধু যে দেওয়াল বাইতে পারেনা...",
+  "situation": "A teacher praises a student for never bunking school all year, while the truth is he simply can't climb the wall to escape.",
+  "why_relatable": "Students know 'good attendance' is sometimes not discipline but lack of opportunity, and the chubby friend who can't climb the wall is a classic figure.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "teacher",
+   "chubby friend"
+  ],
+  "setting": "classroom / school wall",
+  "moment": "end of year / attendance praise",
+  "audience_feeling": [
+   "amusement",
+   "recognition"
+  ],
+  "butt_of_joke": "the chubby friend and the clueless teacher",
+  "angle": "roast",
+  "joke_mechanism": [
+   "expectation vs reality",
+   "irony"
+  ],
+  "template_used": "Cheems/Doge dancing in lungi vs. Doge sitting with loading icon",
+  "specificity": "Bangladesh-wide",
+  "note": "Body-shaming a friend ('মোটা')."
+ },
+ {
+  "file": "media/1250055372495624.mp4",
+  "type": "video",
+  "text": "song plays (\"chol palaye jai\" style run-away song); wall slogans incl. ৮ ডিসেম্বর ব্রাহ্মণবাড়িয়া মুক্ত দিবস",
+  "situation": "Uniformed students climb over the school boundary wall to escape during school hours.",
+  "why_relatable": "Climbing the school wall to bunk is the iconic rebel act every boy either did or watched.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "students"
+  ],
+  "setting": "school boundary wall",
+  "moment": "school hours / tiffin",
+  "audience_feeling": [
+   "thrill",
+   "nostalgia",
+   "pride"
+  ],
+  "butt_of_joke": "the school's security / rules",
+  "angle": "proud",
+  "joke_mechanism": [
+   "meta",
+   "irony"
+  ],
+  "template_used": "real footage of students climbing the school wall with a 'let's run away' song",
+  "specificity": "only your school",
+  "note": "Wall shows the Brahmanbaria Liberation Day (8 December) slogan; real students visible."
+ },
+ {
+  "file": "media/1255925959842285.mp4",
+  "type": "video",
+  "text": "ক্লাস টিচার হওয়ার পরেও পোলাপান প্রাইভেট পড়ে দুলাল স্যারের কাছে, দিলাম সবাইকে ফেইল করায়ঃ / এখলাস স্যার-",
+  "situation": "A class teacher fails the whole class out of spite because students take private tuition from a different teacher instead of him.",
+  "why_relatable": "Students know the tuition politics: teachers expect their own students at their private batch, and grades can feel like revenge.",
+  "card": "Online / coaching teachers vs school",
+  "characters": [
+   "Ekhlas sir",
+   "Dulal sir",
+   "students"
+  ],
+  "setting": "school / private tuition",
+  "moment": "result day",
+  "audience_feeling": [
+   "laughter",
+   "fear",
+   "recognition"
+  ],
+  "butt_of_joke": "Ekhlas sir",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "absurd over-reaction",
+   "sudden consequence"
+  ],
+  "template_used": "Putin walking confidently down a red-carpet corridor",
+  "specificity": "Bangladesh-wide",
+  "note": "Real teachers named (Ekhlas sir, Dulal sir) and accused jokingly of failing students."
+ },
+ {
+  "file": "media/1268102868401170.jpg",
+  "type": "photo",
+  "text": "প্রিয় প্রাক্তন অন্নদিয়ান ... ২৪, ২৫, ২৬শে ডিসেম্বর অনুষ্ঠানসূচী – আবেশ",
+  "situation": "Alumni association programme schedule for the school's 150-year celebration on 24-26 December.",
+  "why_relatable": "Shared excitement over the school's 150th anniversary festival.",
+  "card": "Not a meme (announcement)",
+  "characters": [
+   "alumni association (ABAES)",
+   "students",
+   "ex-students"
+  ],
+  "setting": "school campus",
+  "moment": "150-year celebration, December 2025",
+  "audience_feeling": [
+   "pride",
+   "excitement"
+  ],
+  "butt_of_joke": "nobody",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "official event schedule poster",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/1275182877716108.mp4",
+  "type": "video",
+  "text": "Kaiyum Sir going from brutally rude to nicest man on earth as soon as he leaves school & enters his coaching",
+  "situation": "A teacher who is harsh in school class becomes extremely sweet and friendly in his own paid coaching centre.",
+  "why_relatable": "Students notice teachers act differently where they get paid directly, and the double personality is a well-known joke.",
+  "card": "Online / coaching teachers vs school",
+  "characters": [
+   "Kaiyum sir"
+  ],
+  "setting": "school vs coaching centre",
+  "moment": "after school hours",
+  "audience_feeling": [
+   "laughter",
+   "recognition"
+  ],
+  "butt_of_joke": "Kaiyum sir",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "comparison",
+   "expectation vs reality"
+  ],
+  "template_used": "Tom Cruise quick-change disguise scene (military uniform to casual nerd)",
+  "specificity": "Bangladesh-wide",
+  "note": "Real teacher named."
+ },
+ {
+  "file": "media/1291942746328030.mp4",
+  "type": "video",
+  "text": "no on-screen text; music only",
+  "situation": "AI-generated cinematic clip showing the school's teachers in a glossy, modern-looking school with a student walking in.",
+  "why_relatable": "Students enjoy seeing their familiar teachers turned into movie-like characters in a dream version of their school.",
+  "card": "Teacher fan club",
+  "characters": [
+   "teachers",
+   "student"
+  ],
+  "setting": "school corridor and courtyard (AI-rendered)",
+  "moment": "general",
+  "audience_feeling": [
+   "amusement",
+   "affection"
+  ],
+  "butt_of_joke": "nobody (playful)",
+  "angle": "tribute",
+  "joke_mechanism": [
+   "expectation vs reality",
+   "exaggeration"
+  ],
+  "template_used": "AI-generated cinematic video of real teachers",
+  "specificity": "only your school",
+  "note": "Real teachers' faces AI-generated; exact joke probably in post caption."
+ },
+ {
+  "file": "media/1313839329276831.mp4",
+  "type": "video",
+  "text": "Govt. Model girls and Sabera Sobhan Girls are explaining how they lose to Annada Boys for just 1 point",
+  "situation": "Neighbouring girls' schools lose a competition to our school by a single point and keep explaining excuses.",
+  "why_relatable": "Inter-school competition with nearby schools is intense, and winning by a hair makes the rivals' excuses extra funny.",
+  "card": "Rivalry / comparison with neighbouring girls' schools",
+  "characters": [
+   "Govt. Model Girls students",
+   "Sabera Sobhan Girls students",
+   "Annada boys"
+  ],
+  "setting": "inter-school competition",
+  "moment": "competition result",
+  "audience_feeling": [
+   "pride",
+   "smugness"
+  ],
+  "butt_of_joke": "rival girls' schools",
+  "angle": "mocking rival",
+  "joke_mechanism": [
+   "exaggeration",
+   "comparison"
+  ],
+  "template_used": "injured animated beaver/bear with eye patch explaining (from an animated film)",
+  "specificity": "only your area",
+  "note": "Rival schools named."
+ },
+ {
+  "file": "media/1317559936268034.jpg",
+  "type": "photo",
+  "text": "no text",
+  "situation": "A teacher plays chess against a student while classmates crowd around to watch.",
+  "why_relatable": "Seeing a teacher relax and compete with students is a memorable, friendly school moment.",
+  "card": "Not a meme (photo)",
+  "characters": [
+   "teacher",
+   "students"
+  ],
+  "setting": "classroom",
+  "moment": "games / free period",
+  "audience_feeling": [
+   "warmth",
+   "pride"
+  ],
+  "butt_of_joke": "nobody",
+  "angle": "tribute",
+  "joke_mechanism": [],
+  "template_used": "plain photo",
+  "specificity": "only your school",
+  "note": "Real teacher and students; context likely in post caption."
+ },
+ {
+  "file": "media/1333055215102678.mp4",
+  "type": "video",
+  "text": "Jamal Sir without a reason",
+  "situation": "A teacher slaps a laughing student out of nowhere, for no reason at all.",
+  "why_relatable": "Students remember sudden, unexplained punishments from strict teachers that came out of nowhere.",
+  "card": "Teacher's pet topic / instant punishment",
+  "characters": [
+   "Jamal sir",
+   "student"
+  ],
+  "setting": "classroom",
+  "moment": "any class",
+  "audience_feeling": [
+   "laughter",
+   "fear"
+  ],
+  "butt_of_joke": "Jamal sir (and the slapped student)",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "sudden consequence",
+   "absurd over-reaction"
+  ],
+  "template_used": "Hera Pheri Baburao slap scene + 'Directed by Robert B. Weide' ending",
+  "specificity": "Bangladesh-wide",
+  "note": "Real teacher named; corporal punishment theme."
+ },
+ {
+  "file": "media/1354613065225806.mp4",
+  "type": "video",
+  "text": "পড়াশোনা করতে গিয়ে জেলার বাইরে যখন কোনো অন্নদিয়ান এর সাথে দেখা হয়",
+  "situation": "When you go outside your district for higher studies and run into another student from your old school.",
+  "why_relatable": "Meeting a fellow ex-student far from home creates an instant bond and pride.",
+  "card": "Alumni bond / meeting a fellow Annadian",
+  "characters": [
+   "ex-students"
+  ],
+  "setting": "another city / university",
+  "moment": "after SSC / higher studies",
+  "audience_feeling": [
+   "pride",
+   "nostalgia",
+   "joy"
+  ],
+  "butt_of_joke": "nobody",
+  "angle": "proud",
+  "joke_mechanism": [
+   "exaggeration"
+  ],
+  "template_used": "Jack Sparrow saluting from ship mast + man saluting from boat mast",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/1368339611409476.jpg",
+  "type": "photo",
+  "text": "অন্নদা সরকারি উচ্চ বিদ্যালয় ১৫০ বছর পূর্তি উদযাপন অনুষ্ঠান – www.annada150.online, ২৪-২৬ ডিসেম্বর ২০২৫",
+  "situation": "Registration poster for the school's 150-year anniversary celebration.",
+  "why_relatable": "School pride around the big 150th anniversary event.",
+  "card": "Not a meme (announcement)",
+  "characters": [
+   "alumni association (ABAES)",
+   "students",
+   "ex-students",
+   "parents"
+  ],
+  "setting": "school campus",
+  "moment": "150-year celebration, December 2025",
+  "audience_feeling": [
+   "pride",
+   "excitement"
+  ],
+  "butt_of_joke": "nobody",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "official event poster",
+  "specificity": "only your school",
+  "note": "Contains organisers' phone numbers."
+ },
+ {
+  "file": "media/136957785746045.jpg",
+  "type": "photo",
+  "text": "অন্নদা সরকারি উচ্চ বিদ্যালয়, ব্রাহ্মণবাড়িয়া – জ্ঞানই শক্তি – স্থাপিত ১৮৭৫",
+  "situation": "The official school logo/seal.",
+  "why_relatable": "The school emblem every student recognises.",
+  "card": "Not a meme (logo)",
+  "characters": [],
+  "setting": "n/a",
+  "moment": "n/a",
+  "audience_feeling": [
+   "pride"
+  ],
+  "butt_of_joke": "nobody",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "school logo",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/136960849079072.jpg",
+  "type": "photo",
+  "text": "The great Annadian dream is to escape Annada School",
+  "situation": "Every student's real dream is simply to get out of the school.",
+  "why_relatable": "Despite school pride, students secretly just want to escape class, the rules or finish school and leave.",
+  "card": "School pride vs reality",
+  "characters": [
+   "students"
+  ],
+  "setting": "school",
+  "moment": "any day",
+  "audience_feeling": [
+   "laughter",
+   "recognition"
+  ],
+  "butt_of_joke": "the school / students themselves",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "wordplay",
+   "irony"
+  ],
+  "template_used": "edited Facebook text post ('The great Bangladeshi dream is to escape Bangladesh')",
+  "specificity": "only your school",
+  "note": "Original is a national political joke post from 'Cyber 71' page."
+ },
+ {
+  "file": "media/1379499893445656.mp4",
+  "type": "video",
+  "text": "After listening to this song, Annadians... (song plays)",
+  "situation": "As soon as a certain song plays, students throw their bags over and climb the school wall to escape.",
+  "why_relatable": "Wall-jumping to bunk is a shared rite of passage and inside joke for the school.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "students"
+  ],
+  "setting": "school boundary wall",
+  "moment": "school hours",
+  "audience_feeling": [
+   "thrill",
+   "laughter"
+  ],
+  "butt_of_joke": "students (affectionately)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "exaggeration",
+   "sudden consequence"
+  ],
+  "template_used": "viral clip of uniformed students climbing a wall to bunk",
+  "specificity": "Bangladesh-wide",
+  "note": "Faces of real students partially visible."
+ },
+ {
+  "file": "media/1401945801082249.mp4",
+  "type": "video",
+  "text": "no text; calm music; math symbols (π, formulas) float over the wall",
+  "situation": "A neglected corner of the school wall is shown with maths formulas floating over it.",
+  "why_relatable": "Unclear without caption; possibly the wall-jumping spot or maths haunting students everywhere.",
+  "card": "Unclassified (needs post caption)",
+  "characters": [],
+  "setting": "school wall / corner",
+  "moment": "unclear",
+  "audience_feeling": [
+   "curiosity"
+  ],
+  "butt_of_joke": "unclear",
+  "angle": "nostalgic",
+  "joke_mechanism": [
+   "meta"
+  ],
+  "template_used": "real footage of a wall with floating math formula overlay ('math lady' style)",
+  "specificity": "only your school",
+  "note": "School angle not visible; probably in post caption."
+ },
+ {
+  "file": "media/1467404151466736.mp4",
+  "type": "video",
+  "text": "Jakir Sir in Awami League's Era / Interim's Era / BNP's Era / Jamat's Era",
+  "situation": "A teacher's look (party badge, beard, rice sheaf, prayer cap) changes to match whichever political party is in power.",
+  "why_relatable": "Students notice adults adapting their image to power shifts, a well-known Bangladeshi joke about opportunism.",
+  "card": "Teacher's changing persona",
+  "characters": [
+   "Jakir sir"
+  ],
+  "setting": "school gate",
+  "moment": "political changes",
+  "audience_feeling": [
+   "laughter",
+   "shock"
+  ],
+  "butt_of_joke": "Jakir sir",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "comparison",
+   "exaggeration",
+   "irony"
+  ],
+  "template_used": "edited real photo of teacher in 'X in Y era' sequence",
+  "specificity": "Bangladesh-wide",
+  "note": "SENSITIVE: national politics (Awami League, BNP, Jamaat) and religion; real named teacher's photo edited."
+ },
+ {
+  "file": "media/154179187496956.jpg",
+  "type": "photo",
+  "text": "Annada Pain, May 1, 2022 – \"Yo!!!\" / Sure Common",
+  "situation": "Screenshot of an old Annada Pain video post showing two people fighting or dancing on a courtyard.",
+  "why_relatable": "Throwback to the page's own earlier viral post.",
+  "card": "Unclassified (needs post caption)",
+  "characters": [
+   "two young people"
+  ],
+  "setting": "courtyard / hall",
+  "moment": "unclear",
+  "audience_feeling": [
+   "nostalgia",
+   "amusement"
+  ],
+  "butt_of_joke": "unclear",
+  "angle": "nostalgic",
+  "joke_mechanism": [
+   "meta"
+  ],
+  "template_used": "phone screenshot of an old Facebook video post",
+  "specificity": "only your school",
+  "note": "Meme intent unclear; probably explained in post caption."
+ },
+ {
+  "file": "media/1566375537271580.mp4",
+  "type": "video",
+  "text": "45 min ke class main 40 min sanbin sir ne motivation de diya",
+  "situation": "A teacher spends 40 minutes of a 45-minute class giving a motivational speech, and students get bored and fall asleep.",
+  "why_relatable": "Every student has sat through a teacher's endless life-lecture instead of the actual lesson.",
+  "card": "Teacher's long lecture / motivation talk",
+  "characters": [
+   "Sanbin sir",
+   "students"
+  ],
+  "setting": "classroom",
+  "moment": "any class",
+  "audience_feeling": [
+   "boredom",
+   "laughter"
+  ],
+  "butt_of_joke": "Sanbin sir",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "exaggeration",
+   "irony"
+  ],
+  "template_used": "Oggy and the Cockroaches cat yawning and sleeping on deck chair ('I'm tired of listening, good night')",
+  "specificity": "universal",
+  "note": "Real teacher named."
+ },
+ {
+  "file": "media/1607016489861448.mp4",
+  "type": "video",
+  "text": "ক্লাসে স্যারের Unfunny জোক করা বিদ্যমান... ফার্স্ট বেঞ্চের আতেলগুলাঃ",
+  "situation": "When a teacher cracks an unfunny joke in class, the first-bench nerds laugh hysterically to please him.",
+  "why_relatable": "Every class has front-benchers who over-laugh at the teacher's weak jokes to stay in his good books, while the rest of the class cringes.",
+  "card": "First-benchers sucking up to teacher",
+  "characters": [
+   "teacher",
+   "first-bench students (atel)"
+  ],
+  "setting": "classroom",
+  "moment": "during a regular class",
+  "audience_feeling": [
+   "cringe",
+   "amused",
+   "annoyed at sycophants"
+  ],
+  "butt_of_joke": "first-bench nerds",
+  "angle": "roast",
+  "joke_mechanism": [
+   "exaggeration",
+   "absurd over-reaction"
+  ],
+  "template_used": "Cartoon character laughing hysterically / convulsing (blue background animation)",
+  "specificity": "Bangladesh-wide",
+  "note": ""
+ },
+ {
+  "file": "media/1610046133060175.mp4",
+  "type": "video",
+  "text": "OI SHALARE PAISI JEITA SIR ER SPYGIRI KORTO...",
+  "situation": "The class finally catches the classmate who used to spy and snitch to the teacher, and everyone piles on him.",
+  "why_relatable": "Every class has an informer who reports talkers and bunkers to sir, and everyone secretly dreams of revenge.",
+  "card": "Class snitch / informer",
+  "characters": [
+   "students",
+   "snitch classmate",
+   "teacher (mentioned)"
+  ],
+  "setting": "street outside school",
+  "moment": "after school / when the snitch is caught",
+  "audience_feeling": [
+   "revenge satisfaction",
+   "amused"
+  ],
+  "butt_of_joke": "the snitch classmate",
+  "angle": "roast",
+  "joke_mechanism": [
+   "exaggeration",
+   "sudden consequence"
+  ],
+  "template_used": "Aerial footage of a street mob chasing and beating someone",
+  "specificity": "universal",
+  "note": "Uses real street-violence footage (possibly from a political clash); sensitive."
+ },
+ {
+  "file": "media/162268356548321.jpg",
+  "type": "photo",
+  "text": "এমন আইডি যার আছে, সেই থাকবে শুধু অন্নদা উৎসবে। NO ID NO ENTRY — DR. MD. ABU SAYED, BATCH-1980, Sponsored by Annada club'88",
+  "situation": "A spoof entry ID card for the school's alumni festival, edited with laser eyes and a giant beard on a senior alumnus.",
+  "why_relatable": "Everyone gets hyped about the big reunion festival and its entry cards; editing an elder alumnus's card is an inside joke for the whole school community.",
+  "card": "Reunion / alumni festival (Annada Utsav)",
+  "characters": [
+   "senior alumnus (batch 1980)",
+   "alumni",
+   "festival organisers"
+  ],
+  "setting": "Annada Utsav reunion at school (Facebook post)",
+  "moment": "before Annada Utsav 2022 (25 December)",
+  "audience_feeling": [
+   "amused",
+   "hyped",
+   "proud"
+  ],
+  "butt_of_joke": "the senior alumnus on the ID card / festival ID-card hype",
+  "angle": "proud",
+  "joke_mechanism": [
+   "absurd over-reaction",
+   "exaggeration"
+  ],
+  "template_used": "Edited event ID card with laser eyes and photoshopped beard, shared as a Facebook post screenshot",
+  "specificity": "only your school",
+  "note": "Real named person (alumnus) whose photo is edited; check he is fine with it."
+ },
+ {
+  "file": "media/162349246540232.jpg",
+  "type": "photo",
+  "text": "অন্নদা উৎসব; অন্নদা এসএসসি (১৯৫৪-২০১৪) ব্যাচ; অন্নদা এসএসসি (২০১৫-২০২২) ব্যাচ; অন্নদা এসএসসি (১৮৭৫-১৯৫০) ব্যাচ",
+  "situation": "The school's alumni festival welcomes older batches while recent batches are left out and the oldest batches are long gone.",
+  "why_relatable": "Recent ex-students feel ignored when reunions are built around older batches, and everyone knows the school's very long history.",
+  "card": "Reunion / alumni festival (Annada Utsav)",
+  "characters": [
+   "Annada Utsav organisers",
+   "SSC batch 1954-2014",
+   "SSC batch 2015-2022",
+   "SSC batch 1875-1950"
+  ],
+  "setting": "alumni reunion festival",
+  "moment": "Annada Utsav / reunion season",
+  "audience_feeling": [
+   "left out",
+   "amused",
+   "complaining"
+  ],
+  "butt_of_joke": "recent batches / the festival organisers",
+  "angle": "complaining",
+  "joke_mechanism": [
+   "comparison",
+   "irony",
+   "exaggeration"
+  ],
+  "template_used": "Mother ignores drowning kid in pool + skeleton underwater",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/162587179849772.jpg",
+  "type": "photo",
+  "text": "অন্নদা সরকারি উচ্চ বিদ্যালয় Annada Pain ব্রাহ্মণবাড়িয়া (logo only)",
+  "situation": "The page's logo glowing inside the head of a person with a headache, as page branding.",
+  "why_relatable": "Plays on the page name 'Pain' — the school as a headache.",
+  "card": "Not a meme (page logo / branding)",
+  "characters": [],
+  "setting": "none",
+  "moment": "none",
+  "audience_feeling": [
+   "neutral"
+  ],
+  "butt_of_joke": "none",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "wordplay"
+  ],
+  "template_used": "Headache silhouette stock image with page logo",
+  "specificity": "only your school",
+  "note": "Branding image, probably cover/profile art."
+ },
+ {
+  "file": "media/1636631523840915.mp4",
+  "type": "video",
+  "text": "Sharif sir sharif sir🔥 (song plays)",
+  "situation": "A teacher in sunglasses dances wildly with students on the tour bus and everyone cheers his name.",
+  "why_relatable": "Students love seeing a strict teacher loosen up on a study tour or picnic, and a 'cool sir' becomes a legend.",
+  "card": "Teacher fan club",
+  "characters": [
+   "teacher (Sharif sir)",
+   "students"
+  ],
+  "setting": "tour / picnic bus",
+  "moment": "study tour / picnic",
+  "audience_feeling": [
+   "hyped",
+   "admiration",
+   "amused"
+  ],
+  "butt_of_joke": "nobody (hyping the teacher)",
+  "angle": "tribute",
+  "joke_mechanism": [
+   "role reversal",
+   "expectation vs reality"
+  ],
+  "template_used": "Viral phone video of a teacher dancing on a bus with chanting caption",
+  "specificity": "Bangladesh-wide",
+  "note": "Real person; likely a viral clip, not necessarily a teacher of this school (girls visible on bus). Check post caption."
+ },
+ {
+  "file": "media/1643375369362495.mp4",
+  "type": "video",
+  "text": "আমার মোটা বন্ধুকে স্কুল পালানো শিখাচ্ছি...",
+  "situation": "Trying to teach your chubby friend how to bunk school (climb the wall and escape).",
+  "why_relatable": "Every bunking gang has the slow or heavy friend who can't climb the wall and might get everyone caught.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "me",
+   "chubby friend"
+  ],
+  "setting": "school wall / campus",
+  "moment": "during school hours, planning to bunk",
+  "audience_feeling": [
+   "amused",
+   "nostalgic"
+  ],
+  "butt_of_joke": "the chubby friend",
+  "angle": "roast",
+  "joke_mechanism": [
+   "role reversal",
+   "exaggeration"
+  ],
+  "template_used": "Kung Fu Panda – Shifu agrees to train Po",
+  "specificity": "Bangladesh-wide",
+  "note": "Body-shaming of a friend (mild)."
+ },
+ {
+  "file": "media/166057822836041.jpg",
+  "type": "photo",
+  "text": "LGTV / Bangladesh People / Here it Comes! (above a textbook page about Sharifa)",
+  "situation": "A new textbook chapter about gender identity arrives and the whole country panics about it.",
+  "why_relatable": "Students saw the much-debated new curriculum lesson on 'Sharifa' that sparked national outrage and memes.",
+  "card": "Textbook / curriculum controversy",
+  "characters": [
+   "textbook characters (Khushi apa, Sharifa)",
+   "Bangladeshi public"
+  ],
+  "setting": "textbook / classroom",
+  "moment": "new curriculum year (2023-24)",
+  "audience_feeling": [
+   "shock",
+   "amused"
+  ],
+  "butt_of_joke": "the new textbook / curriculum makers",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "exaggeration",
+   "wordplay"
+  ],
+  "template_used": "Man screaming in front of tornado ('Here it comes')",
+  "specificity": "Bangladesh-wide",
+  "note": "Sensitive: LGBT / transgender topic, religious-political controversy over the Class 7 textbook. 'LGTV' is a deliberate misspelling."
+ },
+ {
+  "file": "media/166150656160091.jpg",
+  "type": "photo",
+  "text": "ডাক্তার: আপনার নাম তো আগে শরীফ ছিলো। শরীফ: হ্যাঁ, এখন মিস শরীফা... ডাক্তার: মিস শরীফা, আপনার টেস্টিকুলার ক্যান্সার।",
+  "situation": "A joke mocking the textbook's transgender character 'Sharifa' through a doctor's diagnosis.",
+  "why_relatable": "Students knew the controversial Sharifa lesson from the new curriculum and the jokes circulating nationwide.",
+  "card": "Textbook / curriculum controversy",
+  "characters": [
+   "doctor",
+   "Sharif / Sharifa (textbook character)"
+  ],
+  "setting": "doctor's chamber",
+  "moment": "new curriculum year (2023-24)",
+  "audience_feeling": [
+   "amused",
+   "shock"
+  ],
+  "butt_of_joke": "the textbook's transgender character",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "irony",
+   "sudden consequence"
+  ],
+  "template_used": "Text dialogue + blurry smirking face reaction image",
+  "specificity": "Bangladesh-wide",
+  "note": "Sensitive: transphobic joke; reposted (watermark 'salahuddin'), not the page's own edit."
+ },
+ {
+  "file": "media/1714241319073513.mp4",
+  "type": "video",
+  "text": "জালভোটি দিয়ে বন্ধুকে ক্যাপ্টেন বানালাম, সেই বন্ধু আমার নাম বোর্ডে ৩ স্টার সহ লিখছে",
+  "situation": "You rigged votes to make your friend class captain, and he writes your name on the board with three stars for talking.",
+  "why_relatable": "Class captain elections and the 'names of talkers on the board' ritual are universal, and a friend turning strict after getting power is a classic betrayal.",
+  "card": "Class captain betrayal",
+  "characters": [
+   "me",
+   "friend (class captain)",
+   "teacher (implied)"
+  ],
+  "setting": "classroom",
+  "moment": "class captain election / teacher absent",
+  "audience_feeling": [
+   "betrayed",
+   "amused"
+  ],
+  "butt_of_joke": "me (the vote-rigger)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "betrayal",
+   "irony"
+  ],
+  "template_used": "Ajay Devgn smirking film clip (political drama)",
+  "specificity": "Bangladesh-wide",
+  "note": ""
+ },
+ {
+  "file": "media/1808237726270545.mp4",
+  "type": "video",
+  "text": "It was at this moment that he knew he f***ed up (song plays)",
+  "situation": "A guy takes a selfie video in front of a huge crowd of ex-students gathered on the school steps.",
+  "why_relatable": "Likely about a big alumni or Eid gathering at school; the joke context is probably in the post caption.",
+  "card": "Unclassified (needs post caption)",
+  "characters": [
+   "ex-students",
+   "a selfie-taking student"
+  ],
+  "setting": "school campus steps",
+  "moment": "reunion / gathering day",
+  "audience_feeling": [
+   "amused",
+   "nostalgic"
+  ],
+  "butt_of_joke": "the selfie guy",
+  "angle": "nostalgic",
+  "joke_mechanism": [
+   "sudden consequence"
+  ],
+  "template_used": "'It was at this moment he knew he f***ed up' voiceover over real campus gathering footage",
+  "specificity": "only your school",
+  "note": "School angle not clear from video alone; check post caption. Real people visible."
+ },
+ {
+  "file": "media/1811172649382275.mp4",
+  "type": "video",
+  "text": "JSC SSC Exists; me; Bbarian fnd behind me — \"You are a nasty little...\" \"Why do you utter these nasty words?\"",
+  "situation": "During JSC/SSC exams, the Brahmanbaria friend sitting behind you keeps cursing at you to show your answers.",
+  "why_relatable": "In board exams everyone fears the friend seated behind who pokes and swears for answers, and Brahmanbaria's local slang is famous for its swearing.",
+  "card": "Exam hall struggles",
+  "characters": [
+   "me",
+   "friend from Brahmanbaria sitting behind"
+  ],
+  "setting": "exam hall",
+  "moment": "JSC / SSC board exams",
+  "audience_feeling": [
+   "amused",
+   "relatable pain"
+  ],
+  "butt_of_joke": "the Bbarian friend / local swearing culture",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "exaggeration",
+   "comparison"
+  ],
+  "template_used": "Old Bangla film clip of a boy on a park bench with English subtitles, labelled 'me' and 'Bbarian fnd behind me'",
+  "specificity": "only your area",
+  "note": ""
+ },
+ {
+  "file": "media/1851494645562060.mp4",
+  "type": "video",
+  "text": "Ramadan exists Ex Annadians from all around the world: ... Join us in Pain Send your works.",
+  "situation": "When Ramadan comes, ex-students everywhere remember climbing over the school wall to bunk.",
+  "why_relatable": "Bunking by jumping the wall is a shared memory for old students, and Ramadan school days (short, tired, fasting) brought it back.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "ex-students",
+   "students in uniform"
+  ],
+  "setting": "school boundary wall",
+  "moment": "Ramadan",
+  "audience_feeling": [
+   "nostalgic",
+   "amused"
+  ],
+  "butt_of_joke": "ex-students (themselves)",
+  "angle": "nostalgic",
+  "joke_mechanism": [
+   "exaggeration",
+   "meta"
+  ],
+  "template_used": "Viral clip of uniformed students climbing over a school wall, ending with a page promo card",
+  "specificity": "only your school",
+  "note": "Exact Ramadan link is unclear (maybe Ramadan class schedule debate); check post caption."
+ },
+ {
+  "file": "media/189904143784742.jpg",
+  "type": "photo",
+  "text": "Discover emerging creators similar to Govt. Model Girls' High School that you may like.",
+  "situation": "Facebook suggests pages similar to the neighbouring girls' school, exposing whose page you have been checking.",
+  "why_relatable": "Boys' school students secretly follow and stalk the nearby girls' school page, and the algorithm gives them away.",
+  "card": "Rivalry / comparison with neighbouring girls' schools",
+  "characters": [
+   "page admin / students",
+   "Govt. Model Girls' High School"
+  ],
+  "setting": "Facebook",
+  "moment": "anytime",
+  "audience_feeling": [
+   "amused",
+   "caught out"
+  ],
+  "butt_of_joke": "the page admin / boys stalking the girls' school page",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "irony",
+   "meta"
+  ],
+  "template_used": "Screenshot of a Facebook notification",
+  "specificity": "only your area",
+  "note": "Joke depends on post caption."
+ },
+ {
+  "file": "media/1957297811143759.jpg",
+  "type": "photo",
+  "text": "",
+  "situation": "A big group photo of students in uniform cheering on the school steps.",
+  "why_relatable": "Batch group photos, often taken on the last day or after exams, are a proud memory.",
+  "card": "Not a meme (group photo)",
+  "characters": [
+   "students"
+  ],
+  "setting": "school campus steps",
+  "moment": "batch photo day / farewell",
+  "audience_feeling": [
+   "proud",
+   "nostalgic"
+  ],
+  "butt_of_joke": "none",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "Plain group photo",
+  "specificity": "only your school",
+  "note": "Real students' faces visible."
+ },
+ {
+  "file": "media/2018476812045698.mp4",
+  "type": "video",
+  "text": "স্যারঃ টেস্টে ফেইল করলে পরীক্ষা দেওয়া যাবেনা — Me / বন্ধু / টপার",
+  "situation": "When sir announces that anyone who fails the test exam cannot sit for SSC, you react like a fiery protest leader while your friends and the topper look on.",
+  "why_relatable": "The pre-SSC test exam threat terrifies weak students, and everyone imagines rebelling against it.",
+  "card": "Test exam pressure",
+  "characters": [
+   "teacher",
+   "me",
+   "friends",
+   "topper"
+  ],
+  "setting": "classroom",
+  "moment": "before SSC test exam / form fill-up",
+  "audience_feeling": [
+   "anxious",
+   "amused",
+   "defiant"
+  ],
+  "butt_of_joke": "me (the weak student)",
+  "angle": "complaining",
+  "joke_mechanism": [
+   "absurd over-reaction",
+   "exaggeration"
+  ],
+  "template_used": "Wide-eyed protest speaker at a press-microphone rally, with labels on people around him",
+  "specificity": "Bangladesh-wide",
+  "note": "Footage of a real political protest speaker (likely 2024 movement); political sensitivity."
+ },
+ {
+  "file": "media/2230556004179816.jpg",
+  "type": "photo",
+  "text": "",
+  "situation": "A plain selfie photo of a middle-aged man in glasses.",
+  "why_relatable": "Probably a teacher or known person from the school; meaning is in the post caption.",
+  "card": "Not a meme (plain photo)",
+  "characters": [
+   "man (possibly a teacher)"
+  ],
+  "setting": "unknown",
+  "moment": "unknown",
+  "audience_feeling": [
+   "neutral"
+  ],
+  "butt_of_joke": "none",
+  "angle": "tribute",
+  "joke_mechanism": [],
+  "template_used": "Plain portrait photo",
+  "specificity": "only your school",
+  "note": "Real person, unnamed; could be a tribute or obituary, check post caption before reuse."
+ },
+ {
+  "file": "media/234341923017012.mp4",
+  "type": "video",
+  "text": "",
+  "situation": "Students in uniform climb over the school wall one after another to bunk class.",
+  "why_relatable": "Jumping the boundary wall to escape school is the classic bunking move everyone did or watched.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "students"
+  ],
+  "setting": "school boundary wall",
+  "moment": "during school hours",
+  "audience_feeling": [
+   "nostalgic",
+   "amused"
+  ],
+  "butt_of_joke": "bunking students",
+  "angle": "nostalgic",
+  "joke_mechanism": [
+   "exaggeration"
+  ],
+  "template_used": "Viral clip of uniformed students climbing over a school wall",
+  "specificity": "Bangladesh-wide",
+  "note": "No on-screen text; punchline probably in post caption."
+ },
+ {
+  "file": "media/2357712728057776.mp4",
+  "type": "video",
+  "text": "",
+  "situation": "An elderly bearded man gives a speech into a microphone at a 2005 batch celebration event.",
+  "why_relatable": "Probably a former teacher's emotional or funny speech at a batch reunion; context is in the post caption.",
+  "card": "Unclassified (needs post caption)",
+  "characters": [
+   "elderly speaker (possibly former teacher)",
+   "alumni"
+  ],
+  "setting": "batch reunion stage",
+  "moment": "batch 2005 reunion / celebration",
+  "audience_feeling": [
+   "nostalgic"
+  ],
+  "butt_of_joke": "unknown",
+  "angle": "nostalgic",
+  "joke_mechanism": [],
+  "template_used": "Real event footage of a speech at a reunion",
+  "specificity": "only your school",
+  "note": "Real person; no text and transcript is garbage. Check post caption."
+ },
+ {
+  "file": "media/2538841859654303.mp4",
+  "type": "video",
+  "text": "পরীক্ষা শেষ হওয়ার ১ মিনিট আগে যখন উত্তরগুলো মনে পরতে থাকে",
+  "situation": "One minute before the exam ends, all the answers suddenly start coming back to you.",
+  "why_relatable": "Everyone has blanked for three hours and then remembered everything just as the bell was about to ring.",
+  "card": "Exam hall struggles",
+  "characters": [
+   "me"
+  ],
+  "setting": "exam hall",
+  "moment": "last minute of an exam",
+  "audience_feeling": [
+   "relatable pain",
+   "amused"
+  ],
+  "butt_of_joke": "me",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "irony",
+   "exaggeration"
+  ],
+  "template_used": "American Psycho – Patrick Bateman slow zoom stare",
+  "specificity": "universal",
+  "note": ""
+ },
+ {
+  "file": "media/286445544197930.jpg",
+  "type": "photo",
+  "text": "বাংলা সাজেশন — ভাবসম্প্রসারণ, রচনা (ভাষা আন্দোলন, স্বাধীনতা দিবস, প্রাকৃতিক দুর্যোগ…), অনুচ্ছেদঃ মেইন বই",
+  "situation": "A screenshot of a phone note listing the Bangla exam suggestion (expansion of ideas, essays, paragraphs) is shared before the exam.",
+  "why_relatable": "Before every exam, students hunt for and forward the 'suggestion' so they don't have to study the whole book; 'paragraph: main book' is the usual unhelpful line.",
+  "card": "Not a meme (shared exam suggestion)",
+  "characters": [
+   "students",
+   "Bangla teacher (implied)"
+  ],
+  "setting": "phone notes / group chat",
+  "moment": "exam week",
+  "audience_feeling": [
+   "relief",
+   "panic"
+  ],
+  "butt_of_joke": "none (maybe the sloppy suggestion)",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "irony"
+  ],
+  "template_used": "screenshot of a Google Keep note",
+  "specificity": "Bangladesh-wide",
+  "note": "Probably a genuine suggestion post; the typos and jumbled proverbs may be the joke. Purpose is likely explained in the post caption."
+ },
+ {
+  "file": "media/294446426934519.mp4",
+  "type": "video",
+  "text": "মডেলের মেয়েরা বুঝাতে চাচ্ছে কেন মডেল বিবাড়িয়ার সেরা স্কুল...",
+  "situation": "Students of a rival school try to explain why their school is the best in the district, and their arguments make no sense.",
+  "why_relatable": "Every school in town claims to be the best, and students love watching the rival school's claims fall apart.",
+  "card": "Rivalry / comparison with neighbouring girls' schools",
+  "characters": [
+   "rival school students (Model girls' school)",
+   "reporter"
+  ],
+  "setting": "street interview",
+  "moment": "anytime (rivalry debate)",
+  "audience_feeling": [
+   "amusement",
+   "smugness"
+  ],
+  "butt_of_joke": "rival girls' school (Model)",
+  "angle": "mocking rival",
+  "joke_mechanism": [
+   "irony",
+   "comparison"
+  ],
+  "template_used": "viral rainy-night TV vox-pop clip of a boy rambling to a reporter in a PPE suit",
+  "specificity": "only your area",
+  "note": "Targets a real neighbouring girls' school."
+ },
+ {
+  "file": "media/317523207062228.mp4",
+  "type": "video",
+  "text": "song plays",
+  "situation": "Shots of the school gate, buildings, field and empty classroom are cut against a smiling, dreamy guy remembering the old days.",
+  "why_relatable": "Ex-students and seniors get hit with nostalgia every time they see the school campus they once wanted to escape.",
+  "card": "School nostalgia",
+  "characters": [
+   "ex-students"
+  ],
+  "setting": "school campus (gate, field, classroom)",
+  "moment": "after leaving school / holidays",
+  "audience_feeling": [
+   "nostalgia",
+   "warmth"
+  ],
+  "butt_of_joke": "none",
+  "angle": "nostalgic",
+  "joke_mechanism": [
+   "exaggeration"
+  ],
+  "template_used": "smiling headphone guy reaction cut with campus photos, 'Night Changes' song",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/3248268445386750.mp4",
+  "type": "video",
+  "text": "পড়াশোনা করতে গিয়ে জেলার বাইরে যখন কোনো অন্নদিয়ান এর সাথে দেখা হয়",
+  "situation": "While studying in another district, you unexpectedly meet someone from your old school and greet them like a long-lost brother.",
+  "why_relatable": "Far from home, any fellow ex-student feels like family and you both instantly bond over the school.",
+  "card": "School pride vs reality",
+  "characters": [
+   "ex-students (Annadians)"
+  ],
+  "setting": "university / another district",
+  "moment": "after SSC/HSC, university life",
+  "audience_feeling": [
+   "pride",
+   "belonging"
+  ],
+  "butt_of_joke": "none",
+  "angle": "proud",
+  "joke_mechanism": [
+   "exaggeration",
+   "absurd over-reaction"
+  ],
+  "template_used": "Jack Sparrow ship scene and a man frantically waving a white flag on a boat mast",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/3278528539060292.mp4",
+  "type": "video",
+  "text": "Ghosts From Different Countries — Bangladesh: Shakchunni (photo of Govt. Model Girls High School)",
+  "situation": "In a 'ghosts of different countries' list, the rival girls' school is placed as Bangladesh's ghost.",
+  "why_relatable": "Boys' school students constantly tease the neighbouring girls' school, and slipping them into an unrelated list is a classic jab.",
+  "card": "Rivalry / comparison with neighbouring girls' schools",
+  "characters": [
+   "rival girls' school students"
+  ],
+  "setting": "online (TikTok list)",
+  "moment": "anytime",
+  "audience_feeling": [
+   "amusement",
+   "shock"
+  ],
+  "butt_of_joke": "rival girls' school (Model)",
+  "angle": "mocking rival",
+  "joke_mechanism": [
+   "sudden consequence",
+   "comparison"
+  ],
+  "template_used": "TikTok 'Ghosts from different countries' scrolling list with an edited-in photo",
+  "specificity": "only your area",
+  "note": "Sensitive: compares real girls (identifiable photo) to a ghost, which is a looks-based insult."
+ },
+ {
+  "file": "media/3288333558069306.mp4",
+  "type": "video",
+  "text": "আবুল হোসেন স্যার ম্যাথ সলভ করতেসে... স্যার এর প্রাইভেটের মেয়েরা... In a parallel universe!!",
+  "situation": "A math teacher solves problems like a kung-fu hero and the girls in his private batch swoon over him, but only in a parallel universe.",
+  "why_relatable": "Students know their strict, ordinary math teacher will never be the cool hero his private-tuition fans imagine.",
+  "card": "Teacher fan club",
+  "characters": [
+   "Abul Hossen sir",
+   "girls in his private tuition batch"
+  ],
+  "setting": "classroom / private tuition",
+  "moment": "math class",
+  "audience_feeling": [
+   "amusement"
+  ],
+  "butt_of_joke": "Abul Hossen sir",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "expectation vs reality",
+   "exaggeration"
+  ],
+  "template_used": "Kung Fu Panda Po 'too awesome' scene with swooning bunnies, 'parallel universe' ending",
+  "specificity": "only your school",
+  "note": "Real teacher named; affectionate roast."
+ },
+ {
+  "file": "media/3340944186210475.mp4",
+  "type": "video",
+  "text": "আবুল হোসেন স্যার ক্লাস সেভেনের প্রশ্নে ক্লাস ৯-১০ এর প্রশ্ন ঢুকিয়ে দেওয়ার পর অন্নদিয়ানসঃ",
+  "situation": "A teacher puts class 9-10 level questions in the class 7 exam and students stare at the paper in disbelief, then break down.",
+  "why_relatable": "Everyone has faced a question paper with things never taught in class, set by the one tough teacher.",
+  "card": "Impossible / tricky exam questions",
+  "characters": [
+   "Abul Hossen sir",
+   "class 7 students"
+  ],
+  "setting": "exam hall",
+  "moment": "exam (class 7)",
+  "audience_feeling": [
+   "panic",
+   "frustration"
+  ],
+  "butt_of_joke": "students (and the teacher who set the paper)",
+  "angle": "complaining",
+  "joke_mechanism": [
+   "absurd over-reaction",
+   "exaggeration"
+  ],
+  "template_used": "Ghajini hospital scene: Aamir Khan reads a notebook, screams and cries",
+  "specificity": "only your school",
+  "note": "Real teacher named."
+ },
+ {
+  "file": "media/343009748474180.jpg",
+  "type": "photo",
+  "text": "POV: ITS শরীফ স্যারের ক্লাস — মাথা ডা নষ্ট — লাগা বেত শপাশপ",
+  "situation": "In a strict teacher's class, one wrong move gets a student beaten with a cane while classmates watch in horror.",
+  "why_relatable": "Every school has the teacher whose catchphrase means the cane is coming, and everyone flinches together.",
+  "card": "Teacher's pet topic / instant punishment",
+  "characters": [
+   "Sharif sir",
+   "students"
+  ],
+  "setting": "classroom",
+  "moment": "during class",
+  "audience_feeling": [
+   "fear",
+   "amusement"
+  ],
+  "butt_of_joke": "student being caned (and the teacher's temper)",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "sudden consequence",
+   "exaggeration"
+  ],
+  "template_used": "stock photo of a teacher slapping a student in an African classroom, with teacher's catchphrases",
+  "specificity": "only your school",
+  "note": "Corporal punishment theme; real teacher named."
+ },
+ {
+  "file": "media/343483345093487.jpg",
+  "type": "photo",
+  "text": "মাথা নষ্ট! কি ডিসপ্লে! লাগা বিড়ি",
+  "situation": "A well-known teacher's photo is captioned with his famous catchphrases.",
+  "why_relatable": "Students instantly recognise and repeat a teacher's signature lines.",
+  "card": "Teacher fan club",
+  "characters": [
+   "teacher (real photo)"
+  ],
+  "setting": "school campus",
+  "moment": "anytime",
+  "audience_feeling": [
+   "recognition",
+   "amusement"
+  ],
+  "butt_of_joke": "the teacher (affectionately)",
+  "angle": "tribute",
+  "joke_mechanism": [
+   "meta"
+  ],
+  "template_used": "real teacher photo with Impact-style catchphrase text",
+  "specificity": "only your school",
+  "note": "Real identifiable teacher photo; name not written (catchphrase same as the Sharif sir meme, so likely him)."
+ },
+ {
+  "file": "media/343971291711359.jpg",
+  "type": "photo",
+  "text": "অন্নদা সরকারি উচ্চ বিদ্যালয় — Annada Pain — ব্রাহ্মণবাড়িয়া",
+  "situation": "The page's own logo.",
+  "why_relatable": "n/a",
+  "card": "Not a meme (page logo)",
+  "characters": [],
+  "setting": "n/a",
+  "moment": "n/a",
+  "audience_feeling": [
+   "belonging"
+  ],
+  "butt_of_joke": "none",
+  "angle": "proud",
+  "joke_mechanism": [],
+  "template_used": "circular stamp logo",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/351835723715381.mp4",
+  "type": "video",
+  "text": "সিনিয়র ভাইদের হাতে মারধোর খাওয়ার পর জেলায় ফিরে ছোট ভাইদের সামনে যখন আমরা নিজেরা ভার্সিটির সিনিয়র ভাই",
+  "situation": "After getting ragged by seniors at university, ex-students come home and act like cool varsity seniors in front of their school juniors.",
+  "why_relatable": "Everyone has seen the 'varsity bhai' who shows off at home while keeping quiet about how he's treated on campus.",
+  "card": "Senior–junior batch hierarchy",
+  "characters": [
+   "ex-students / varsity seniors",
+   "school juniors"
+  ],
+  "setting": "hometown / school area",
+  "moment": "university holidays",
+  "audience_feeling": [
+   "amusement",
+   "recognition"
+  ],
+  "butt_of_joke": "the ex-students themselves",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "expectation vs reality",
+   "irony"
+  ],
+  "template_used": "stylish Shiba Inu in jackets and sunglasses montage",
+  "specificity": "Bangladesh-wide",
+  "note": "Mentions ragging (beating by seniors)."
+ },
+ {
+  "file": "media/356423930257644.mp4",
+  "type": "video",
+  "text": "after threatening the sixth-grade students with TC for making noise in the class..",
+  "situation": "A teacher threatens class 6 kids with a transfer certificate just for making noise, then celebrates the power trip.",
+  "why_relatable": "Juniors get the most dramatic threats ('I'll give you TC!') for the smallest offences, and teachers seem to enjoy it.",
+  "card": "Teacher's pet topic / instant punishment",
+  "characters": [
+   "teacher",
+   "class 6 students"
+  ],
+  "setting": "classroom / school gate",
+  "moment": "during class",
+  "audience_feeling": [
+   "amusement",
+   "fear"
+  ],
+  "butt_of_joke": "teacher",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "absurd over-reaction",
+   "exaggeration"
+  ],
+  "template_used": "viral man in suit dancing, green-screened in front of the school gate",
+  "specificity": "Bangladesh-wide",
+  "note": "Which teacher is meant is probably in the post caption."
+ },
+ {
+  "file": "media/356773193942054.mp4",
+  "type": "video",
+  "text": "School palaite giye ultapashe forida mam ke dekhar por...",
+  "situation": "Students trying to escape school spot a teacher on the other side and scramble to hide or get back in.",
+  "why_relatable": "Bunking always seems perfectly planned until the one teacher you fear appears at the exit.",
+  "card": "Bunking & getting caught",
+  "characters": [
+   "Forida mam",
+   "students"
+  ],
+  "setting": "school wall / window / gate",
+  "moment": "school hours (bunking)",
+  "audience_feeling": [
+   "panic",
+   "amusement"
+  ],
+  "butt_of_joke": "bunking students",
+  "angle": "self-mocking",
+  "joke_mechanism": [
+   "sudden consequence",
+   "expectation vs reality"
+  ],
+  "template_used": "clips of people climbing out of a building and a guy peeking through window bars",
+  "specificity": "only your school",
+  "note": "Forida mam is named (appears to be the headmaster in another meme)."
+ },
+ {
+  "file": "media/357234500385038.jpg",
+  "type": "photo",
+  "text": "Hey polapainz — Batch koto tumader? — 18 — Sorry Vhaiya Ra 😓",
+  "situation": "Someone messages the page casually as if the admins are juniors, asks their batch, and quickly apologises after learning they are seniors.",
+  "why_relatable": "Batch year decides who is 'bhai', and finding out you just talked down to seniors is an instant cringe moment.",
+  "card": "Senior–junior batch hierarchy",
+  "characters": [
+   "junior student",
+   "page admins (seniors)"
+  ],
+  "setting": "Messenger / page inbox",
+  "moment": "anytime",
+  "audience_feeling": [
+   "amusement",
+   "cringe"
+  ],
+  "butt_of_joke": "the junior who messaged",
+  "angle": "roast",
+  "joke_mechanism": [
+   "sudden consequence",
+   "role reversal"
+  ],
+  "template_used": "page inbox chat screenshot",
+  "specificity": "Bangladesh-wide",
+  "note": "Real chat; sender's identity is hidden."
+ },
+ {
+  "file": "media/365543456220809.jpg",
+  "type": "photo",
+  "text": "(no caption) — three teachers above the three-headed dragon meme",
+  "situation": "Three teachers in one photo are matched with a three-headed dragon: two fierce, one goofy.",
+  "why_relatable": "Students know which teachers are the strict ones and which one is the fun, silly one.",
+  "card": "Teacher personality types",
+  "characters": [
+   "three teachers (real photo)"
+  ],
+  "setting": "school seminar / event",
+  "moment": "school event",
+  "audience_feeling": [
+   "amusement",
+   "recognition"
+  ],
+  "butt_of_joke": "teachers",
+  "angle": "mocking teacher",
+  "joke_mechanism": [
+   "comparison"
+  ],
+  "template_used": "three-headed dragon (Ghidorah) meme, two serious heads and one derpy head",
+  "specificity": "only your school",
+  "note": "Real identifiable teachers, no names written."
+ },
+ {
+  "file": "media/372859718822516.jpg",
+  "type": "photo",
+  "text": "চিন্তা নাই, দুলাল স্যার প্রশ্ন করবে... নিচের কোনটা লাল? ১:লাল ২:নীল",
+  "situation": "Students relax because an easygoing teacher is setting the question paper, then find a trick question that sounds easy but isn't.",
+  "why_relatable": "Feeling safe because a 'soft' teacher sets the paper, then being stumped by a deliberately confusing question.",
+  "card": "Impossible / tricky exam questions",
+  "characters": [
+   "Dulal sir",
+   "students"
+  ],
+  "setting": "exam hall",
+  "moment": "exam",
+  "audience_feeling": [
+   "shock",
+   "amusement"
+  ],
+  "butt_of_joke": "students (and Dulal sir's tricks)",
+  "angle": "complaining",
+  "joke_mechanism": [
+   "expectation vs reality",
+   "wordplay"
+  ],
+  "template_used": "Joey (Friends) relaxed-then-shocked two-panel with the 'which is red' colour trick",
+  "specificity": "only your school",
+  "note": ""
+ },
+ {
+  "file": "media/372914238817064.jpg",
+  "type": "photo",
+  "text": "What is your SSC batch? — yes. Who is/was your Headmaster? — Foridanasmin",
+  "situation": "Someone asking to join the school group answers the batch question with 'yes' but names the headmaster correctly.",
+  "why_relatable": "Group admins see silly answers to screening questions every day, and 'yes' is the classic careless reply.",
+  "card": "Page / group admin life",
+  "characters": [
+   "group join requester",
+   "admins",
+   "headmaster (Farida Nasmin)"
+  ],
+  "setting": "Facebook group join requests",
+  "moment": "anytime",
+  "audience_feeling": [
+   "amusement"
+  ],
+  "butt_of_joke": "the requester",
+  "angle": "roast",
+  "joke_mechanism": [
+   "irony",
+   "absurd over-reaction"
+  ],
+  "template_used": "Facebook join-request screenshot plus Wojak mask vs Chad 'Yes' meme",
+  "specificity": "universal",
+  "note": "Real requester is blacked out; the headmaster's name appears."
+ },
+ {
+  "file": "media/3729221944003382.mp4",
+  "type": "video",
+  "text": "Annada Charan After making the best School of BBARIA",
+  "situation": "The school's founder is shown taking a victory walk in front of a huge crowd after creating the best school in the district.",
+  "why_relatable": "Students take great pride in their old, famous school and like to credit its founder in a fun way.",
+  "card": "School pride vs reality",
+  "characters": [
+   "school founder (Annada Charan)"
+  ],
+  "setting": "concert stage (edited)",
+  "moment": "anytime / school anniversary",
+  "audience_feeling": [
+   "pride",
+   "amusement"
+  ],
+  "butt_of_joke": "none (rival schools implied)",
+  "angle": "proud",
+  "joke_mechanism": [
+   "exaggeration",
+   "role reversal"
+  ],
+  "template_used": "founder's portrait cut out onto a rockstar's swaggering walk before a festival crowd",
+  "specificity": "only your school",
+  "note": "Uses the historical founder's image."
+ }
 ]
