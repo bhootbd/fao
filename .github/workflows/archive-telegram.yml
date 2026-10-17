@@ -3,12 +3,12 @@ name: Archive Telegram channel
 on:
   push:
     branches: [claude/pensive-newton-1m0wgi]
-    paths: [scripts/tg_scrape.py, .github/workflows/archive-telegram.yml]
+    paths: [scripts/tg_scrape.py, .github/workflows/archive-telegram.yml, archive/channels.txt]
   workflow_dispatch:
     inputs:
       channel:
-        description: Public channel username
-        default: Meme_Template_bd
+        description: Public channel username (empty = every channel in archive/channels.txt)
+        default: ""
 
 permissions:
   contents: write
@@ -34,12 +34,18 @@ jobs:
         env:
           CHECKPOINT_EVERY: "50"
           CHECKPOINT_CMD: git add archive && git commit -qm "Archive progress" && git pull -q --rebase && git push -q
-        run: python scripts/tg_scrape.py "${{ inputs.channel || 'Meme_Template_bd' }}"
+        run: |
+          channels="${{ inputs.channel }}"
+          [ -n "$channels" ] || channels=$(grep -v '^#' archive/channels.txt)
+          for ch in $channels; do
+            echo "=== $ch ==="
+            python scripts/tg_scrape.py "$ch"
+          done
       - name: Commit archive
         if: always()
         run: |
           git add archive
           git diff --cached --quiet && exit 0
-          git commit -m "Archive Telegram channel ${{ inputs.channel || 'Meme_Template_bd' }}"
+          git commit -m "Archive Telegram channels"
           git pull --rebase
           git push
