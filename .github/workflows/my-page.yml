@@ -1,0 +1,65 @@
+name: Fetch my page memes
+
+# Downloads the Drive files listed in my_page/drive_ids.txt (the folder must be shared as
+# "Anyone with the link can view"), transcribes the videos, and commits both to my_page/.
+on:
+  push:
+    branches: [claude/pensive-newton-1m0wgi]
+    paths: [my_page/drive_ids.txt, .github/workflows/my-page.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: my-page
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts
+            my_page
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install gdown faster-whisper==1.1.1 "av<14" requests
+      - name: Download from Drive
+        run: |
+          mkdir -p my_page/media
+          failed=0
+          while IFS=$'\t' read -r id name; do
+            case "$id" in ''|\#*) continue ;; esac
+            [ -s "my_page/media/$name" ] && continue
+            gdown --quiet "$id" -O "my_page/media/$name" || { echo "FAILED: $name ($id)"; failed=$((failed+1)); }
+          done < my_page/drive_ids.txt
+          echo "failed downloads: $failed"
+          ls my_page/media | wc -l
+          [ "$(ls my_page/media | wc -l)" -gt 0 ]
+      - name: Transcribe videos
+        run: |
+          if ls my_page/media/*.mp4 >/dev/null 2>&1; then
+            python scripts/transcribe.py my_page/media my_page/new_transcripts.json 0 1
+            python3 - <<'PY'
+          import json, os
+          path = "my_page/transcripts.json"
+          old = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else {}
+          old.update(json.load(open("my_page/new_transcripts.json", encoding="utf-8")))
+          json.dump(dict(sorted(old.items())), open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          os.remove("my_page/new_transcripts.json")
+          PY
+          fi
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add my_page
+          git diff --cached --quiet && exit 0
+          git commit -m "Add my page memes from Drive"
+          git pull --rebase
+          git push
